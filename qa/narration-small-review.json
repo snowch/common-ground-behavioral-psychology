@@ -1,0 +1,372 @@
+{
+  "method": "Independent tiny.en full screening plus small.en checks of flags and chapter samples, run in disjoint shards. Not human listening approval.",
+  "clips": [
+    {
+      "id": "c01s03",
+      "expected": "Behaviour: an action defined for observation. Operational definition: a stated procedure for identifying or measuring something. Frequency: number of defined events in a period.\n\nDescribe what happened rather than starting with a character judgment. Define whether a return means placing the tool in its marked location before leaving.\n\nA count also needs opportunities and a time period. Ten missed returns mean different things after ten uses and after a thousand.",
+      "heard": "Behavior, an action defined for observation. Operational definition, a stated procedure for identifying or measuring something. Frequency, number of defined events in a period. Describe what happened rather than starting with a character judgment. Define whether a return means placing the tool in its marked location before leaving. Account also needs opportunities and a time period. 10 missed returns mean different things after 10 uses and after a thousand.",
+      "ratio": 0.9784,
+      "model": "small.en",
+      "duration": 31.167,
+      "wpm": 140.6,
+      "peak": 0.653350830078125,
+      "flags": [],
+      "raw_sha256": "b39138ef8841dfd51973dd6c8efbfd242a3770b40d68732549d7cc1f323e0cb9"
+    },
+    {
+      "id": "c01s05",
+      "expected": "Behavioural research needs observable definitions, suitable comparisons and ethical procedures. A label such as lazy does not specify the conditions maintaining an action.\n\nA baseline is descriptive evidence. Causation requires additional design and consideration of alternative changes.",
+      "heard": "Behavioral research needs observable definitions, suitable comparisons, and ethical procedures. A label such as Lazy does not specify the conditions maintaining an action. A baseline is descriptive evidence. Causation requires additional design and consideration of alternative changes.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 19.85,
+      "wpm": 115.6,
+      "peak": 0.638946533203125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "204ea8febe63051552cc854c07635812a090d9f0315c2a3d287c7b84e80bd436"
+    },
+    {
+      "id": "c02s03",
+      "expected": "Unconditioned stimulus: stimulus eliciting a response without the relevant learning. Unconditioned response: response elicited by that stimulus.\n\nIn classical conditioning, experience with related events can change responding to a cue. An initially neutral cue can acquire predictive significance.\n\nFood-related responses are a familiar example, but the precise response and prior learning must be specified. The kettle scene is an illustration, not a controlled conditioning experiment.",
+      "heard": "Unconditioned stimulus, stimulus eliciting a response without the relevant learning. Unconditioned response, response elicited by that stimulus. In classical conditioning, experience with related events can change responding to a cue. An initially neutral cue can acquire predictive significance. Food-related responses are a familiar example, but the precise response and prior learning must be specified. The cattle scene is an illustration, not a controlled conditioning experiment.",
+      "ratio": 0.9848,
+      "model": "small.en",
+      "duration": 32.703,
+      "wpm": 126.1,
+      "peak": 0.509796142578125,
+      "flags": [],
+      "raw_sha256": "5c96c833976423e659d9557894322e6f1b9a112d54af86f9109557d5bbc5403d"
+    },
+    {
+      "id": "c03s03",
+      "expected": "Operant conditioning: learning involving action-consequence relations.\n\nReinforcement and punishment are defined by effects on future behaviour, not by whether a consequence sounds kind or harsh. An intended reward may fail to reinforce.\n\nSpecify the action, the consequence and the change over comparable opportunities. A single occurrence is not enough to establish a lasting effect.",
+      "heard": "Operant conditioning, learning involving action-consequence relations. Reinforcement and punishment are defined by effects on future behavior, not by whether a consequence sounds kind or harsh. An intended reward may fail to reinforce. Specify the action, the consequence, and the change over comparable opportunities. A single occurrence is not enough to establish a lasting effect.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 26.217,
+      "wpm": 132.4,
+      "peak": 0.570159912109375,
+      "flags": [],
+      "raw_sha256": "3491e5f1c2290b484c28024bb1a7ad3dd8cc8decc92f9b9cbf1c1bbb6c94926e"
+    },
+    {
+      "id": "c04s03",
+      "expected": "Shaping: reinforcing successive approximations to a target. Successive approximation: a step closer to the target behaviour. Criterion: the defined standard for a response.\n\nChoose a meaningful target, then recognize progress toward it using clear criteria. An approximation should move toward the intended skill rather than reward a superficial proxy.\n\nFor Jo, naming one accurate observation is a better first step than speaking quickly. Increase demands as the skill becomes reliable.",
+      "heard": "Shaping, reinforcing successive approximations to a target. Successive approximation, a step closer to the target behavior. Criterion, the defined standard for a response. Choose a meaningful target, then recognize progress toward it using clear criteria. An approximation should move toward the intended skill rather than reward a superficial proxy. For Joe, naming one accurate observation is a better first step than speaking quickly. Increase demands as the skill becomes reliable.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 33.428,
+      "wpm": 130.7,
+      "peak": 0.72174072265625,
+      "flags": [],
+      "raw_sha256": "d668895fbf3246d89cf67f98bdf63b8119126c0a1c713184b3fc1b27ad894418"
+    },
+    {
+      "id": "c05s03",
+      "expected": "Continuous reinforcement: reinforcing every eligible response. Intermittent reinforcement: reinforcing some eligible responses. Reinforcement schedule: rule relating responses and consequences.\n\nA schedule describes when a consequence is available in relation to action or time. It does not tell us whether the consequence actually reinforces for this person.\n\nLearning history, task requirements and access also matter. State the arrangement before predicting an effect.",
+      "heard": "Continuous reinforcement, reinforcing every eligible response. Intermittent reinforcement, reinforcing some eligible responses. Reinforcement schedule, rule relating responses and consequences. A schedule describes when a consequence is available in relation to action or time. It does not tell us whether the consequence actually reinforces for this person. Learning history, task requirements and access also matter. State the arrangement before predicting an effect.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 31.999,
+      "wpm": 119.2,
+      "peak": 0.642974853515625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "e5c8d3ef6dd42df719357459d001b5a7c101c814e695d474eda2a1ab07103b20"
+    },
+    {
+      "id": "c05s05",
+      "expected": "Classic schedule findings come from defined experimental contingencies. Human behaviour also reflects instructions, goals, relationships and competing outcomes.\n\nDo not use schedule research to justify addictive or deceptive design. The course evaluates claims rather than providing a manipulation playbook.",
+      "heard": "Classic schedule findings come from defined experimental contingencies. Human behavior also reflects instructions, goals, relationships, and competing outcomes. Do not use schedule research to justify addictive or deceptive design. The course evaluates claims rather than providing a manipulation playbook.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 21.066,
+      "wpm": 114.6,
+      "peak": 0.49371337890625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "ea77b97c4f3d2c053095e8f5bac496a3f8369ba6c582d9573c1ddee3ef127a3e"
+    },
+    {
+      "id": "c05s06-feedback-0",
+      "expected": "A fixed response count, not elapsed time, defines a fixed ratio.",
+      "heard": "A fixed response count, not elapsed time, defines a fixed ratio.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 5.096,
+      "wpm": 161.1,
+      "peak": 0.472198486328125,
+      "flags": [],
+      "raw_sha256": "bcb880dbbd672d9bf521cc78a302e2fcfa4963747a8864b6e0b82accd848e0dc"
+    },
+    {
+      "id": "c06s02-feedback-2",
+      "expected": "Time, context and outcome exposure are distinguishable factors.",
+      "heard": "Time, context, and outcome exposure are distinguishable factors.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.245,
+      "wpm": 113.1,
+      "peak": 0.373931884765625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "e90f8d96dbbd20f92061709d4d210629228380a476882a39481c79faf7b7f361"
+    },
+    {
+      "id": "c06s03",
+      "expected": "In classical extinction, the cue occurs without the expected outcome. In operant extinction, the action no longer produces the maintaining reinforcer.\n\nReduced responding does not necessarily mean the earlier learning was erased. New learning may be specific to a context and compete with the older relation.",
+      "heard": "In classical extinction, the cue occurs without the expected outcome. In operant extinction, the action no longer produces the maintaining reinforcer. Reduced responding does not necessarily mean the earlier learning was erased. New learning may be specific to a context and compete with the older relation.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 19.85,
+      "wpm": 143.7,
+      "peak": 0.797088623046875,
+      "flags": [],
+      "raw_sha256": "840136033d7bdd9d06c21e208ee13d7d8e75bd5df802e02da6c418e8ec7b0a95"
+    },
+    {
+      "id": "c06s06-feedback-2",
+      "expected": "Shaping concerns successive approximations, not context-related return.",
+      "heard": "Shaping concerns successive approximations, not context-related return.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 5.715,
+      "wpm": 101.8,
+      "peak": 0.3651123046875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "b3c739686d4ad3ea87039ff861e734e17f7fc7f2446d635c770ad729aff67b03"
+    },
+    {
+      "id": "c07s02-feedback-1",
+      "expected": "The alternative features generate testable accounts.",
+      "heard": "The alternative features generate testable accounts.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.264,
+      "wpm": 110.3,
+      "peak": 0.4156494140625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "a881fa6a8e7d206d76e7714b6a9ae8a6d19eba103e8a7ea0c0d3dc76b2444d82"
+    },
+    {
+      "id": "c07s03",
+      "expected": "Stimulus generalization: learned responding to related stimuli. Generalization gradient: response pattern across stimulus differences.\n\nA learned response may occur to cues similar to the original. The relevant similarity can concern appearance, meaning or context.\n\nGeneralization is not guaranteed by a teacher’s intention. Check new cases rather than treating practice with one example as evidence of broad transfer.",
+      "heard": "Stimulus generalization, learned responding to related stimuli. Generalization gradient, response pattern across stimulus differences. A learned response may occur to cues similar to the original. The relevant similarity can concern appearance, meaning, or context. Generalization is not guaranteed by a teacher's intention. Check new cases rather than treating practice with one example as evidence of broad transfer.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 28.713,
+      "wpm": 124.8,
+      "peak": 0.514434814453125,
+      "flags": [],
+      "raw_sha256": "e7b129add219b6b296af7aa42bbabfd586402a94a59fd9e6b75b179d567573a2"
+    },
+    {
+      "id": "c07s05",
+      "expected": "Generalization and discrimination depend on learning history, attention and task structure. Evidence from one cue cannot establish universal stimulus control.\n\nAn everyday comparison with several simultaneous changes leaves causal alternatives unresolved.",
+      "heard": "Generalization and discrimination depend on learning history, attention, and task structure. Evidence from one cue cannot establish universal stimulus control. An everyday comparison with several simultaneous changes leaves causal alternatives unresolved.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 17.738,
+      "wpm": 108.8,
+      "peak": 0.632965087890625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "459a67f0a2ec311c6df09848e4bc5cc410dd2d4f4783f64a19ad6cf88b200cbf"
+    },
+    {
+      "id": "c07s06-feedback-2",
+      "expected": "The set teaches both where the rule transfers and where it stops.",
+      "heard": "The set teaches both where the rule transfers and where it stops.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.648,
+      "wpm": 197.4,
+      "peak": 0.379058837890625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "95c890e3ba92b7a06b17a73fcb09a3fb459d87f35a8e76760ec463963d76df46"
+    },
+    {
+      "id": "c07s07-answers",
+      "expected": "Generalization extends responding to related cues; discrimination differentiates conditions.\n\nIt helps identify where a rule does not apply and reduces overgeneralization.",
+      "heard": "Generalization extends responding to related cues. Discrimination differentiates conditions. It helps identify where a rule does not apply and reduces overgeneralization.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 12.914,
+      "wpm": 111.9,
+      "peak": 0.410003662109375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "fd2efe45c8e59d288142ec607478433f2be4517e671f26996dc651f49c142ee1"
+    },
+    {
+      "id": "c08s02-feedback-0",
+      "expected": "That tests imitation rather than necessarily the strategy.",
+      "heard": "that tests imitation rather than necessarily the strategy.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.712,
+      "wpm": 129.3,
+      "peak": 0.46929931640625,
+      "flags": [],
+      "raw_sha256": "5521df5a1a270040fc2cddfee3aecc6f529b098aa2ad77258c32c0af17db8309"
+    },
+    {
+      "id": "c08s03",
+      "expected": "Observational learning: learning by observing others and outcomes. Model: person or representation being observed.\n\nPeople can learn procedures, expectations and strategies by watching. Imitation is one possible outcome, not the only evidence of learning.\n\nJo may learn which comparison matters while using a different movement. An appropriate new task can test the learned strategy more directly than matching gestures.",
+      "heard": "Observational learning, learning by observing others and outcomes. Model, person or representation being observed. People can learn procedures, expectations and strategies by watching. Imitation is one possible outcome, not the only evidence of learning. Joe may learn which comparison matters while using a different movement. An appropriate new task can test the learned strategy more directly than matching gestures.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 28.329,
+      "wpm": 131.0,
+      "peak": 0.529571533203125,
+      "flags": [],
+      "raw_sha256": "b920567905d65b2346a23b200f1aeea6b3c850e9b8051c7e4c533d34a70f3f78"
+    },
+    {
+      "id": "c08s05",
+      "expected": "Observational-learning studies distinguish acquisition, performance and the effects of observed outcomes. Task, model and social context qualify generalization.\n\nA demonstration’s popularity is not evidence of transfer. Delayed unfamiliar performance provides a stronger check of the intended skill.",
+      "heard": "Observational learning studies distinguish acquisition, performance, and the effects of observed outcomes. Task, model, and social context qualify generalization. A demonstration's popularity is not evidence of transfer. Delayed unfamiliar performance provides a stronger check of the intended skill.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 20.383,
+      "wpm": 115.5,
+      "peak": 0.479766845703125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "619973652ba7cf900785ffa903a2e96f35eacf38fb523ca06bad8cbb74c3e562"
+    },
+    {
+      "id": "c08s06-feedback-0",
+      "expected": "Belief may support action without establishing the skill.",
+      "heard": "Belief may support action without establishing the skill.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.2,
+      "wpm": 150.0,
+      "peak": 0.44012451171875,
+      "flags": [],
+      "raw_sha256": "af18e22b7e20205abf8b215256ff2f23684ddcff013499941478d09ce4cddb5a"
+    },
+    {
+      "id": "c09s02-feedback-2",
+      "expected": "Repetition can support responses with reduced deliberation.",
+      "heard": "Repetition can support responses with reduced deliberation.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.84,
+      "wpm": 109.4,
+      "peak": 0.48077392578125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "3171bef9f49e5fab39bd92b09931220e387f1127b934282afdc78cde41f85326"
+    },
+    {
+      "id": "c09s03",
+      "expected": "Automaticity: reduced need for deliberate control. Intention: a plan or commitment to act.\n\nRepeated actions in stable contexts can become easier to initiate with less deliberation. A habit is not identical to frequency or to a conscious goal.\n\nSam can intend to use the new location while still responding to familiar cues. The pattern suggests a learning history, not a moral defect.",
+      "heard": "Automaticity, reduced need for deliberate control. Intention, a plan or commitment to act. Repeated actions in stable contexts can become easier to initiate with less deliberation. A habit is not identical to frequency or to a conscious goal. SAM can intend to use the new location while still responding to familiar cues. The pattern suggests a learning history, not a moral defect.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 26.687,
+      "wpm": 146.5,
+      "peak": 0.71636962890625,
+      "flags": [],
+      "raw_sha256": "ad12334fdb663e69d95c6f6c184861e5bf54707906fa0cecddc3767e0ef6484e"
+    },
+    {
+      "id": "c09s05",
+      "expected": "Habit research distinguishes cue-linked automaticity, repetition and intention. Development rates vary with action, context and measurement.\n\nSelf-directed routine experiments cannot establish treatment efficacy or explain every persistent behaviour.",
+      "heard": "Habit research distinguishes cue-linked automaticity, repetition, and intention. Development rates vary with action, context, and measurement. Self-directed routine experiments cannot establish treatment efficacy or explain every persistent behavior.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 16.351,
+      "wpm": 114.6,
+      "peak": 0.49298095703125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "ceaddb1755282b5519d95e0ec8dd99c1642a81694b3c8bf70211006202b041fa"
+    },
+    {
+      "id": "c09s06-feedback-0",
+      "expected": "No fixed deadline applies to every action and setting.",
+      "heard": "No fixed deadline applies to every action and setting.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.072,
+      "wpm": 175.8,
+      "peak": 0.487091064453125,
+      "flags": [],
+      "raw_sha256": "467ebec3a11cb6669d0fc3277d764ee0e1e142daf8cdda931a9a2876db83a505"
+    },
+    {
+      "id": "c10s01",
+      "expected": "The café wants more reliable tool returns. Leo proposes hidden monitoring and escalating penalties. Maya suggests asking volunteers about barriers, restoring shelf access and evaluating an agreed procedure.",
+      "heard": "The cafe wants more reliable tool returns. Leo proposes hidden monitoring and escalating penalties. Maya suggests asking volunteers about barriers, restoring shelf access and evaluating an agreed procedure.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 14.059,
+      "wpm": 119.5,
+      "peak": 0.4814453125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "aed12b3cd2000c93448d536291288dae810263f467da3b093f819651d8859a63"
+    },
+    {
+      "id": "c10s03",
+      "expected": "Antecedent: condition preceding an action. Consequence: event following an action. Functional assessment: examining relations between conditions and behaviour.\n\nMap what happens before and after the action, then consider alternatives. A descriptive sequence does not by itself establish a causal function.\n\nThe locked shelf may be a barrier; a reminder may help; social expectations may matter. Use a safe, consensual comparison rather than assuming the first story is correct.",
+      "heard": "antecedent, condition proceeding and action, consequence, event following and action, functional assessment, examining relations between conditions and behavior, map what happens before and after the action, then consider alternatives. A descriptive sequence does not by itself establish a causal function. The locked shelf may be a barrier. A reminder may help. Social expectations may matter. This is safe, consensual comparison, rather than assuming the first story is correct.",
+      "ratio": 0.9265,
+      "model": "small.en",
+      "duration": 31.999,
+      "wpm": 132.9,
+      "peak": 0.574798583984375,
+      "flags": [],
+      "raw_sha256": "bfac07fa8a371a7fb7d4ffa42bdacf45bce097ff8807ce682c8f0b62465ab438"
+    },
+    {
+      "id": "c10s03b",
+      "expected": "Single-case design: repeated measurement within a case under planned conditions. Multiple baseline: staggering introduction across cases or behaviours. Social validity: importance and acceptability of goals and procedures.\n\nRepeated measurement can examine whether change follows an intervention. Replication across appropriately staggered introductions helps address alternative explanations.\n\nDo not withdraw essential support to create a comparison. A meaningful outcome, participant preferences and harms are part of the evaluation, not optional extras.",
+      "heard": "single case design, repeated measurement within a case under planned conditions, multiple baseline, staggering introduction across cases or behaviors, social validity, importance and acceptability of goals and procedures. Repeated measurement can examine whether change follows an intervention. Replication across appropriately staggered introductions helps address alternative explanations. Do not withdraw essential support to create a comparison. A meaningful outcome, participant preferences and harms are part of the evaluation, not optional extras.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 37.119,
+      "wpm": 117.3,
+      "peak": 0.566162109375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "f924eb4dcbd88d10b9c1664eb29224999abc207850835401430e58451c5f16a6"
+    },
+    {
+      "id": "c10s06-feedback-2",
+      "expected": "The conclusion fits the measured setting and points to later checks.",
+      "heard": "The conclusion fits the measured setting and points to later checks.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.456,
+      "wpm": 191.0,
+      "peak": 0.382110595703125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "f5953f672740826b7f3b468e1a95e2ed25911f9f4f53d3693ec28351dc0b4a7a"
+    }
+  ],
+  "flagged": 15
+}

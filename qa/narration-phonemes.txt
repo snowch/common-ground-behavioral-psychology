@@ -1,0 +1,1097 @@
+c01s01
+Leo says Sam is becoming lazy because tools are not returned. Maya notices that the return shelf moved behind a locked door. The team needs a description that can distinguish motivation from access.
+lˈiːoʊ sˈɛz sˈæm ɪz bᵻkˈʌmɪŋ lˈeɪzi bɪkˈʌz tˈuːlz ɑːɹ nˌɑːt ɹᵻtˈɜːnd. mˈaɪə nˈoʊɾɪsᵻz ðætðə ɹᵻtˈɜːn ʃˈɛlf mˈuːvd bᵻhˌaɪnd ɐ lˈɑːkt dˈɔːɹ. ðə tˈiːm nˈiːdz ɐ dᵻskɹˈɪpʃən ðæt kæn dɪstˈɪŋɡwɪʃ mˌoʊɾɪvˈeɪʃən fɹʌm ˈæksɛs.
+
+c01s02
+First, make a prediction about the café story.
+
+Which first step helps distinguish the explanations?
+
+A. Count returns per use before and after the shelf move.
+
+B. Ask which personality label fits Sam.
+
+C. Assume the locked door cannot affect behaviour.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌɪtʃ fˈɜːst stˈɛp hˈɛlps dɪstˈɪŋɡwɪʃ ðɪ ɛksplɐnˈeɪʃənz?   ˈeɪ. kˈaʊnt ɹᵻtˈɜːnz pɜː jˈuːs bᵻfˌɔːɹ ænd ˈæftɚ ðə ʃˈɛlf mˈuːv.   bˈiː. ˈæsk wˌɪtʃ pˌɜːsənˈælᵻɾi lˈeɪbəl fˈɪts sˈæm.   sˈiː. ɐsˈuːm ðə lˈɑːkt dˈɔːɹ kænˈɑːt ɐfˈɛkt bᵻhˈeɪvjɚ.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c01s02-feedback-0
+A defined rate and access record make the contextual explanation testable.
+ɐ dᵻfˈaɪnd ɹˈeɪt ænd ˈæksɛs ɹˈɛkɚd mˌeɪk ðə kəntˈɛkstʃuːəl ɛksplɐnˈeɪʃən tˈɛstəbəl.
+
+c01s02-feedback-1
+The label does not distinguish access from other explanations.
+ðə lˈeɪbəl dʌznˌɑːt dɪstˈɪŋɡwɪʃ ˈæksɛs fɹʌm ˈʌðɚɹ ɛksplɐnˈeɪʃənz.
+
+c01s02-feedback-2
+The door is a relevant condition that should be investigated.
+ðə dˈɔːɹ ɪz ɐ ɹˈɛlᵻvənt kəndˈɪʃən ðæt ʃˌʊd biː ɪnvˈɛstᵻɡˌeɪɾᵻd.
+
+c01s03
+Behaviour: an action defined for observation. Operational definition: a stated procedure for identifying or measuring something. Frequency: number of defined events in a period.
+
+Describe what happened rather than starting with a character judgment. Define whether a return means placing the tool in its marked location before leaving.
+
+A count also needs opportunities and a time period. Ten missed returns mean different things after ten uses and after a thousand.
+bᵻhˈeɪvjɚ: ɐn ˈækʃən dᵻfˈaɪnd fɔːɹ ɑːbzɚvˈeɪʃən. ˌɑːpɚɹˈeɪʃənəl dˌɛfɪnˈɪʃən: ɐ stˈeɪɾᵻd pɹəsˈiːdʒɚ fɔːɹ aɪdˈɛntᵻfˌaɪɪŋ ɔːɹ mˈɛʒɚɹɪŋ sˈʌmθɪŋ. fɹˈiːkwənsi: nˈʌmbɚɹ ʌv dᵻfˈaɪnd ᵻvˈɛnts ɪn ɐ pˈiəɹɪəd.   dᵻskɹˈaɪb wʌt hˈæpənd ɹˈæðɚ ðɐn stˈɑːɹɾɪŋ wɪð ɐ kˈæɹɪktɚ dʒˈʌdʒmənt. dᵻfˈaɪn wˈɛðɚɹ ɐ ɹᵻtˈɜːn mˈiːnz plˈeɪsɪŋ ðə tˈuːl ɪn ɪts mˈɑːɹkt loʊkˈeɪʃən bᵻfˌɔːɹ lˈiːvɪŋ.   ɐ kˈaʊnt ˈɔːlsoʊ nˈiːdz ɑːpɚtˈuːnᵻɾiz ænd ɐ tˈaɪm pˈiəɹɪəd. tˈɛn mˈɪst ɹᵻtˈɜːnz mˈiːn dˈɪfɹənt θˈɪŋz ˈæftɚ tˈɛn jˈuːsᵻz ænd ˈæftɚɹ ɐ θˈaʊzənd.
+
+c01s03b
+Duration: how long a defined event lasts.
+
+A baseline shows current variation rather than assuming a single event is typical. Record time, opportunities and relevant conditions.
+
+A lower return rate could reflect access, instructions or consequences. The baseline describes a pattern; it does not prove which cause produced it.
+dʊɹɹˈeɪʃən: hˌaʊ lˈɔŋ ɐ dᵻfˈaɪnd ᵻvˈɛnt lˈæsts.   ɐ bˈeɪslaɪn ʃˈoʊz kˈɜːɹənt vˌɛɹɪˈeɪʃən ɹˈæðɚ ðɐn ɐsˈuːmɪŋ ɐ sˈɪŋɡəl ᵻvˈɛnt ɪz tˈɪpɪkəl. ɹˈɛkɚd tˈaɪm, ɑːpɚtˈuːnᵻɾiz ænd ɹˈɛlᵻvənt kəndˈɪʃənz.   ɐ lˈoʊɚ ɹᵻtˈɜːn ɹˈeɪt kʊd ɹᵻflˈɛkt ˈæksɛs, ɪnstɹˈʌkʃənz ɔːɹ kˈɑːnsɪkwənsᵻz. ðə bˈeɪslaɪn dᵻskɹˈaɪbz ɐ pˈætɚn; ɪt dʌznˌɑːt pɹˈuːv wˌɪtʃ kˈɔːz pɹədˈuːst ɪt.
+
+c01s04
+Interobserver agreement: consistency between observers using the same definition. Reactivity: behaviour changes because it is observed. Confounding: another factor contributes to a pattern.
+
+Two observers can check whether the definition is usable. Agreement does not by itself prove that the chosen measure captures the intended concept.
+
+Monitoring can change behaviour and raise privacy concerns. Use fictional cases or your own low-stakes actions for course practice; do not covertly track others.
+ˌɪntɚɹəbzˈɜːvɚɹ ɐɡɹˈiːmənt: kənsˈɪstənsi bᵻtwˌiːn əbzˈɜːvɚz jˈuːzɪŋ ðə sˈeɪm dˌɛfɪnˈɪʃən. ɹɪɐktˈɪvᵻɾi: bᵻhˈeɪvjɚ tʃˈeɪndʒᵻz bɪkˈʌz ɪɾ ɪz əbzˈɜːvd. kənfˈaʊndɪŋ: ɐnˈʌðɚ fˈæktɚ kəntɹˈɪbjuːts tʊ ɐ pˈætɚn.   tˈuː əbzˈɜːvɚz kæn tʃˈɛk wˈɛðɚ ðə dˌɛfɪnˈɪʃən ɪz jˈuːzəbəl. ɐɡɹˈiːmənt dʌznˌɑːt baɪ ɪtsˈɛlf pɹˈuːv ðætðə tʃˈoʊzən mˈɛʒɚ kˈæptʃɚz ðɪ ɪntˈɛndᵻd kˈɑːnsɛpt.   mˈɑːnɪɾɚɹɪŋ kæn tʃˈeɪndʒ bᵻhˈeɪvjɚ ænd ɹˈeɪz pɹˈaɪvəsi kənsˈɜːnz. jˈuːs fˈɪkʃənəl kˈeɪsᵻz ɔːɹ jʊɹ ˈoʊn lˈoʊstˈeɪks ˈækʃənz fɔːɹ kˈɔːɹs pɹˈæktɪs; duːnˌɑːt koʊvˈɜːtli tɹˈæk ˈʌðɚz.
+
+c01s05
+Behavioural research needs observable definitions, suitable comparisons and ethical procedures. A label such as lazy does not specify the conditions maintaining an action.
+
+A baseline is descriptive evidence. Causation requires additional design and consideration of alternative changes.
+bᵻhˈeɪvjɚɹəl ɹᵻsˈɜːtʃ nˈiːdz əbzˈɜːvəbəl dˌɛfɪnˈɪʃənz, sˈuːɾəbəl kəmpˈæɹɪsənz ænd ˈɛθɪkəl pɹəsˈiːdʒɚz. ɐ lˈeɪbəl sˈʌtʃ ɐz lˈeɪzi dʌznˌɑːt spˈɛsᵻfˌaɪ ðə kəndˈɪʃənz meɪntˈeɪnɪŋ ɐn ˈækʃən.   ɐ bˈeɪslaɪn ɪz dᵻskɹˈɪptɪv ˈɛvɪdəns. kɔːsˈeɪʃən ɹᵻkwˈaɪɚz ɐdˈɪʃənəl dɪzˈaɪn ænd kənsˌɪdɚɹˈeɪʃən ʌv ɔːltˈɜːnətˌɪv tʃˈeɪndʒᵻz.
+
+c01s06
+Apply the idea to this new fictional case.
+
+One workshop records six missed returns and another records three, but the number of tool uses differs.
+
+What is missing?
+
+A. A denominator and comparable observation window.
+
+B. A stronger judgment about the users.
+
+C. Proof that raw counts measure motivation.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   wˈʌn wˈɜːkʃɑːp ɹˈɛkɚdz sˈɪks mˈɪst ɹᵻtˈɜːnz ænd ɐnˈʌðɚ ɹˈɛkɚdz θɹˈiː, bˌʌt ðə nˈʌmbɚɹ ʌv tˈuːl jˈuːsᵻz dˈɪfɚz.   wˌʌt ɪz mˈɪsɪŋ?   ˈeɪ. ɐ dᵻnˈɑːmᵻnˌeɪɾɚ ænd kˈɑːmpɚɹəbəl ɑːbzɚvˈeɪʃən wˈɪndoʊ.   bˈiː. ɐ stɹˈɔŋɡɚ dʒˈʌdʒmənt ɐbˌaʊt ðə jˈuːzɚz.   sˈiː. pɹˈuːf ðæt ɹˈɔː kˈaʊnts mˈɛʒɚ mˌoʊɾɪvˈeɪʃən.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c01s06-feedback-0
+Counts need opportunities and time to support a fair comparison.
+kˈaʊnts nˈiːd ɑːpɚtˈuːnᵻɾiz ænd tˈaɪm tə səpˈɔːɹt ɐ fˈɛɹ kəmpˈæɹɪsən.
+
+c01s06-feedback-1
+Judgment does not repair the measure.
+dʒˈʌdʒmənt dʌznˌɑːt ɹᵻpˈɛɹ ðə mˈɛʒɚ.
+
+c01s06-feedback-2
+Motivation is an inference, not something the count uniquely records.
+mˌoʊɾɪvˈeɪʃən ɪz ɐn ˈɪnfɚɹəns, nˌɑːt sˈʌmθɪŋ ðə kˈaʊnt juːnˈiːkli ɹˈɛkɚdz.
+
+c01s07
+Try these questions without your notes.
+
+Why operationally define a return?
+
+What does a baseline establish?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌaɪ ˌɑːpɚɹˈeɪʃənəli dᵻfˈaɪn ɐ ɹᵻtˈɜːn?   wˌʌt dˈʌz ɐ bˈeɪslaɪn ɪstˈæblɪʃ?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c01s07-answers
+It states exactly what is counted and under which conditions.
+
+The initial pattern and variation, not a unique explanation of its cause.
+ɪt stˈeɪts ɛɡzˈæktli wʌt ɪz kˈaʊntᵻd ænd ˌʌndɚ wˌɪtʃ kəndˈɪʃənz.   ðɪ ɪnˈɪʃəl pˈætɚn ænd vˌɛɹɪˈeɪʃən, nˌɑːɾə juːnˈiːk ɛksplɐnˈeɪʃən ʌv ɪts kˈɔːz.
+
+c01s08
+Define one harmless action in your own routine. Record opportunities as well as occurrences, without collecting anyone else’s data.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+dᵻfˈaɪn wˈʌn hˈɑːɹmləs ˈækʃən ɪn jʊɹ ˈoʊn ɹuːtˈiːn. ɹˈɛkɚd ɑːpɚtˈuːnᵻɾiz æz wˈɛl æz əkˈɜːɹənsᵻz, wɪðˌaʊt kəlˈɛktɪŋ ˈɛnɪwˌʌn ˈɛlsᵻz dˈeɪɾə.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c02s01
+A café kettle whistles just before hot drinks are served. After repeated pairings, Sam feels anticipation on hearing the whistle even before seeing a cup. Leo says the whistle rewarded Sam.
+ɐ kæfˈeɪ kˈɛɾəl wˈɪsəlz dʒˈʌst bᵻfˌɔːɹ hˈɑːt dɹˈɪŋks ɑːɹ sˈɜːvd. ˈæftɚ ɹᵻpˈiːɾᵻd pˈɛɹɪŋz, sˈæm fˈiːlz æntˈɪsɪpˈeɪʃən ˌɔn hˈɪɹɪŋ ðə wˈɪsəl ˈiːvən bᵻfˌɔːɹ sˈiːɪŋ ɐ kˈʌp. lˈiːoʊ sˈɛz ðə wˈɪsəl ɹᵻwˈɔːɹdᵻd sˈæm.
+
+c02s02
+First, make a prediction about the café story.
+
+Why is reward an imprecise label here?
+
+A. The example concerns a cue predicting an event.
+
+B. Classical conditioning cannot involve food.
+
+C. The response proves a deliberate choice.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌaɪ ɪz ɹᵻwˈɔːɹd ɐn ˌɪmpɹɪsˈaɪs lˈeɪbəl hˈɪɹ?   ˈeɪ. ðɪ ɛɡzˈæmpəl kənsˈɜːnz ɐ kjˈuː pɹɪdˈɪktɪŋ ɐn ᵻvˈɛnt.   bˈiː. klˈæsɪkəl kəndˈɪʃənɪŋ kænˈɑːt ɪnvˈɑːlv fˈuːd.   sˈiː. ðə ɹᵻspˈɑːns pɹˈuːvz ɐ dᵻlˈɪbɚɹət tʃˈɔɪs.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c02s02-feedback-0
+No specific action-consequence relation has been established.
+nˈoʊ spəsˈɪfɪk ˈækʃəŋkˈɑːnsɪkwəns ɹᵻlˈeɪʃən hˈæzbiːn ɪstˈæblɪʃt.
+
+c02s02-feedback-1
+Food can be relevant, but it does not define the learning mechanism alone.
+fˈuːd kæn biː ɹˈɛlᵻvənt, bˌʌt ɪt dʌznˌɑːt dᵻfˈaɪn ðə lˈɜːnɪŋ mˈɛkənˌɪzəm ɐlˈoʊn.
+
+c02s02-feedback-2
+Conditioned responding does not require that inference.
+kəndˈɪʃənd ɹᵻspˈɑːndɪŋ dʌznˌɑːt ɹᵻkwˈaɪɚ ðæt ˈɪnfɚɹəns.
+
+c02s03
+Unconditioned stimulus: stimulus eliciting a response without the relevant learning. Unconditioned response: response elicited by that stimulus.
+
+In classical conditioning, experience with related events can change responding to a cue. An initially neutral cue can acquire predictive significance.
+
+Food-related responses are a familiar example, but the precise response and prior learning must be specified. The kettle scene is an illustration, not a controlled conditioning experiment.
+ʌŋkəndˈɪʃənd stˈɪmjʊləs: stˈɪmjʊləs ᵻlˈɪsᵻɾɪŋ ɐ ɹᵻspˈɑːns wɪðˌaʊt ðə ɹˈɛlᵻvənt lˈɜːnɪŋ. ʌŋkəndˈɪʃənd ɹᵻspˈɑːns: ɹᵻspˈɑːns ᵻlˈɪsᵻɾᵻd baɪ ðæt stˈɪmjʊləs.   ɪn klˈæsɪkəl kəndˈɪʃənɪŋ, ɛkspˈiəɹɪəns wɪð ɹᵻlˈeɪɾᵻd ᵻvˈɛnts kæn tʃˈeɪndʒ ɹᵻspˈɑːndɪŋ tʊ ɐ kjˈuː. ɐn ɪnˈɪʃəli nˈuːtɹəl kjˈuː kæn ɐkwˈaɪɚ pɹɪdˈɪktɪv sɪɡnˈɪfɪkəns.   fˈuːdɹᵻlˈeɪɾᵻd ɹᵻspˈɑːnsᵻz ɑːɹ ɐ fəmˈɪlɪɹ ɛɡzˈæmpəl, bˌʌt ðə pɹɪsˈaɪs ɹᵻspˈɑːns ænd pɹˈaɪɚ lˈɜːnɪŋ mˈʌst biː spˈɛsᵻfˌaɪd. ðə kˈɛɾəl sˈiːn ɪz ɐn ˌɪləstɹˈeɪʃən, nˌɑːɾə kəntɹˈoʊld kəndˈɪʃənɪŋ ɛkspˈɛɹɪmənt.
+
+c02s03b
+Conditioned stimulus: cue that acquires significance through learning. Conditioned response: response elicited by a learned cue. Acquisition: development of a learned response.
+
+If the whistle reliably precedes drinks, it may become a conditioned cue and anticipation a learned response. A learned response need not copy the original response exactly.
+
+Identify what was measured and what other cues were present. Simply noticing a sequence does not establish that this cue caused the response.
+kəndˈɪʃənd stˈɪmjʊləs: kjˈuː ðæt ɐkwˈaɪɚz sɪɡnˈɪfɪkəns θɹuː lˈɜːnɪŋ. kəndˈɪʃənd ɹᵻspˈɑːns: ɹᵻspˈɑːns ᵻlˈɪsᵻɾᵻd baɪ ɐ lˈɜːnᵻd kjˈuː. ɐkwɪsˈɪʃən: dɪvˈɛləpmənt əvə lˈɜːnᵻd ɹᵻspˈɑːns.   ɪf ðə wˈɪsəl ɹᵻlˈaɪəbli pɹɪsˈiːdz dɹˈɪŋks, ɪt mˈeɪ bɪkˌʌm ɐ kəndˈɪʃənd kjˈuː ænd æntˈɪsɪpˈeɪʃən ɐ lˈɜːnᵻd ɹᵻspˈɑːns. ɐ lˈɜːnᵻd ɹᵻspˈɑːns nˈiːd nˌɑːt kˈɑːpi ðɪ ɚɹˈɪdʒɪnəl ɹᵻspˈɑːns ɛɡzˈæktli.   aɪdˈɛntᵻfˌaɪ wʌt wʌz mˈɛʒɚd ænd wʌt ˈʌðɚ kjˈuːz wɜː pɹˈɛzənt. sˈɪmpli nˈoʊɾɪsɪŋ ɐ sˈiːkwəns dʌznˌɑːt ɪstˈæblɪʃ ðæt ðɪs kjˈuː kˈɔːzd ðə ɹᵻspˈɑːns.
+
+c02s04
+Contingency: how one event changes the probability of another. Contiguity: closeness in time or space. Prediction error: difference between expected and observed outcome.
+
+Events close in time are not necessarily informative. A cue predicts an outcome better when the outcome is more likely with the cue than without it.
+
+Researchers compare predictive relations and competing cues. A useful account of learning must explain what the cue adds beyond what is already expected.
+kəntˈɪndʒənsi: hˌaʊ wˈʌn ᵻvˈɛnt tʃˈeɪndʒᵻz ðə pɹˌɑːbəbˈɪlᵻɾi ʌv ɐnˈʌðɚ. kɑːntɪɡjˈuːɪɾi: klˈoʊsnəs ɪn tˈaɪm ɔːɹ spˈeɪs. pɹɪdˈɪkʃən ˈɛɹɚ: dˈɪfɹəns bᵻtwˌiːn ɛkspˈɛktᵻd ænd əbzˈɜːvd ˈaʊtkʌm.   ᵻvˈɛnts klˈoʊs ɪn tˈaɪm ɑːɹ nˌɑːt nˌɛsɪsˈɛɹᵻli ɪnfˈɔːɹmətˌɪv. ɐ kjˈuː pɹɪdˈɪkts ɐn ˈaʊtkʌm bˈɛɾɚ wɛn ðɪ ˈaʊtkʌm ɪz mˈɔːɹ lˈaɪkli wɪððə kjˈuː ðɐn wɪðˈaʊt ɪt.   ɹᵻsˈɜːtʃɚz kəmpˈɛɹ pɹɪdˈɪktɪv ɹᵻlˈeɪʃənz ænd kəmpˈiːɾɪŋ kjˈuːz. ɐ jˈuːsfəl ɐkˈaʊnt ʌv lˈɜːnɪŋ mˈʌst ɛksplˈeɪn wʌt ðə kjˈuː ˈædz bᵻjˌɔnd wʌt ɪz ɔːlɹˌɛdi ɛkspˈɛktᵻd.
+
+c02s05
+Classical conditioning research shows that temporal pairing alone is not a complete explanation. Contingency, prior learning and context influence acquisition.
+
+Anticipation in the fictional café could have several causes. A controlled comparison is needed to identify the whistle’s contribution.
+klˈæsɪkəl kəndˈɪʃənɪŋ ɹᵻsˈɜːtʃ ʃˈoʊz ðæt tˈɛmpɚɹəl pˈɛɹɪŋ ɐlˈoʊn ɪz nˌɑːɾə kəmplˈiːt ɛksplɐnˈeɪʃən. kəntˈɪndʒənsi, pɹˈaɪɚ lˈɜːnɪŋ ænd kˈɑːntɛkst ˈɪnfluːəns ɐkwɪsˈɪʃən.   æntˈɪsɪpˈeɪʃən ɪnðə fˈɪkʃənəl kæfˈeɪ kˌʊdɐv sˈɛvɹəl kˈɔːzᵻz. ɐ kəntɹˈoʊld kəmpˈæɹɪsən ɪz nˈiːdᵻd tʊ aɪdˈɛntᵻfˌaɪ ðə wˈɪsəlz kˌɑːntɹɪbjˈuːʃən.
+
+c02s06
+Apply the idea to this new fictional case.
+
+A bell occurs on some occasions. The team compares how often an event follows with and without the bell.
+
+Which cue is more informative?
+
+A. The cue after which the outcome occurs more often than without it.
+
+B. Any cue that happens nearby in time.
+
+C. The most noticeable cue regardless of outcomes.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ bˈɛl əkˈɜːz ˌɔn sˌʌm əkˈeɪʒənz. ðə tˈiːm kəmpˈɛɹz hˌaʊ ˈɔfən ɐn ᵻvˈɛnt fˈɑːloʊz wɪð ænd wɪðˌaʊt ðə bˈɛl.   wˌɪtʃ kjˈuː ɪz mˈɔːɹ ɪnfˈɔːɹmətˌɪv?   ˈeɪ. ðə kjˈuː ˈæftɚ wˌɪtʃ ðɪ ˈaʊtkʌm əkˈɜːz mˈɔːɹ ˈɔfən ðɐn wɪðˈaʊt ɪt.   bˈiː. ˌɛni kjˈuː ðæt hˈæpənz nˈɪɹbaɪ ɪn tˈaɪm.   sˈiː. ðə mˈoʊst nˈoʊɾɪsəbəl kjˈuː ɹᵻɡˈɑːɹdləs ʌv ˈaʊtkʌmz.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c02s06-feedback-0
+Its presence changes the outcome probability and adds information.
+ɪts pɹˈɛzəns tʃˈeɪndʒᵻz ðɪ ˈaʊtkʌm pɹˌɑːbəbˈɪlᵻɾi ænd ˈædz ˌɪnfɚmˈeɪʃən.
+
+c02s06-feedback-1
+Temporal proximity alone may not improve prediction.
+tˈɛmpɚɹəl pɹɑːksˈɪmᵻɾi ɐlˈoʊn mˈeɪ nˌɑːt ɪmpɹˈuːv pɹɪdˈɪkʃən.
+
+c02s06-feedback-2
+Salience can matter, but does not establish predictive contingency.
+sˈeɪliəns kæn mˈæɾɚ, bˌʌt dʌznˌɑːt ɪstˈæblɪʃ pɹɪdˈɪktɪv kəntˈɪndʒənsi.
+
+c02s07
+Try these questions without your notes.
+
+What is a conditioned stimulus?
+
+How does contingency differ from contiguity?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌʌt ɪz ɐ kəndˈɪʃənd stˈɪmjʊləs?   hˌaʊ dˈʌz kəntˈɪndʒənsi dˈɪfɚ fɹʌm kɑːntɪɡjˈuːɪɾi?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c02s07-answers
+A cue that acquires significance through learning.
+
+Contingency concerns predictive probability; contiguity concerns closeness in time or space.
+ɐ kjˈuː ðæt ɐkwˈaɪɚz sɪɡnˈɪfɪkəns θɹuː lˈɜːnɪŋ.   kəntˈɪndʒənsi kənsˈɜːnz pɹɪdˈɪktɪv pɹˌɑːbəbˈɪlᵻɾi; kɑːntɪɡjˈuːɪɾi kənsˈɜːnz klˈoʊsnəs ɪn tˈaɪm ɔːɹ spˈeɪs.
+
+c02s08
+Use a fictional everyday cue to identify an expected event and a possible learned response. State what comparison would test prediction.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+jˈuːs ɐ fˈɪkʃənəl ˈɛvɹɪdˌeɪ kjˈuː tʊ aɪdˈɛntᵻfˌaɪ ɐn ɛkspˈɛktᵻd ᵻvˈɛnt ænd ɐ pˈɑːsᵻbəl lˈɜːnd ɹᵻspˈɑːns. stˈeɪt wʌt kəmpˈæɹɪsən wʊd tˈɛst pɹɪdˈɪkʃən.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c03s01
+After Sam returns a tool, the reminder tone stops. Returns become more frequent. Leo calls this punishment because the tone is unpleasant. Maya asks which consequence followed the return and how behaviour changed.
+ˈæftɚ sˈæm ɹᵻtˈɜːnz ɐ tˈuːl, ðə ɹᵻmˈaɪndɚ tˈoʊn stˈɑːps. ɹᵻtˈɜːnz bɪkˌʌm mˈɔːɹ fɹˈiːkwənt. lˈiːoʊ kˈɔːlz ðɪs pˈʌnɪʃmənt bɪkˈʌz ðə tˈoʊn ɪz ʌnplˈɛzənt. mˈaɪə ˈæsks wˌɪtʃ kˈɑːnsɪkwəns fˈɑːloʊd ðə ɹᵻtˈɜːn ænd hˌaʊ bᵻhˈeɪvjɚ tʃˈeɪndʒd.
+
+c03s02
+First, make a prediction about the café story.
+
+If returns increase after the tone stops, what is the relation?
+
+A. Positive punishment.
+
+B. Negative reinforcement.
+
+C. Negative punishment.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   ɪf ɹᵻtˈɜːnz ˈɪŋkɹiːs ˈæftɚ ðə tˈoʊn stˈɑːps, wˌʌt ɪz ðə ɹᵻlˈeɪʃən?   ˈeɪ. pˈɑːzᵻtˌɪv pˈʌnɪʃmənt.   bˈiː. nˈɛɡətˌɪv ɹˌiːɪnfˈɔːɹsmənt.   sˈiː. nˈɛɡətˌɪv pˈʌnɪʃmənt.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c03s02-feedback-0
+Nothing aversive is added after the return to decrease it.
+nˈʌθɪŋ ɐvˈɜːsɪv ɪz ˈædᵻd ˈæftɚ ðə ɹᵻtˈɜːn tə dˈiːkɹiːs ɪt.
+
+c03s02-feedback-1
+Removal of the tone follows the action and the action increases.
+ɹᵻmˈuːvəl ʌvðə tˈoʊn fˈɑːloʊz ðɪ ˈækʃən ænd ðɪ ˈækʃən ˈɪŋkɹiːsᵻz.
+
+c03s02-feedback-2
+Negative punishment would involve removal that decreases the target action.
+nˈɛɡətˌɪv pˈʌnɪʃmənt wʊd ɪnvˈɑːlv ɹᵻmˈuːvəl ðæt dˈiːkɹiːsᵻz ðə tˈɑːɹɡɪt ˈækʃən.
+
+c03s03
+Operant conditioning: learning involving action-consequence relations.
+
+Reinforcement and punishment are defined by effects on future behaviour, not by whether a consequence sounds kind or harsh. An intended reward may fail to reinforce.
+
+Specify the action, the consequence and the change over comparable opportunities. A single occurrence is not enough to establish a lasting effect.
+ˈɑːpɚɹənt kəndˈɪʃənɪŋ: lˈɜːnɪŋ ɪnvˈɑːlvɪŋ ˈækʃəŋkˈɑːnsɪkwəns ɹᵻlˈeɪʃənz.   ɹˌiːɪnfˈɔːɹsmənt ænd pˈʌnɪʃmənt ɑːɹ dᵻfˈaɪnd baɪ ɪfˈɛkts ˌɔn fjˈuːtʃɚ bᵻhˈeɪvjɚ, nˌɑːt baɪ wˈɛðɚɹ ɐ kˈɑːnsɪkwəns sˈaʊndz kˈaɪnd ɔːɹ hˈɑːɹʃ. ɐn ɪntˈɛndᵻd ɹᵻwˈɔːɹd mˈeɪ fˈeɪl tə ɹˌiːɪnfˈɔːɹs.   spˈɛsᵻfˌaɪ ðɪ ˈækʃən, ðə kˈɑːnsɪkwəns ænd ðə tʃˈeɪndʒ ˌoʊvɚ kˈɑːmpɚɹəbəl ɑːpɚtˈuːnᵻɾiz. ɐ sˈɪŋɡəl əkˈɜːɹəns ɪz nˌɑːt ɪnˈʌf tʊ ɪstˈæblɪʃ ɐ lˈæstɪŋ ɪfˈɛkt.
+
+c03s03b
+Positive punishment: adding a consequence that decreases behaviour.
+
+Stopping the reminder tone after a return can be negative reinforcement if returns increase. Negative means removal, not bad.
+
+Adding a welcome consequence can be positive reinforcement if the action increases. Adding an unpleasant event is punishment only if the target behaviour decreases.
+pˈɑːzᵻtˌɪv pˈʌnɪʃmənt: ˈædɪŋ ɐ kˈɑːnsɪkwəns ðæt dˈiːkɹiːsᵻz bᵻhˈeɪvjɚ.   stˈɑːpɪŋ ðə ɹᵻmˈaɪndɚ tˈoʊn ˈæftɚɹ ɐ ɹᵻtˈɜːn kæn biː nˈɛɡətˌɪv ɹˌiːɪnfˈɔːɹsmənt ɪf ɹᵻtˈɜːnz ˈɪŋkɹiːs. nˈɛɡətˌɪv mˈiːnz ɹᵻmˈuːvəl, nˌɑːt bˈæd.   ˈædɪŋ ɐ wˈɛlkʌm kˈɑːnsɪkwəns kæn biː pˈɑːzᵻtˌɪv ɹˌiːɪnfˈɔːɹsmənt ɪf ðɪ ˈækʃən ˈɪŋkɹiːsᵻz. ˈædɪŋ ɐn ʌnplˈɛzənt ᵻvˈɛnt ɪz pˈʌnɪʃmənt ˈoʊnli ɪf ðə tˈɑːɹɡɪt bᵻhˈeɪvjɚ dˈiːkɹiːsᵻz.
+
+c03s04
+Negative punishment: removing a consequence in a way that decreases behaviour. Functional definition: classification based on an observed effect. Unintended consequence: an effect beyond the intended target.
+
+If removing access to a valued activity reduces a defined action, it meets a negative-punishment definition. The effect still needs evidence.
+
+Classification is not ethical endorsement. Coercion, unfairness and unintended effects matter. Supportive access and skill teaching are often more appropriate than arranging aversive consequences.
+nˈɛɡətˌɪv pˈʌnɪʃmənt: ɹᵻmˈuːvɪŋ ɐ kˈɑːnsɪkwəns ɪn ɐ wˈeɪ ðæt dˈiːkɹiːsᵻz bᵻhˈeɪvjɚ. fˈʌŋkʃənəl dˌɛfɪnˈɪʃən: klˌæsɪfɪkˈeɪʃən bˈeɪst ˌɔn ɐn əbzˈɜːvd ɪfˈɛkt. ˌʌnɪntˈɛndᵻd kˈɑːnsɪkwəns: ɐn ɪfˈɛkt bᵻjˌɔnd ðɪ ɪntˈɛndᵻd tˈɑːɹɡɪt.   ɪf ɹᵻmˈuːvɪŋ ˈæksɛs tʊ ɐ vˈæljuːd æktˈɪvᵻɾi ɹᵻdˈuːsᵻz ɐ dᵻfˈaɪnd ˈækʃən, ɪt mˈiːts ɐ nˈɛɡətˌɪvpˈʌnɪʃmənt dˌɛfɪnˈɪʃən. ðɪ ɪfˈɛkt stˈɪl nˈiːdz ˈɛvɪdəns.   klˌæsɪfɪkˈeɪʃən ɪz nˌɑːt ˈɛθɪkəl ɛndˈɔːɹsmənt. kˌoʊˈɜːʃən, ʌnfˈɛɹnəs ænd ˌʌnɪntˈɛndᵻd ɪfˈɛkts mˈæɾɚ. səpˈɔːɹɾɪv ˈæksɛs ænd skˈɪl tˈiːtʃɪŋ ɑːɹ ˈɔfən mˈɔːɹ ɐpɹˈoʊpɹɪət ðɐn ɚɹˈeɪndʒɪŋ ɐvˈɜːsɪv kˈɑːnsɪkwənsᵻz.
+
+c03s05
+Operant principles identify functional relations under specified conditions. Effects depend on timing, context, history and what the consequence means to the person.
+
+A label does not establish efficacy or ethical acceptability. The course does not ask learners to impose punishments on others.
+ˈɑːpɚɹənt pɹˈɪnsɪpəlz aɪdˈɛntᵻfˌaɪ fˈʌŋkʃənəl ɹᵻlˈeɪʃənz ˌʌndɚ spˈɛsᵻfˌaɪd kəndˈɪʃənz. ɪfˈɛkts dᵻpˈɛnd ˌɔn tˈaɪmɪŋ, kˈɑːntɛkst, hˈɪstɚɹi ænd wʌt ðə kˈɑːnsɪkwəns mˈiːnz tə ðə pˈɜːsən.   ɐ lˈeɪbəl dʌznˌɑːt ɪstˈæblɪʃ ˈɛfɪkəsi ɔːɹ ˈɛθɪkəl ɐksˌɛptəbˈɪlᵻɾi. ðə kˈɔːɹs dʌznˌɑːt ˈæsk lˈɜːnɚz tʊ ɪmpˈoʊz pˈʌnɪʃmənts ˌɔn ˈʌðɚz.
+
+c03s06
+Apply the idea to this new fictional case.
+
+A manager calls public praise a reinforcer, but has not measured subsequent participation.
+
+What must be checked?
+
+A. Whether the manager intended it as praise.
+
+B. Whether praise sounds positive.
+
+C. Whether the defined action increased in comparable conditions.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ mˈænɪdʒɚ kˈɔːlz pˈʌblɪk pɹˈeɪz ɐ ɹˌiːɪnfˈɔːɹsɚ, bˌʌt həznɑːt mˈɛʒɚd sˈʌbsᵻkwənt pɑːɹtˈɪsɪpˈeɪʃən.   wˌʌt mˈʌst biː tʃˈɛkt?   ˈeɪ. wˈɛðɚ ðə mˈænɪdʒɚɹ ɪntˈɛndᵻd ɪɾ æz pɹˈeɪz.   bˈiː. wˈɛðɚ pɹˈeɪz sˈaʊndz pˈɑːzᵻtˌɪv.   sˈiː. wˈɛðɚ ðə dᵻfˈaɪnd ˈækʃən ɪŋkɹˈiːst ɪn kˈɑːmpɚɹəbəl kəndˈɪʃənz.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c03s06-feedback-0
+Intention alone does not establish a reinforcing effect.
+ɪntˈɛnʃən ɐlˈoʊn dʌznˌɑːt ɪstˈæblɪʃ ɐ ɹˌiːɪnfˈɔːɹsɪŋ ɪfˈɛkt.
+
+c03s06-feedback-1
+Positive describes addition here; effect still matters.
+pˈɑːzᵻtˌɪv dᵻskɹˈaɪbz ɐdˈɪʃən hˈɪɹ; ɪfˈɛkt stˈɪl mˈæɾɚz.
+
+c03s06-feedback-2
+Reinforcement is defined by increased behaviour rather than the label.
+ɹˌiːɪnfˈɔːɹsmənt ɪz dᵻfˈaɪnd baɪ ɪŋkɹˈiːst bᵻhˈeɪvjɚ ɹˈæðɚ ðɐn ðə lˈeɪbəl.
+
+c03s07
+Try these questions without your notes.
+
+What does negative mean in negative reinforcement?
+
+Why does an intended reward not necessarily reinforce?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌʌt dˈʌz nˈɛɡətˌɪv mˈiːn ɪn nˈɛɡətˌɪv ɹˌiːɪnfˈɔːɹsmənt?   wˌaɪ dˈʌz ɐn ɪntˈɛndᵻd ɹᵻwˈɔːɹd nˌɑːt nˌɛsɪsˈɛɹᵻli ɹˌiːɪnfˈɔːɹs?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c03s07-answers
+A condition is removed and the target behaviour increases.
+
+The classification requires an effect on future behaviour, which may not match the intention.
+ɐ kəndˈɪʃən ɪz ɹᵻmˈuːvd ænd ðə tˈɑːɹɡɪt bᵻhˈeɪvjɚɹ ˈɪŋkɹiːsᵻz.   ðə klˌæsɪfɪkˈeɪʃən ɹᵻkwˈaɪɚz ɐn ɪfˈɛkt ˌɔn fjˈuːtʃɚ bᵻhˈeɪvjɚ, wˌɪtʃ mˈeɪ nˌɑːt mˈætʃ ðɪ ɪntˈɛnʃən.
+
+c03s08
+Classify four fictional action-consequence examples using addition or removal and increase or decrease. Do not arrange consequences for real people.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+klˈæsᵻfˌaɪ fˈɔːɹ fˈɪkʃənəl ˈækʃəŋkˈɑːnsɪkwəns ɛɡzˈæmpəlz jˈuːzɪŋ ɐdˈɪʃən ɔːɹ ɹᵻmˈuːvəl ænd ˈɪŋkɹiːs ɔːɹ dˈiːkɹiːs. duːnˌɑːt ɚɹˈeɪndʒ kˈɑːnsɪkwənsᵻz fɔːɹ ɹˈiːəl pˈiːpəl.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c04s01
+Jo wants to learn a careful repair explanation but struggles to describe every stage at once. Maya suggests practising one useful comparison first. Leo proposes rewarding any fluent speech, even if inaccurate.
+dʒˈoʊ wˈɔnts tə lˈɜːn ɐ kˈɛɹfəl ɹᵻpˈɛɹ ɛksplɐnˈeɪʃən bˌʌt stɹˈʌɡəlz tə dᵻskɹˈaɪb ˈɛvɹi stˈeɪdʒ ɐtwˈʌns. mˈaɪə sədʒˈɛsts pɹˈæktɪsɪŋ wˈʌn jˈuːsfəl kəmpˈæɹɪsən fˈɜːst. lˈiːoʊ pɹəpˈoʊzᵻz ɹᵻwˈɔːɹdɪŋ ˌɛni flˈuːənt spˈiːtʃ, ˈiːvən ɪf ɪnˈækjʊɹət.
+
+c04s02
+First, make a prediction about the café story.
+
+Which initial criterion fits Jo’s goal?
+
+A. Speak rapidly for thirty seconds.
+
+B. Name one accurate observation before explaining it.
+
+C. Use as many technical terms as possible.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌɪtʃ ɪnˈɪʃəl kɹaɪtˈiəɹɪən fˈɪts dʒˈoʊz ɡˈoʊl?   ˈeɪ. spˈiːk ɹˈæpɪdli fɔːɹ θˈɜːɾi sˈɛkəndz.   bˈiː. nˈeɪm wˈʌn ˈækjʊɹət ɑːbzɚvˈeɪʃən bᵻfˌɔːɹ ɛksplˈeɪnɪŋ ɪt.   sˈiː. jˈuːs æz mˈɛni tˈɛknɪkəl tˈɜːmz æz pˈɑːsᵻbəl.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c04s02-feedback-0
+Fluency alone does not establish accurate reasoning.
+flˈuːənsi ɐlˈoʊn dʌznˌɑːt ɪstˈæblɪʃ ˈækjʊɹət ɹˈiːzənɪŋ.
+
+c04s02-feedback-1
+This is a relevant approximation to a supported explanation.
+ðɪs ɪz ɐ ɹˈɛlᵻvənt ɐpɹˌɑːksɪmˈeɪʃən tʊ ɐ səpˈɔːɹɾᵻd ɛksplɐnˈeɪʃən.
+
+c04s02-feedback-2
+Terminology without application can reward the wrong outcome.
+tˌɜːmɪnˈɑːlədʒi wɪðˌaʊt ˌæplɪkˈeɪʃən kæn ɹᵻwˈɔːɹd ðə ɹˈɔŋ ˈaʊtkʌm.
+
+c04s03
+Shaping: reinforcing successive approximations to a target. Successive approximation: a step closer to the target behaviour. Criterion: the defined standard for a response.
+
+Choose a meaningful target, then recognize progress toward it using clear criteria. An approximation should move toward the intended skill rather than reward a superficial proxy.
+
+For Jo, naming one accurate observation is a better first step than speaking quickly. Increase demands as the skill becomes reliable.
+ʃˈeɪpɪŋ: ɹˌiːɪnfˈɔːɹsɪŋ səksˈɛsɪv ɐpɹˌɑːksɪmˈeɪʃənz tʊ ɐ tˈɑːɹɡɪt. səksˈɛsɪv ɐpɹˌɑːksɪmˈeɪʃən: ɐ stˈɛp klˈoʊsɚ tə ðə tˈɑːɹɡɪt bᵻhˈeɪvjɚ. kɹaɪtˈiəɹɪən: ðə dᵻfˈaɪnd stˈændɚd fɚɹɚ ɹᵻspˈɑːns.   tʃˈuːz ɐ mˈiːnɪŋfəl tˈɑːɹɡɪt, ðˈɛn ɹˈɛkəɡnˌaɪz pɹˈɑːɡɹɛs təwˈɔːɹd ɪt jˈuːzɪŋ klˈɪɹ kɹaɪtˈiəɹɪə. ɐn ɐpɹˌɑːksɪmˈeɪʃən ʃˌʊd mˈuːv təwˈɔːɹd ðɪ ɪntˈɛndᵻd skˈɪl ɹˈæðɚ ðɐn ɹᵻwˈɔːɹd ɐ sˈuːpɚfˈɪʃəl pɹˈɑːksi.   fɔːɹ dʒˈoʊ, nˈeɪmɪŋ wˈʌn ˈækjʊɹət ɑːbzɚvˈeɪʃən ɪz ɐ bˈɛɾɚ fˈɜːst stˈɛp ðɐn spˈiːkɪŋ kwˈɪkli. ˈɪŋkɹiːs dᵻmˈændz æz ðə skˈɪl bɪkˌʌmz ɹᵻlˈaɪəbəl.
+
+c04s03b
+Task analysis: identifying components of a complex action. Chaining: learning linked components of a sequence. Prompt: a cue or assistance supporting a response.
+
+A repair explanation can involve describing the observation, proposing alternatives and identifying a test. Prompts can help each component initially.
+
+Fade support and test a new example. Repeating a prompted sequence does not establish independent use of the reasoning skill.
+tˈæsk ɐnˈæləsˌɪs: aɪdˈɛntᵻfˌaɪɪŋ kəmpˈoʊnənts əvə kˈɑːmplɛks ˈækʃən. tʃˈeɪnɪŋ: lˈɜːnɪŋ lˈɪŋkt kəmpˈoʊnənts əvə sˈiːkwəns. pɹˈɑːmpt: ɐ kjˈuː ɔːɹ ɐsˈɪstəns səpˈɔːɹɾɪŋ ɐ ɹᵻspˈɑːns.   ɐ ɹᵻpˈɛɹ ɛksplɐnˈeɪʃən kæn ɪnvˈɑːlv dᵻskɹˈaɪbɪŋ ðɪ ɑːbzɚvˈeɪʃən, pɹəpˈoʊzɪŋ ɔːltˈɜːnətˌɪvz ænd aɪdˈɛntᵻfˌaɪɪŋ ɐ tˈɛst. pɹˈɑːmpts kæn hˈɛlp ˈiːtʃ kəmpˈoʊnənt ɪnˈɪʃəli.   fˈeɪd səpˈɔːɹt ænd tˈɛst ɐ nˈuː ɛɡzˈæmpəl. ɹᵻpˈiːɾɪŋ ɐ pɹˈɑːmptᵻd sˈiːkwəns dʌznˌɑːt ɪstˈæblɪʃ ˌɪndᵻpˈɛndənt jˈuːs ʌvðə ɹˈiːzənɪŋ skˈɪl.
+
+c04s04
+Skill deficit: the required action is not yet learned. Performance condition: a factor affecting expression of a skill.
+
+A person may know how to return a tool but lack access to the shelf. That is different from not knowing the procedure.
+
+Before adding incentives, check instructions, tools, time and accessibility. A training solution does not fix every environmental barrier.
+skˈɪl dˈɛfɪsˌɪt: ðə ɹᵻkwˈaɪɚd ˈækʃən ɪz nˌɑːt jˈɛt lˈɜːnd. pɚfˈɔːɹməns kəndˈɪʃən: ɐ fˈæktɚɹ ɐfˈɛktɪŋ ɛkspɹˈɛʃən əvə skˈɪl.   ɐ pˈɜːsən mˈeɪ nˈoʊ hˌaʊ tə ɹᵻtˈɜːn ɐ tˈuːl bˌʌt lˈæk ˈæksɛs tə ðə ʃˈɛlf. ðæt ɪz dˈɪfɹənt fɹʌm nˌɑːt nˈoʊɪŋ ðə pɹəsˈiːdʒɚ.   bᵻfˌɔːɹ ˈædɪŋ ɪnsˈɛntɪvz, tʃˈɛk ɪnstɹˈʌkʃənz, tˈuːlz, tˈaɪm ænd æksˌɛsəbˈɪlᵻɾi. ɐ tɹˈeɪnɪŋ səlˈuːʃən dʌznˌɑːt fˈɪks ˈɛvɹi ɛnvˌaɪɹənmˈɛntəl bˈæɹiɚ.
+
+c04s05
+Learning procedures should be evaluated against the actual goal. Proxies such as speed or number of attempts can improve without better reasoning or safer performance.
+
+Shaping is a learning principle, not a guarantee that every complex capability can be reduced to one fixed sequence.
+lˈɜːnɪŋ pɹəsˈiːdʒɚz ʃˌʊd biː ɪvˈæljuːˌeɪɾᵻd ɐɡˈɛnst ðɪ ˈæktʃuːəl ɡˈoʊl. pɹˈɑːksiz sˈʌtʃ ɐz spˈiːd ɔːɹ nˈʌmbɚɹ ʌv ɐtˈɛmpts kæn ɪmpɹˈuːv wɪðˌaʊt bˈɛɾɚ ɹˈiːzənɪŋ ɔːɹ sˈeɪfɚ pɚfˈɔːɹməns.   ʃˈeɪpɪŋ ɪz ɐ lˈɜːnɪŋ pɹˈɪnsɪpəl, nˌɑːɾə ɡˌæɹəntˈiː ðæt ˈɛvɹi kˈɑːmplɛks kˌeɪpəbˈɪlᵻɾi kæn biː ɹᵻdˈuːst tə wˈʌn fˈɪkst sˈiːkwəns.
+
+c04s06
+Apply the idea to this new fictional case.
+
+A volunteer follows the procedure when equipment is available but cannot do so after the supplies are locked away.
+
+What should be changed first?
+
+A. Increase incentives for compliance.
+
+B. Assume the person lacks the skill.
+
+C. Make the required equipment accessible.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ vˌɑːləntˈɪɹ fˈɑːloʊz ðə pɹəsˈiːdʒɚ wɛn ɪkwˈɪpmənt ɪz ɐvˈeɪləbəl bˌʌt kænˈɑːt dˈuː sˌoʊ ˈæftɚ ðə səplˈaɪz ɑːɹ lˈɑːkt ɐwˈeɪ.   wˌʌt ʃˌʊd biː tʃˈeɪndʒd fˈɜːst?   ˈeɪ. ˈɪŋkɹiːs ɪnsˈɛntɪvz fɔːɹ kəmplˈaɪəns.   bˈiː. ɐsˈuːm ðə pˈɜːsən lˈæks ðə skˈɪl.   sˈiː. mˌeɪk ðə ɹᵻkwˈaɪɚd ɪkwˈɪpmənt æksˈɛsəbəl.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c04s06-feedback-0
+An incentive does not remove the barrier.
+ɐn ɪnsˈɛntɪv dʌznˌɑːt ɹᵻmˈuːv ðə bˈæɹiɚ.
+
+c04s06-feedback-1
+Previous successful performance suggests the skill may already exist.
+pɹˈiːviəs səksˈɛsfəl pɚfˈɔːɹməns sədʒˈɛsts ðə skˈɪl mˈeɪ ɔːlɹˌɛdi ɛɡzˈɪst.
+
+c04s06-feedback-2
+The immediate problem is access rather than necessarily learning.
+ðɪ ɪmˈiːdɪət pɹˈɑːbləm ɪz ˈæksɛs ɹˈæðɚ ðɐn nˌɛsɪsˈɛɹᵻli lˈɜːnɪŋ.
+
+c04s07
+Try these questions without your notes.
+
+What makes an approximation useful?
+
+Why fade a prompt?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌʌt mˌeɪks ɐn ɐpɹˌɑːksɪmˈeɪʃən jˈuːsfəl?   wˌaɪ fˈeɪd ɐ pɹˈɑːmpt?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c04s07-answers
+It advances the actual target skill under a clear criterion.
+
+To check whether the learner can perform independently rather than only with support.
+ɪɾ ɐdvˈænsᵻz ðɪ ˈæktʃuːəl tˈɑːɹɡɪt skˈɪl ˌʌndɚɹ ɐ klˈɪɹ kɹaɪtˈiəɹɪən.   tə tʃˈɛk wˈɛðɚ ðə lˈɜːnɚ kæn pɚfˈɔːɹm ˌɪndᵻpˈɛndəntli ɹˈæðɚ ðɐn ˈoʊnli wɪð səpˈɔːɹt.
+
+c04s08
+Choose your own harmless skill. Define one meaningful first step, a later criterion and an unprompted new example.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+tʃˈuːz jʊɹ ˈoʊn hˈɑːɹmləs skˈɪl. dᵻfˈaɪn wˈʌn mˈiːnɪŋfəl fˈɜːst stˈɛp, ɐ lˈeɪɾɚ kɹaɪtˈiəɹɪən ænd ɐn ʌnpɹˈɑːmptᵻd nˈuː ɛɡzˈæmpəl.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c05s01
+The café thanks volunteers after every completed checklist. Later it acknowledges a varying number of completions. Leo predicts the exact response rate from a schedule name alone.
+ðə kæfˈeɪ θˈæŋks vˌɑːləntˈɪɹz ˈæftɚɹ ˈɛvɹi kəmplˈiːɾᵻd tʃˈɛklɪst. lˈeɪɾɚɹ ɪɾ ɐknˈɑːlɪdʒᵻz ɐ vˈɛɹiɪŋ nˈʌmbɚɹ ʌv kəmplˈiːʃənz. lˈiːoʊ pɹɪdˈɪkts ðɪ ɛɡzˈækt ɹᵻspˈɑːns ɹˈeɪt fɹʌm ɐ skˈɛdʒuːl nˈeɪm ɐlˈoʊn.
+
+c05s02
+First, make a prediction about the café story.
+
+What is missing from Leo’s exact prediction?
+
+A. The label alone is always sufficient.
+
+B. Whether the consequence reinforces and what else changed.
+
+C. The assumption that every person responds identically.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt ɪz mˈɪsɪŋ fɹʌm lˈiːoʊz ɛɡzˈækt pɹɪdˈɪkʃən?   ˈeɪ. ðə lˈeɪbəl ɐlˈoʊn ɪz ˈɔːlweɪz səfˈɪʃənt.   bˈiː. wˈɛðɚ ðə kˈɑːnsɪkwəns ɹˌiːɪnfˈɔːɹsᵻz ænd wʌt ˈɛls tʃˈeɪndʒd.   sˈiː. ðɪ ɐsˈʌmpʃən ðæt ˈɛvɹi pˈɜːsən ɹᵻspˈɑːndz aɪdˈɛntɪkli.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c05s02-feedback-0
+The label does not identify every relevant condition.
+ðə lˈeɪbəl dʌznˌɑːt aɪdˈɛntᵻfˌaɪ ˈɛvɹi ɹˈɛlᵻvənt kəndˈɪʃən.
+
+c05s02-feedback-1
+Functional effect, history and context qualify the prediction.
+fˈʌŋkʃənəl ɪfˈɛkt, hˈɪstɚɹi ænd kˈɑːntɛkst kwˈɔlᵻfˌaɪ ðə pɹɪdˈɪkʃən.
+
+c05s02-feedback-2
+That is an unsupported assumption rather than useful evidence.
+ðæt ɪz ɐn ʌnsəpˈɔːɹɾᵻd ɐsˈʌmpʃən ɹˈæðɚ ðɐn jˈuːsfəl ˈɛvɪdəns.
+
+c05s03
+Continuous reinforcement: reinforcing every eligible response. Intermittent reinforcement: reinforcing some eligible responses. Reinforcement schedule: rule relating responses and consequences.
+
+A schedule describes when a consequence is available in relation to action or time. It does not tell us whether the consequence actually reinforces for this person.
+
+Learning history, task requirements and access also matter. State the arrangement before predicting an effect.
+kəntˈɪnjuːəs ɹˌiːɪnfˈɔːɹsmənt: ɹˌiːɪnfˈɔːɹsɪŋ ˈɛvɹi ˈɛlɪdʒəbəl ɹᵻspˈɑːns. ˌɪntɚmˈɪtənt ɹˌiːɪnfˈɔːɹsmənt: ɹˌiːɪnfˈɔːɹsɪŋ sˌʌm ˈɛlɪdʒəbəl ɹᵻspˈɑːnsᵻz. ɹˌiːɪnfˈɔːɹsmənt skˈɛdʒuːl: ɹˈuːl ɹᵻlˈeɪɾɪŋ ɹᵻspˈɑːnsᵻz ænd kˈɑːnsɪkwənsᵻz.   ɐ skˈɛdʒuːl dᵻskɹˈaɪbz wɛn ɐ kˈɑːnsɪkwəns ɪz ɐvˈeɪləbəl ɪn ɹᵻlˈeɪʃən tʊ ˈækʃən ɔːɹ tˈaɪm. ɪt dʌznˌɑːt tˈɛl ˌʌs wˈɛðɚ ðə kˈɑːnsɪkwəns ˈæktʃuːəli ɹˌiːɪnfˈɔːɹsᵻz fɔːɹ ðɪs pˈɜːsən.   lˈɜːnɪŋ hˈɪstɚɹi, tˈæsk ɹᵻkwˈaɪɚmənts ænd ˈæksɛs ˈɔːlsoʊ mˈæɾɚ. stˈeɪt ðɪ ɚɹˈeɪndʒmənt bᵻfˌɔːɹ pɹɪdˈɪktɪŋ ɐn ɪfˈɛkt.
+
+c05s03b
+Variable schedule: requirement varies around a pattern.
+
+A ratio schedule uses a number of responses. An interval schedule makes reinforcement available after a time period, usually for the first eligible response.
+
+Fixed and variable requirements can produce different patterns in controlled settings. They are not universal personality predictions or recipes for manipulating engagement.
+vˈɛɹɪəbəl skˈɛdʒuːl: ɹᵻkwˈaɪɚmənt vˈɛɹiz ɚɹˈaʊnd ɐ pˈætɚn.   ɐ ɹˈeɪʃɪˌoʊ skˈɛdʒuːl jˈuːsᵻz ɐ nˈʌmbɚɹ ʌv ɹᵻspˈɑːnsᵻz. ɐn ˈɪntɚvəl skˈɛdʒuːl mˌeɪks ɹˌiːɪnfˈɔːɹsmənt ɐvˈeɪləbəl ˈæftɚɹ ɐ tˈaɪm pˈiəɹɪəd, jˈuːʒuːəli fɚðə fˈɜːst ˈɛlɪdʒəbəl ɹᵻspˈɑːns.   fˈɪkst ænd vˈɛɹɪəbəl ɹᵻkwˈaɪɚmənts kæn pɹədˈuːs dˈɪfɹənt pˈætɚnz ɪn kəntɹˈoʊld sˈɛɾɪŋz. ðeɪ ɑːɹ nˌɑːt jˌuːnɪvˈɜːsəl pˌɜːsənˈælᵻɾi pɹɪdˈɪkʃənz ɔːɹ ɹˈɛsᵻpˌiːz fɔːɹ mənˈɪpjʊlˌeɪɾɪŋ ɛŋɡˈeɪdʒmənt.
+
+c05s04
+Delay: time between action and consequence. Contingent feedback: information related to the action. Competing consequence: another outcome affecting the same behaviour.
+
+A delayed outcome can be harder to connect with the relevant action. Clear informative feedback may help identify what was effective.
+
+Real settings contain several consequences and verbal explanations. A schedule label alone rarely predicts a precise response rate outside a controlled arrangement.
+dᵻlˈeɪ: tˈaɪm bᵻtwˌiːn ˈækʃən ænd kˈɑːnsɪkwəns. kəntˈɪndʒənt fˈiːdbæk: ˌɪnfɚmˈeɪʃən ɹᵻlˈeɪɾᵻd tə ðɪ ˈækʃən. kəmpˈiːɾɪŋ kˈɑːnsɪkwəns: ɐnˈʌðɚɹ ˈaʊtkʌm ɐfˈɛktɪŋ ðə sˈeɪm bᵻhˈeɪvjɚ.   ɐ dᵻlˈeɪd ˈaʊtkʌm kæn biː hˈɑːɹdɚ tə kənˈɛkt wɪððə ɹˈɛlᵻvənt ˈækʃən. klˈɪɹ ɪnfˈɔːɹmətˌɪv fˈiːdbæk mˈeɪ hˈɛlp aɪdˈɛntᵻfˌaɪ wʌt wʌz ɪfˈɛktɪv.   ɹˈiːəl sˈɛɾɪŋz kəntˈeɪn sˈɛvɹəl kˈɑːnsɪkwənsᵻz ænd vˈɜːbəl ɛksplɐnˈeɪʃənz. ɐ skˈɛdʒuːl lˈeɪbəl ɐlˈoʊn ɹˈɛɹli pɹɪdˈɪkts ɐ pɹɪsˈaɪs ɹᵻspˈɑːns ɹˈeɪt aʊtsˈaɪd ɐ kəntɹˈoʊld ɚɹˈeɪndʒmənt.
+
+c05s05
+Classic schedule findings come from defined experimental contingencies. Human behaviour also reflects instructions, goals, relationships and competing outcomes.
+
+Do not use schedule research to justify addictive or deceptive design. The course evaluates claims rather than providing a manipulation playbook.
+klˈæsɪk skˈɛdʒuːl fˈaɪndɪŋz kˈʌm fɹʌm dᵻfˈaɪnd ɛkspˌɛɹɪmˈɛntəl kəntˈɪndʒənsiz. hjˈuːmən bᵻhˈeɪvjɚɹ ˈɔːlsoʊ ɹᵻflˈɛkts ɪnstɹˈʌkʃənz, ɡˈoʊlz, ɹᵻlˈeɪʃənʃˌɪps ænd kəmpˈiːɾɪŋ ˈaʊtkʌmz.   duːnˌɑːt jˈuːz skˈɛdʒuːl ɹᵻsˈɜːtʃ tə dʒˈʌstᵻfˌaɪ ɐdˈɪktɪv ɔːɹ dᵻsˈɛptɪv dɪzˈaɪn. ðə kˈɔːɹs ɪvˈæljuːˌeɪts klˈeɪmz ɹˈæðɚ ðɐn pɹəvˈaɪdɪŋ ɐ mənˌɪpjʊlˈeɪʃən plˈeɪbʊk.
+
+c05s06
+Apply the idea to this new fictional case.
+
+After a set period has elapsed, the first eligible response receives the arranged consequence.
+
+Which schedule description fits?
+
+A. Fixed ratio.
+
+B. Variable ratio.
+
+C. Fixed interval.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ˈæftɚɹ ɐ sˈɛt pˈiəɹɪəd hɐz ᵻlˈæpst, ðə fˈɜːst ˈɛlɪdʒəbəl ɹᵻspˈɑːns ɹᵻsˈiːvz ðɪ ɚɹˈeɪndʒd kˈɑːnsɪkwəns.   wˌɪtʃ skˈɛdʒuːl dᵻskɹˈɪpʃən fˈɪts?   ˈeɪ. fˈɪkst ɹˈeɪʃɪˌoʊ.   bˈiː. vˈɛɹɪəbəl ɹˈeɪʃɪˌoʊ.   sˈiː. fˈɪkst ˈɪntɚvəl.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c05s06-feedback-0
+A fixed response count, not elapsed time, defines a fixed ratio.
+ɐ fˈɪkst ɹᵻspˈɑːns kˈaʊnt, nˌɑːt ᵻlˈæpst tˈaɪm, dᵻfˈaɪnz ɐ fˈɪkst ɹˈeɪʃɪˌoʊ.
+
+c05s06-feedback-1
+A variable response count defines a variable ratio.
+ɐ vˈɛɹɪəbəl ɹᵻspˈɑːns kˈaʊnt dᵻfˈaɪnz ɐ vˈɛɹɪəbəl ɹˈeɪʃɪˌoʊ.
+
+c05s06-feedback-2
+A stated time passes before the first eligible response can be reinforced.
+ɐ stˈeɪɾᵻd tˈaɪm pˈæsᵻz bᵻfˌɔːɹ ðə fˈɜːst ˈɛlɪdʒəbəl ɹᵻspˈɑːns kæn biː ɹˌiːɪnfˈɔːɹst.
+
+c05s07
+Try these questions without your notes.
+
+How does ratio differ from interval?
+
+Why is a schedule name not a precise individual prediction?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   hˌaʊ dˈʌz ɹˈeɪʃɪˌoʊ dˈɪfɚ fɹʌm ˈɪntɚvəl?   wˌaɪ ɪz ɐ skˈɛdʒuːl nˈeɪm nˌɑːɾə pɹɪsˈaɪs ˌɪndᵻvˈɪdʒuːəl pɹɪdˈɪkʃən?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c05s07-answers
+Ratio concerns number of responses; interval concerns time before an eligible response.
+
+Other consequences, instructions, history and the functional value of the outcome matter.
+ɹˈeɪʃɪˌoʊ kənsˈɜːnz nˈʌmbɚɹ ʌv ɹᵻspˈɑːnsᵻz; ˈɪntɚvəl kənsˈɜːnz tˈaɪm bᵻfˌɔːɹ ɐn ˈɛlɪdʒəbəl ɹᵻspˈɑːns.   ˈʌðɚ kˈɑːnsɪkwənsᵻz, ɪnstɹˈʌkʃənz, hˈɪstɚɹi ænd ðə fˈʌŋkʃənəl vˈæljuː ʌvðɪ ˈaʊtkʌm mˈæɾɚ.
+
+c05s08
+Classify fictional consequence arrangements by response count or time. Identify a missing condition before predicting an effect.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+klˈæsᵻfˌaɪ fˈɪkʃənəl kˈɑːnsɪkwəns ɚɹˈeɪndʒmənts baɪ ɹᵻspˈɑːns kˈaʊnt ɔːɹ tˈaɪm. aɪdˈɛntᵻfˌaɪ ɐ mˈɪsɪŋ kəndˈɪʃən bᵻfˌɔːɹ pɹɪdˈɪktɪŋ ɐn ɪfˈɛkt.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c06s01
+The whistle no longer predicts drinks, and Sam’s anticipatory response fades. At another café the response briefly returns. Leo says the earlier learning was erased and then somehow restored.
+ðə wˈɪsəl nˌoʊ lˈɑːŋɡɚ pɹɪdˈɪkts dɹˈɪŋks, ænd sˈæmz æntˈɪsɪpətˌɔːɹi ɹᵻspˈɑːns fˈeɪdz. æɾ ɐnˈʌðɚ kæfˈeɪ ðə ɹᵻspˈɑːns bɹˈiːfli ɹᵻtˈɜːnz. lˈiːoʊ sˈɛz ðɪ ˈɜːlɪɚ lˈɜːnɪŋ wʌz ᵻɹˈeɪst ænd ðˈɛn sˈʌmhaʊ ɹᵻstˈɔːɹd.
+
+c06s02
+First, make a prediction about the café story.
+
+What best explains the apparent contradiction?
+
+A. Reduced responding need not erase the older learning.
+
+B. A single return proves extinction never occurred.
+
+C. All responses return for the same reason.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt bˈɛst ɛksplˈeɪnz ðɪ ɐpˈæɹənt kˌɑːntɹədˈɪkʃən?   ˈeɪ. ɹᵻdˈuːst ɹᵻspˈɑːndɪŋ nˈiːd nˌɑːt ᵻɹˈeɪs ðɪ ˈoʊldɚ lˈɜːnɪŋ.   bˈiː. ɐ sˈɪŋɡəl ɹᵻtˈɜːn pɹˈuːvz ɛkstˈɪŋkʃən nˈɛvɚɹ əkˈɜːd.   sˈiː. ˈɔːl ɹᵻspˈɑːnsᵻz ɹᵻtˈɜːn fɚðə sˈeɪm ɹˈiːzən.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c06s02-feedback-0
+New learning and retrieval conditions can explain the pattern.
+nˈuː lˈɜːnɪŋ ænd ɹᵻtɹˈiːvəl kəndˈɪʃənz kæn ɛksplˈeɪn ðə pˈætɚn.
+
+c06s02-feedback-1
+An earlier reduction and later return can coexist.
+ɐn ˈɜːlɪɚ ɹᵻdˈʌkʃən ænd lˈeɪɾɚ ɹᵻtˈɜːn kæn kˌoʊɛɡzˈɪst.
+
+c06s02-feedback-2
+Time, context and outcome exposure are distinguishable factors.
+tˈaɪm, kˈɑːntɛkst ænd ˈaʊtkʌm ɛkspˈoʊʒɚɹ ɑːɹ dɪstˈɪŋɡwɪʃəbəl fˈæktɚz.
+
+c06s03
+In classical extinction, the cue occurs without the expected outcome. In operant extinction, the action no longer produces the maintaining reinforcer.
+
+Reduced responding does not necessarily mean the earlier learning was erased. New learning may be specific to a context and compete with the older relation.
+ɪn klˈæsɪkəl ɛkstˈɪŋkʃən, ðə kjˈuː əkˈɜːz wɪðˌaʊt ðɪ ɛkspˈɛktᵻd ˈaʊtkʌm. ɪn ˈɑːpɚɹənt ɛkstˈɪŋkʃən, ðɪ ˈækʃən nˌoʊ lˈɑːŋɡɚ pɹədˈuːsᵻz ðə meɪntˈeɪnɪŋ ɹˌiːɪnfˈɔːɹsɚ.   ɹᵻdˈuːst ɹᵻspˈɑːndɪŋ dʌznˌɑːt nˌɛsɪsˈɛɹᵻli mˈiːn ðɪ ˈɜːlɪɚ lˈɜːnɪŋ wʌz ᵻɹˈeɪst. nˈuː lˈɜːnɪŋ mˈeɪ biː spəsˈɪfɪk tʊ ɐ kˈɑːntɛkst ænd kəmpˈiːt wɪððɪ ˈoʊldɚ ɹᵻlˈeɪʃən.
+
+c06s03b
+Spontaneous recovery: response return after time has passed. Renewal: response return with a context change. Reinstatement: response return after relevant outcome exposure.
+
+Time, a setting change or exposure to a relevant outcome can contribute to return of a response after extinction. These effects differ and require specific designs.
+
+A returned response does not prove that change was impossible. It suggests that learning and retrieval conditions need to be examined.
+spɑːntˈeɪniəs ɹᵻkˈʌvɚɹi: ɹᵻspˈɑːns ɹᵻtˈɜːn ˈæftɚ tˈaɪm hɐz pˈæst. ɹᵻnjˈuːəl: ɹᵻspˈɑːns ɹᵻtˈɜːn wɪð ɐ kˈɑːntɛkst tʃˈeɪndʒ. ɹˌiːɪnstˈeɪtmənt: ɹᵻspˈɑːns ɹᵻtˈɜːn ˈæftɚ ɹˈɛlᵻvənt ˈaʊtkʌm ɛkspˈoʊʒɚ.   tˈaɪm, ɐ sˈɛɾɪŋ tʃˈeɪndʒ ɔːɹ ɛkspˈoʊʒɚ tʊ ɐ ɹˈɛlᵻvənt ˈaʊtkʌm kæn kəntɹˈɪbjuːt tə ɹᵻtˈɜːn əvɚ ɹᵻspˈɑːns ˈæftɚɹ ɛkstˈɪŋkʃən. ðiːz ɪfˈɛkts dˈɪfɚ ænd ɹᵻkwˈaɪɚ spəsˈɪfɪk dɪzˈaɪnz.   ɐ ɹᵻtˈɜːnd ɹᵻspˈɑːns dʌznˌɑːt pɹˈuːv ðæt tʃˈeɪndʒ wʌz ɪmpˈɑːsᵻbəl. ɪt sədʒˈɛsts ðæt lˈɜːnɪŋ ænd ɹᵻtɹˈiːvəl kəndˈɪʃənz nˈiːd təbi ɛɡzˈæmɪnd.
+
+c06s04
+Generalization: responding across related cues or contexts. Maintenance: persistence of change over time.
+
+A support may work in one room and fail elsewhere. Check different relevant settings and delayed outcomes rather than assuming one successful session is permanent.
+
+Clinical exposure and relapse prevention require professional assessment and care. Do not create fear, withhold essential support or conduct exposure experiments as course practice.
+dʒˌɛnɚɹəlᵻzˈeɪʃən: ɹᵻspˈɑːndɪŋ əkɹˌɑːs ɹᵻlˈeɪɾᵻd kjˈuːz ɔːɹ kˈɑːntɛksts. mˈeɪntənəns: pɚsˈɪstəns ʌv tʃˈeɪndʒ ˌoʊvɚ tˈaɪm.   ɐ səpˈɔːɹt mˈeɪ wˈɜːk ɪn wˈʌn ɹˈuːm ænd fˈeɪl ˈɛlswɛɹ. tʃˈɛk dˈɪfɹənt ɹˈɛlᵻvənt sˈɛɾɪŋz ænd dᵻlˈeɪd ˈaʊtkʌmz ɹˈæðɚ ðɐn ɐsˈuːmɪŋ wˈʌn səksˈɛsfəl sˈɛʃən ɪz pˈɜːmənənt.   klˈɪnɪkəl ɛkspˈoʊʒɚ ænd ɹᵻlˈæps pɹɪvˈɛnʃən ɹᵻkwˈaɪɚ pɹəfˈɛʃənəl ɐsˈɛsmənt ænd kˈɛɹ. duːnˌɑːt kɹiːˈeɪt fˈɪɹ, wɪðhˈoʊld ᵻsˈɛnʃəl səpˈɔːɹt ɔːɹ kˈɑːndʌkt ɛkspˈoʊʒɚɹ ɛkspˈɛɹɪmənts æz kˈɔːɹs pɹˈæktɪs.
+
+c06s05
+Extinction and response-return effects are well-established distinctions, with outcomes depending on species, task and procedure. Translation to clinical care requires additional evidence.
+
+The whistle example illustrates learning principles; it is not advice for treating anxiety or removing another person’s support.
+ɛkstˈɪŋkʃən ænd ɹᵻspˈɑːnsɹᵻtˈɜːn ɪfˈɛkts ɑːɹ wˈɛlɪstˈæblɪʃt dɪstˈɪŋkʃənz, wɪð ˈaʊtkʌmz dᵻpˈɛndɪŋ ˌɔn spˈiːsiːz, tˈæsk ænd pɹəsˈiːdʒɚ. tɹænslˈeɪʃən tə klˈɪnɪkəl kˈɛɹ ɹᵻkwˈaɪɚz ɐdˈɪʃənəl ˈɛvɪdəns.   ðə wˈɪsəl ɛɡzˈæmpəl ˈɪləstɹˌeɪts lˈɜːnɪŋ pɹˈɪnsɪpəlz; ɪɾ ɪz nˌɑːt ɐdvˈaɪs fɔːɹ tɹˈiːɾɪŋ æŋzˈaɪəɾi ɔːɹ ɹᵻmˈuːvɪŋ ɐnˈʌðɚ pˈɜːsənz səpˈɔːɹt.
+
+c06s06
+Apply the idea to this new fictional case.
+
+After a response decreases in one room, it returns when the cue is presented in a different room.
+
+Which research term fits most directly?
+
+A. Spontaneous recovery.
+
+B. Renewal.
+
+C. Shaping.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ˈæftɚɹ ɐ ɹᵻspˈɑːns dˈiːkɹiːsᵻz ɪn wˈʌn ɹˈuːm, ɪt ɹᵻtˈɜːnz wɛn ðə kjˈuː ɪz pɹɪzˈɛntᵻd ɪn ɐ dˈɪfɹənt ɹˈuːm.   wˌɪtʃ ɹᵻsˈɜːtʃ tˈɜːm fˈɪts mˈoʊst dᵻɹˈɛktli?   ˈeɪ. spɑːntˈeɪniəs ɹᵻkˈʌvɚɹi.   bˈiː. ɹᵻnjˈuːəl.   sˈiː. ʃˈeɪpɪŋ.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c06s06-feedback-0
+That term emphasizes a time-related return.
+ðæt tˈɜːm ˈɛmfɐsˌaɪzᵻz ɐ tˈaɪmɹᵻlˈeɪɾᵻd ɹᵻtˈɜːn.
+
+c06s06-feedback-1
+The context change is the relevant feature here.
+ðə kˈɑːntɛkst tʃˈeɪndʒ ɪz ðə ɹˈɛlᵻvənt fˈiːtʃɚ hˈɪɹ.
+
+c06s06-feedback-2
+Shaping concerns successive approximations, not context-related return.
+ʃˈeɪpɪŋ kənsˈɜːnz səksˈɛsɪv ɐpɹˌɑːksɪmˈeɪʃənz, nˌɑːt kˈɑːntɛkstɹᵻlˈeɪɾᵻd ɹᵻtˈɜːn.
+
+c06s07
+Try these questions without your notes.
+
+Why is extinction not necessarily erasure?
+
+What distinguishes renewal from spontaneous recovery?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌaɪ ɪz ɛkstˈɪŋkʃən nˌɑːt nˌɛsɪsˈɛɹᵻli ɪɹˈeɪʒɚ?   wˌʌt dɪstˈɪŋɡwɪʃᵻz ɹᵻnjˈuːəl fɹʌm spɑːntˈeɪniəs ɹᵻkˈʌvɚɹi?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c06s07-answers
+Older learning can remain and compete with a newer cue or action relation.
+
+Renewal involves context change; spontaneous recovery concerns a return after time.
+ˈoʊldɚ lˈɜːnɪŋ kæn ɹᵻmˈeɪn ænd kəmpˈiːt wɪð ɐ nˈuːɚ kjˈuː ɔːɹ ˈækʃən ɹᵻlˈeɪʃən.   ɹᵻnjˈuːəl ɪnvˈɑːlvz kˈɑːntɛkst tʃˈeɪndʒ; spɑːntˈeɪniəs ɹᵻkˈʌvɚɹi kənsˈɜːnz ɐ ɹᵻtˈɜːn ˈæftɚ tˈaɪm.
+
+c06s08
+Use a fictional cue response to describe a context change and a delayed check. Do not run fear, deprivation or clinical exposure exercises.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+jˈuːs ɐ fˈɪkʃənəl kjˈuː ɹᵻspˈɑːns tə dᵻskɹˈaɪb ɐ kˈɑːntɛkst tʃˈeɪndʒ ænd ɐ dᵻlˈeɪd tʃˈɛk. duːnˌɑːt ɹˈʌn fˈɪɹ, dˌɛpɹɪvˈeɪʃən ɔːɹ klˈɪnɪkəl ɛkspˈoʊʒɚɹ ˈɛksɚsˌaɪzᵻz.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c07s01
+Sam checks a familiar red label carefully but overlooks a similar orange label. Leo says the colour alone controls the action. Maya notices that the orange label also has smaller text and a different location.
+sˈæm tʃˈɛks ɐ fəmˈɪlɪɹ ɹˈɛd lˈeɪbəl kˈɛɹfəli bˌʌt ˌoʊvɚlˈʊks ɐ sˈɪmɪlɚɹ ˈɔɹɪndʒ lˈeɪbəl. lˈiːoʊ sˈɛz ðə kˈʌlɚɹ ɐlˈoʊn kəntɹˈoʊlz ðɪ ˈækʃən. mˈaɪə nˈoʊɾɪsᵻz ðætðɪ ˈɔɹɪndʒ lˈeɪbəl ˈɔːlsoʊ hɐz smˈɔːlɚ tˈɛkst ænd ɐ dˈɪfɹənt loʊkˈeɪʃən.
+
+c07s02
+First, make a prediction about the café story.
+
+What should Maya conclude first?
+
+A. Colour definitely caused the miss.
+
+B. Several features changed and need comparison.
+
+C. Generalization never occurs across colours.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt ʃˈʊd mˈaɪə kəŋklˈuːd fˈɜːst?   ˈeɪ. kˈʌlɚ dˈɛfɪnətli kˈɔːzd ðə mˈɪs.   bˈiː. sˈɛvɹəl fˈiːtʃɚz tʃˈeɪndʒd ænd nˈiːd kəmpˈæɹɪsən.   sˈiː. dʒˌɛnɚɹəlᵻzˈeɪʃən nˈɛvɚɹ əkˈɜːz əkɹˌɑːs kˈʌlɚz.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c07s02-feedback-0
+Text and location changed too, so colour is not isolated.
+tˈɛkst ænd loʊkˈeɪʃən tʃˈeɪndʒd tˈuː, sˌoʊ kˈʌlɚɹ ɪz nˌɑːt ˈaɪsəlˌeɪɾᵻd.
+
+c07s02-feedback-1
+The alternative features generate testable accounts.
+ðɪ ɔːltˈɜːnətˌɪv fˈiːtʃɚz dʒˈɛnɚɹˌeɪt tˈɛstəbəl ɐkˈaʊnts.
+
+c07s02-feedback-2
+One miss does not establish a general impossibility.
+wˈʌn mˈɪs dʌznˌɑːt ɪstˈæblɪʃ ɐ dʒˈɛnɚɹəl ɪmpˌɑːsəbˈɪlᵻɾi.
+
+c07s03
+Stimulus generalization: learned responding to related stimuli. Generalization gradient: response pattern across stimulus differences.
+
+A learned response may occur to cues similar to the original. The relevant similarity can concern appearance, meaning or context.
+
+Generalization is not guaranteed by a teacher’s intention. Check new cases rather than treating practice with one example as evidence of broad transfer.
+stˈɪmjʊləs dʒˌɛnɚɹəlᵻzˈeɪʃən: lˈɜːnd ɹᵻspˈɑːndɪŋ tə ɹᵻlˈeɪɾᵻd stˈɪmjʊlˌaɪ. dʒˌɛnɚɹəlᵻzˈeɪʃən ɡɹˈeɪdiənt: ɹᵻspˈɑːns pˈætɚn əkɹˌɑːs stˈɪmjʊləs dˈɪfɹənsᵻz.   ɐ lˈɜːnᵻd ɹᵻspˈɑːns mˈeɪ əkˈɜː tə kjˈuːz sˈɪmɪlɚ tə ðɪ ɚɹˈɪdʒɪnəl. ðə ɹˈɛlᵻvənt sˌɪmɪlˈæɹᵻɾi kæn kənsˈɜːn ɐpˈɪɹəns, mˈiːnɪŋ ɔːɹ kˈɑːntɛkst.   dʒˌɛnɚɹəlᵻzˈeɪʃən ɪz nˌɑːt ɡˌæɹəntˈiːd baɪ ɐ tˈiːtʃɚz ɪntˈɛnʃən. tʃˈɛk nˈuː kˈeɪsᵻz ɹˈæðɚ ðɐn tɹˈiːɾɪŋ pɹˈæktɪs wɪð wˈʌn ɛɡzˈæmpəl æz ˈɛvɪdəns ʌv bɹˈɔːd tɹˈænsfɜː.
+
+c07s03b
+Stimulus discrimination: different responding to distinguishable cues. Discriminative stimulus: cue signalling an action-consequence relation.
+
+A cue can signal when an action is likely to have a particular consequence. This differs from a cue eliciting a conditioned response.
+
+To infer stimulus control, compare conditions while checking other differences. Colour, location, text size and instructions may all contribute.
+stˈɪmjʊləs dɪskɹˌɪmᵻnˈeɪʃən: dˈɪfɹənt ɹᵻspˈɑːndɪŋ tə dɪstˈɪŋɡwɪʃəbəl kjˈuːz. dɪskɹˈɪmɪnətˌɪv stˈɪmjʊləs: kjˈuː sˈɪɡnəlɪŋ ɐn ˈækʃəŋkˈɑːnsɪkwəns ɹᵻlˈeɪʃən.   ɐ kjˈuː kæn sˈɪɡnəl wɛn ɐn ˈækʃən ɪz lˈaɪkli tə hæv ɐ pɚtˈɪkjʊlɚ kˈɑːnsɪkwəns. ðɪs dˈɪfɚz fɹʌm ɐ kjˈuː ᵻlˈɪsᵻɾɪŋ ɐ kəndˈɪʃənd ɹᵻspˈɑːns.   tʊ ɪnfˈɜː stˈɪmjʊləs kəntɹˈoʊl, kəmpˈɛɹ kəndˈɪʃənz wˌaɪl tʃˈɛkɪŋ ˈʌðɚ dˈɪfɹənsᵻz. kˈʌlɚ, loʊkˈeɪʃən, tˈɛkst sˈaɪz ænd ɪnstɹˈʌkʃənz mˈeɪ ˈɔːl kəntɹˈɪbjuːt.
+
+c07s04
+Multiple-exemplar training: practice with varied relevant examples. Overgeneralization: extending a rule beyond its valid range. Boundary condition: circumstance limiting a rule’s application.
+
+Use varied examples that preserve the important rule and include cases where it does not apply. Ask the learner to explain the relevant feature.
+
+The aim is useful discrimination and generalization, not identical responding everywhere. In safety-related tasks, professional standards and appropriate supervision remain essential.
+mˌʌltɪpəlɛɡzˈɛmplɚ tɹˈeɪnɪŋ: pɹˈæktɪs wɪð vˈɛɹid ɹˈɛlᵻvənt ɛɡzˈæmpəlz. ˌoʊvɚdʒˌɛnɚɹəlᵻzˈeɪʃən: ɛkstˈɛndɪŋ ɐ ɹˈuːl bᵻjˌɔnd ɪts vˈælɪd ɹˈeɪndʒ. bˈaʊndɚɹi kəndˈɪʃən: sˈɜːkəmstˌæns lˈɪmɪɾɪŋ ɐ ɹˈuːlz ˌæplɪkˈeɪʃən.   jˈuːs vˈɛɹid ɛɡzˈæmpəlz ðæt pɹɪzˈɜːv ðɪ ɪmpˈɔːɹtənt ɹˈuːl ænd ɪŋklˈuːd kˈeɪsᵻz wˌɛɹ ɪt dʌznˌɑːt ɐplˈaɪ. ˈæsk ðə lˈɜːnɚ tʊ ɛksplˈeɪn ðə ɹˈɛlᵻvənt fˈiːtʃɚ.   ðɪ ˈeɪm ɪz jˈuːsfəl dɪskɹˌɪmᵻnˈeɪʃən ænd dʒˌɛnɚɹəlᵻzˈeɪʃən, nˌɑːt aɪdˈɛntɪkəl ɹᵻspˈɑːndɪŋ ˈɛvɹɪwˌɛɹ. ɪn sˈeɪftiɹᵻlˈeɪɾᵻd tˈæsks, pɹəfˈɛʃənəl stˈændɚdz ænd ɐpɹˈoʊpɹɪət suːpɚvˈɪʒən ɹᵻmˈeɪn ᵻsˈɛnʃəl.
+
+c07s05
+Generalization and discrimination depend on learning history, attention and task structure. Evidence from one cue cannot establish universal stimulus control.
+
+An everyday comparison with several simultaneous changes leaves causal alternatives unresolved.
+dʒˌɛnɚɹəlᵻzˈeɪʃən ænd dɪskɹˌɪmᵻnˈeɪʃən dᵻpˈɛnd ˌɔn lˈɜːnɪŋ hˈɪstɚɹi, ɐtˈɛnʃən ænd tˈæsk stɹˈʌktʃɚ. ˈɛvɪdəns fɹʌm wˈʌn kjˈuː kænˈɑːt ɪstˈæblɪʃ jˌuːnɪvˈɜːsəl stˈɪmjʊləs kəntɹˈoʊl.   ɐn ˈɛvɹɪdˌeɪ kəmpˈæɹɪsən wɪð sˈɛvɹəl sˌaɪməltˈeɪniəs tʃˈeɪndʒᵻz lˈiːvz kˈɔːzəl ɔːltˈɜːnətˌɪvz ˌʌnɹᵻzˈɑːlvd.
+
+c07s06
+Apply the idea to this new fictional case.
+
+A workshop wants learners to recognize the same safety instruction across several formats without applying it to unrelated labels.
+
+Which practice set best supports the intended skill?
+
+A. One example repeated without variation.
+
+B. Unrelated examples with no clear rule.
+
+C. Varied valid examples plus relevant boundary cases.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ wˈɜːkʃɑːp wˈɔnts lˈɜːnɚz tə ɹˈɛkəɡnˌaɪz ðə sˈeɪm sˈeɪfti ɪnstɹˈʌkʃən əkɹˌɑːs sˈɛvɹəl fˈɔːɹmæts wɪðˌaʊt ɐplˈaɪɪŋ ɪt tʊ ˌʌnɹᵻlˈeɪɾᵻd lˈeɪbəlz.   wˌɪtʃ pɹˈæktɪs sˈɛt bˈɛst səpˈɔːɹts ðɪ ɪntˈɛndᵻd skˈɪl?   ˈeɪ. wˈʌn ɛɡzˈæmpəl ɹᵻpˈiːɾᵻd wɪðˌaʊt vˌɛɹɪˈeɪʃən.   bˈiː. ˌʌnɹᵻlˈeɪɾᵻd ɛɡzˈæmpəlz wɪð nˈoʊ klˈɪɹ ɹˈuːl.   sˈiː. vˈɛɹid vˈælɪd ɛɡzˈæmpəlz plˈʌs ɹˈɛlᵻvənt bˈaʊndɚɹi kˈeɪsᵻz.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c07s06-feedback-0
+Repetition alone can leave the rule tied to surface features.
+ɹˌɛpətˈɪʃən ɐlˈoʊn kæn lˈiːv ðə ɹˈuːl tˈaɪd tə sˈɜːfɪs fˈiːtʃɚz.
+
+c07s06-feedback-1
+Variation needs a coherent relation to the target skill.
+vˌɛɹɪˈeɪʃən nˈiːdz ɐ koʊhˈɪɹənt ɹᵻlˈeɪʃən tə ðə tˈɑːɹɡɪt skˈɪl.
+
+c07s06-feedback-2
+The set teaches both where the rule transfers and where it stops.
+ðə sˈɛt tˈiːtʃᵻz bˈoʊθ wˌɛɹ ðə ɹˈuːl tɹˈænsfɜːz ænd wˌɛɹ ɪt stˈɑːps.
+
+c07s07
+Try these questions without your notes.
+
+How does generalization differ from discrimination?
+
+Why include a boundary case?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   hˌaʊ dˈʌz dʒˌɛnɚɹəlᵻzˈeɪʃən dˈɪfɚ fɹʌm dɪskɹˌɪmᵻnˈeɪʃən?   wˌaɪ ɪŋklˈuːd ɐ bˈaʊndɚɹi kˈeɪs?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c07s07-answers
+Generalization extends responding to related cues; discrimination differentiates conditions.
+
+It helps identify where a rule does not apply and reduces overgeneralization.
+dʒˌɛnɚɹəlᵻzˈeɪʃən ɛkstˈɛndz ɹᵻspˈɑːndɪŋ tə ɹᵻlˈeɪɾᵻd kjˈuːz; dɪskɹˌɪmᵻnˈeɪʃən dˌɪfɚɹˈɛnʃɪˌeɪts kəndˈɪʃənz.   ɪt hˈɛlps aɪdˈɛntᵻfˌaɪ wˌɛɹ ɐ ɹˈuːl dʌznˌɑːt ɐplˈaɪ ænd ɹᵻdˈuːsᵻz ˌoʊvɚdʒˌɛnɚɹəlᵻzˈeɪʃən.
+
+c07s08
+Create two fictional examples of a harmless rule and one boundary case. Explain which feature matters.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+kɹiːˈeɪt tˈuː fˈɪkʃənəl ɛɡzˈæmpəlz əvə hˈɑːɹmləs ɹˈuːl ænd wˈʌn bˈaʊndɚɹi kˈeɪs. ɛksplˈeɪn wˌɪtʃ fˈiːtʃɚ mˈæɾɚz.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c08s01
+Jo watches Maya diagnose a radio, then explains the comparison accurately without using Maya’s exact gestures. Leo says no learning occurred because Jo did not imitate the movements.
+dʒˈoʊ wˈɑːtʃᵻz mˈaɪə dˌaɪəɡnˈoʊz ɐ ɹˈeɪdɪˌoʊ, ðˈɛn ɛksplˈeɪnz ðə kəmpˈæɹɪsən ˈækjʊɹətli wɪðˌaʊt jˈuːzɪŋ mˈaɪə ˈɛs ɛɡzˈækt dʒˈɛstʃɚz. lˈiːoʊ sˈɛz nˈoʊ lˈɜːnɪŋ əkˈɜːd bɪkˈʌz dʒˈoʊ dɪdnˌɑːt ˈɪmᵻtˌeɪt ðə mˈuːvmənts.
+
+c08s02
+First, make a prediction about the café story.
+
+What would best test Jo’s learning?
+
+A. Require identical hand movements.
+
+B. Ask for a diagnosis based on appearance.
+
+C. Use a new safe case requiring the same comparison.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌʌt wʊd bˈɛst tˈɛst dʒˈoʊz lˈɜːnɪŋ?   ˈeɪ. ɹᵻkwˈaɪɚɹ aɪdˈɛntɪkəl hˈænd mˈuːvmənts.   bˈiː. ˈæsk fɚɹə dˌaɪəɡnˈoʊsɪs bˈeɪst ˌɔn ɐpˈɪɹəns.   sˈiː. jˈuːs ɐ nˈuː sˈeɪf kˈeɪs ɹᵻkwˈaɪɚɹɪŋ ðə sˈeɪm kəmpˈæɹɪsən.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c08s02-feedback-0
+That tests imitation rather than necessarily the strategy.
+ðæt tˈɛsts ˌɪmɪtˈeɪʃən ɹˈæðɚ ðɐn nˌɛsɪsˈɛɹᵻli ðə stɹˈæɾədʒi.
+
+c08s02-feedback-1
+The intended skill is evidence-based comparison, not a guess.
+ðɪ ɪntˈɛndᵻd skˈɪl ɪz ˈɛvɪdənsbˈeɪst kəmpˈæɹɪsən, nˌɑːɾə ɡˈɛs.
+
+c08s02-feedback-2
+A new case can reveal whether the relevant relation was learned.
+ɐ nˈuː kˈeɪs kæn ɹᵻvˈiːl wˈɛðɚ ðə ɹˈɛlᵻvənt ɹᵻlˈeɪʃən wʌz lˈɜːnd.
+
+c08s03
+Observational learning: learning by observing others and outcomes. Model: person or representation being observed.
+
+People can learn procedures, expectations and strategies by watching. Imitation is one possible outcome, not the only evidence of learning.
+
+Jo may learn which comparison matters while using a different movement. An appropriate new task can test the learned strategy more directly than matching gestures.
+ɑːbzɚvˈeɪʃənəl lˈɜːnɪŋ: lˈɜːnɪŋ baɪ əbzˈɜːvɪŋ ˈʌðɚz ænd ˈaʊtkʌmz. mˈɑːdəl: pˈɜːsən ɔːɹ ɹˌɛpɹᵻzˈɛntˈeɪʃən bˌiːɪŋ əbzˈɜːvd.   pˈiːpəl kæn lˈɜːn pɹəsˈiːdʒɚz, ɛkspɪktˈeɪʃənz ænd stɹˈæɾədʒiz baɪ wˈɑːtʃɪŋ. ˌɪmɪtˈeɪʃən ɪz wˈʌn pˈɑːsᵻbəl ˈaʊtkʌm, nˌɑːt ðɪ ˈoʊnli ˈɛvɪdəns ʌv lˈɜːnɪŋ.   dʒˈoʊ mˈeɪ lˈɜːn wˌɪtʃ kəmpˈæɹɪsən mˈæɾɚz wˌaɪl jˈuːzɪŋ ɐ dˈɪfɹənt mˈuːvmənt. ɐn ɐpɹˈoʊpɹɪət nˈuː tˈæsk kæn tˈɛst ðə lˈɜːnᵻd stɹˈæɾədʒi mˈɔːɹ dᵻɹˈɛktli ðɐn mˈætʃɪŋ dʒˈɛstʃɚz.
+
+c08s03b
+Attention: selecting information for processing. Retention: keeping information available over time. Reproduction: ability to carry out the observed action.
+
+A learner must notice relevant features and retain enough information to use them. Physical skills and opportunities affect whether the action can be reproduced.
+
+Explain the purpose of each step, invite an attempt and provide feedback. Merely displaying a demonstration does not establish that the learner understood it.
+ɐtˈɛnʃən: sᵻlˈɛktɪŋ ˌɪnfɚmˈeɪʃən fɔːɹ pɹˈɑːsɛsɪŋ. ɹᵻtˈɛnʃən: kˈiːpɪŋ ˌɪnfɚmˈeɪʃən ɐvˈeɪləbəl ˌoʊvɚ tˈaɪm. ɹᵻpɹədˈʌkʃən: ɐbˈɪləɾi tə kˈæɹi ˈaʊt ðɪ əbzˈɜːvd ˈækʃən.   ɐ lˈɜːnɚ mˈʌst nˈoʊɾɪs ɹˈɛlᵻvənt fˈiːtʃɚz ænd ɹᵻtˈeɪn ɪnˈʌf ˌɪnfɚmˈeɪʃən tə jˈuːz ðˌɛm. fˈɪzɪkəl skˈɪlz ænd ɑːpɚtˈuːnᵻɾiz ɐfˈɛkt wˈɛðɚ ðɪ ˈækʃən kæn biː ɹᵻpɹədˈuːst.   ɛksplˈeɪn ðə pˈɜːpəs ʌv ˈiːtʃ stˈɛp, ɪnvˈaɪt ɐn ɐtˈɛmpt ænd pɹəvˈaɪd fˈiːdbæk. mˈɪɹli dɪsplˈeɪɪŋ ɐ dˌɛmənstɹˈeɪʃən dʌznˌɑːt ɪstˈæblɪʃ ðætðə lˈɜːnɚɹ ˌʌndɚstˈʊd ɪt.
+
+c08s04
+Vicarious reinforcement: effects of seeing another’s reinforcement. Outcome expectation: belief about likely consequences. Self-efficacy: belief in capability for a specified action.
+
+Seeing another person succeed or receive a consequence can influence expectations and willingness to act. Believing a task is possible is distinct from already possessing the skill.
+
+A relatable model and achievable practice may help, but social learning does not make learners passive copies. Prior knowledge and context shape interpretation.
+vɪkˈɛɹiəs ɹˌiːɪnfˈɔːɹsmənt: ɪfˈɛkts ʌv sˈiːɪŋ ɐnˈʌðɚz ɹˌiːɪnfˈɔːɹsmənt. ˈaʊtkʌm ɛkspɪktˈeɪʃən: bᵻlˈiːf ɐbˌaʊt lˈaɪkli kˈɑːnsɪkwənsᵻz. sˈɛlfˈɛfɪkəsi: bᵻlˈiːf ɪn kˌeɪpəbˈɪlᵻɾi fɚɹə spˈɛsᵻfˌaɪd ˈækʃən.   sˈiːɪŋ ɐnˈʌðɚ pˈɜːsən səksˈiːd ɔːɹ ɹᵻsˈiːv ɐ kˈɑːnsɪkwəns kæn ˈɪnfluːəns ɛkspɪktˈeɪʃənz ænd wˈɪlɪŋnəs tʊ ˈækt. bᵻlˈiːvɪŋ ɐ tˈæsk ɪz pˈɑːsᵻbəl ɪz dɪstˈɪŋkt fɹʌm ɔːlɹˌɛdi pəzˈɛsɪŋ ðə skˈɪl.   ɐ ɹᵻlˈeɪɾəbəl mˈɑːdəl ænd ɐtʃˈiːvəbəl pɹˈæktɪs mˈeɪ hˈɛlp, bˌʌt sˈoʊʃəl lˈɜːnɪŋ dʌznˌɑːt mˌeɪk lˈɜːnɚz pˈæsɪv kˈɑːpɪz. pɹˈaɪɚ nˈɑːlɪdʒ ænd kˈɑːntɛkst ʃˈeɪp ɪntˌɜːpɹɪtˈeɪʃən.
+
+c08s05
+Observational-learning studies distinguish acquisition, performance and the effects of observed outcomes. Task, model and social context qualify generalization.
+
+A demonstration’s popularity is not evidence of transfer. Delayed unfamiliar performance provides a stronger check of the intended skill.
+ɑːbzɚvˈeɪʃənəllˈɜːnɪŋ stˈʌdiz dɪstˈɪŋɡwɪʃ ɐkwɪsˈɪʃən, pɚfˈɔːɹməns ænd ðɪ ɪfˈɛkts ʌv əbzˈɜːvd ˈaʊtkʌmz. tˈæsk, mˈɑːdəl ænd sˈoʊʃəl kˈɑːntɛkst kwˈɔlᵻfˌaɪ dʒˌɛnɚɹəlᵻzˈeɪʃən.   ɐ dˌɛmənstɹˈeɪʃənz pˌɑːpjʊlˈæɹᵻɾi ɪz nˌɑːt ˈɛvɪdəns ʌv tɹˈænsfɜː. dᵻlˈeɪd ʌnfəmˈɪlɪɹ pɚfˈɔːɹməns pɹəvˈaɪdz ɐ stɹˈɔŋɡɚ tʃˈɛk ʌvðɪ ɪntˈɛndᵻd skˈɪl.
+
+c08s06
+Apply the idea to this new fictional case.
+
+A learner feels confident after a demonstration but cannot yet complete the procedure independently.
+
+Which distinction matters?
+
+A. Confidence and current capability are different.
+
+B. Confidence proves full mastery.
+
+C. A failed attempt proves no learning occurred.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ lˈɜːnɚ fˈiːlz kˈɑːnfɪdənt ˈæftɚɹ ɐ dˌɛmənstɹˈeɪʃən bˌʌt kænˈɑːt jˈɛt kəmplˈiːt ðə pɹəsˈiːdʒɚɹ ˌɪndᵻpˈɛndəntli.   wˌɪtʃ dɪstˈɪŋkʃən mˈæɾɚz?   ˈeɪ. kˈɑːnfɪdəns ænd kˈɜːɹənt kˌeɪpəbˈɪlᵻɾi ɑːɹ dˈɪfɹənt.   bˈiː. kˈɑːnfɪdəns pɹˈuːvz fˈʊl mˈæstɚɹi.   sˈiː. ɐ fˈeɪld ɐtˈɛmpt pɹˈuːvz nˈoʊ lˈɜːnɪŋ əkˈɜːd.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c08s06-feedback-0
+Belief may support action without establishing the skill.
+bᵻlˈiːf mˈeɪ səpˈɔːɹt ˈækʃən wɪðˌaʊt ɪstˈæblɪʃɪŋ ðə skˈɪl.
+
+c08s06-feedback-1
+Self-efficacy is not a direct performance measure.
+sˈɛlfˈɛfɪkəsi ɪz nˌɑːɾə dᵻɹˈɛkt pɚfˈɔːɹməns mˈɛʒɚ.
+
+c08s06-feedback-2
+Performance can be limited by demands, access and incomplete practice.
+pɚfˈɔːɹməns kæn biː lˈɪmɪɾᵻd baɪ dᵻmˈændz, ˈæksɛs ænd ɪŋkəmplˈiːt pɹˈæktɪs.
+
+c08s07
+Try these questions without your notes.
+
+Why is imitation narrower than observational learning?
+
+How would you check retention and application?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌaɪ ɪz ˌɪmɪtˈeɪʃən nˈæɹoʊɚ ðɐn ɑːbzɚvˈeɪʃənəl lˈɜːnɪŋ?   hˌaʊ wʊd juː tʃˈɛk ɹᵻtˈɛnʃən ænd ˌæplɪkˈeɪʃən?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c08s07-answers
+Learning can involve a rule or expectation without copying exact movements.
+
+Ask for an unaided explanation and use a suitable delayed new task.
+lˈɜːnɪŋ kæn ɪnvˈɑːlv ɐ ɹˈuːl ɔːɹ ɛkspɪktˈeɪʃən wɪðˌaʊt kˈɑːpɪɪŋ ɛɡzˈækt mˈuːvmənts.   ˈæsk fɚɹən ʌnˈeɪdᵻd ɛksplɐnˈeɪʃən ænd jˈuːs ɐ sˈuːɾəbəl dᵻlˈeɪd nˈuː tˈæsk.
+
+c08s08
+Watch a public demonstration of a harmless skill. Name the useful relation and design a new case that would test it.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+wˈɑːtʃ ɐ pˈʌblɪk dˌɛmənstɹˈeɪʃən əvə hˈɑːɹmləs skˈɪl. nˈeɪm ðə jˈuːsfəl ɹᵻlˈeɪʃən ænd dɪzˈaɪn ɐ nˈuː kˈeɪs ðæt wʊd tˈɛst ɪt.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c09s01
+Sam repeatedly puts the mug beside the old kettle location even after the kettle moves. Leo calls it a lack of commitment. Maya asks which cues and repeated actions may be involved.
+sˈæm ɹᵻpˈiːɾᵻdli pˌʊts ðə mˈʌɡ bᵻsˌaɪd ðɪ ˈoʊld kˈɛɾəl loʊkˈeɪʃən ˈiːvən ˈæftɚ ðə kˈɛɾəl mˈuːvz. lˈiːoʊ kˈɔːlz ɪɾ ɐ lˈæk ʌv kəmˈɪtmənt. mˈaɪə ˈæsks wˌɪtʃ kjˈuːz ænd ɹᵻpˈiːɾᵻd ˈækʃənz mˈeɪ biː ɪnvˈɑːlvd.
+
+c09s02
+First, make a prediction about the café story.
+
+Which account best fits the mug pattern?
+
+A. A familiar context may still cue the old action.
+
+B. The error proves a lack of commitment.
+
+C. All frequent actions are deliberate goals.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌɪtʃ ɐkˈaʊnt bˈɛst fˈɪts ðə mˈʌɡ pˈætɚn?   ˈeɪ. ɐ fəmˈɪlɪɹ kˈɑːntɛkst mˈeɪ stˈɪl kjˈuː ðɪ ˈoʊld ˈækʃən.   bˈiː. ðɪ ˈɛɹɚ pɹˈuːvz ɐ lˈæk ʌv kəmˈɪtmənt.   sˈiː. ˈɔːl fɹˈiːkwənt ˈækʃənz ɑːɹ dᵻlˈɪbɚɹət ɡˈoʊlz.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c09s02-feedback-0
+The learning-history explanation is plausible and can guide a small cue change.
+ðə lˈɜːnɪŋhˈɪstɚɹi ɛksplɐnˈeɪʃən ɪz plˈɔːzᵻbəl ænd kæn ɡˈaɪd ɐ smˈɔːl kjˈuː tʃˈeɪndʒ.
+
+c09s02-feedback-1
+A mistake does not uniquely identify motivation.
+ɐ mɪstˈeɪk dʌznˌɑːt juːnˈiːkli aɪdˈɛntᵻfˌaɪ mˌoʊɾɪvˈeɪʃən.
+
+c09s02-feedback-2
+Repetition can support responses with reduced deliberation.
+ɹˌɛpətˈɪʃən kæn səpˈɔːɹt ɹᵻspˈɑːnsᵻz wɪð ɹᵻdˈuːst dᵻlˌɪbɚɹˈeɪʃən.
+
+c09s03
+Automaticity: reduced need for deliberate control. Intention: a plan or commitment to act.
+
+Repeated actions in stable contexts can become easier to initiate with less deliberation. A habit is not identical to frequency or to a conscious goal.
+
+Sam can intend to use the new location while still responding to familiar cues. The pattern suggests a learning history, not a moral defect.
+ˌɔːɾəmɐtˈɪsᵻɾi: ɹᵻdˈuːst nˈiːd fɔːɹ dᵻlˈɪbɚɹət kəntɹˈoʊl. ɪntˈɛnʃən: ɐ plˈæn ɔːɹ kəmˈɪtmənt tʊ ˈækt.   ɹᵻpˈiːɾᵻd ˈækʃənz ɪn stˈeɪbəl kˈɑːntɛksts kæn bɪkˌʌm ˈiːziɚ tʊ ɪnˈɪʃɪˌeɪt wɪð lˈɛs dᵻlˌɪbɚɹˈeɪʃən. ɐ hˈæbɪt ɪz nˌɑːt aɪdˈɛntɪkəl tə fɹˈiːkwənsi ɔːɹ tʊ ɐ kˈɑːnʃəs ɡˈoʊl.   sˈæm kæn ɪntˈɛnd tə jˈuːz ðə nˈuː loʊkˈeɪʃən wˌaɪl stˈɪl ɹᵻspˈɑːndɪŋ tə fəmˈɪlɪɹ kjˈuːz. ðə pˈætɚn sədʒˈɛsts ɐ lˈɜːnɪŋ hˈɪstɚɹi, nˌɑːɾə mˈɔːɹəl dˈiːfɛkt.
+
+c09s03b
+Environmental cue: feature that can prompt a response. Friction: effort or steps required for an action. Implementation intention: a specified if-then action plan.
+
+For a self-chosen harmless routine, make the intended action easy to notice and perform. An if-then plan can specify a cue and response.
+
+A plan is not a guarantee. Check what happens under the actual conditions, and revise barriers rather than escalating blame.
+ɛnvˌaɪɹənmˈɛntəl kjˈuː: fˈiːtʃɚ ðæt kæn pɹˈɑːmpt ɐ ɹᵻspˈɑːns. fɹˈɪkʃən: ˈɛfɚt ɔːɹ stˈɛps ɹᵻkwˈaɪɚd fɚɹən ˈækʃən. ˌɪmplɪməntˈeɪʃən ɪntˈɛnʃən: ɐ spˈɛsᵻfˌaɪd ɪfðˈɛn ˈækʃən plˈæn.   fɚɹə sˈɛlftʃˈoʊzən hˈɑːɹmləs ɹuːtˈiːn, mˌeɪk ðɪ ɪntˈɛndᵻd ˈækʃən ˈiːzi tə nˈoʊɾɪs ænd pɚfˈɔːɹm. ɐn ɪfðˈɛn plˈæn kæn spˈɛsᵻfˌaɪ ɐ kjˈuː ænd ɹᵻspˈɑːns.   ɐ plˈæn ɪz nˌɑːɾə ɡˌæɹəntˈiː. tʃˈɛk wʌt hˈæpənz ˌʌndɚ ðɪ ˈæktʃuːəl kəndˈɪʃənz, ænd ɹᵻvˈaɪz bˈæɹɪɹz ɹˈæðɚ ðɐn ˈɛskɐlˌeɪɾɪŋ blˈeɪm.
+
+c09s04
+Self-monitoring: recording one’s own defined behaviour. Maintenance: persistence across time. Behavioural substitution: using another response in a relevant situation.
+
+Record opportunities and the chosen outcome over time. Ask whether the change is useful, sustainable and still freely chosen.
+
+There is no universal number of days that creates every habit. Clinical compulsions, addiction and serious distress need appropriate care rather than a simplified habit checklist.
+sˈɛlfmˈɑːnɪɾɚɹɪŋ: ɹᵻkˈɔːɹdɪŋ wˈʌnz ˈoʊn dᵻfˈaɪnd bᵻhˈeɪvjɚ. mˈeɪntənəns: pɚsˈɪstəns əkɹˌɑːs tˈaɪm. bᵻhˈeɪvjɚɹəl sˌʌbstɪtˈuːʃən: jˈuːzɪŋ ɐnˈʌðɚ ɹᵻspˈɑːns ɪn ɐ ɹˈɛlᵻvənt sˌɪtʃuːˈeɪʃən.   ɹˈɛkɚd ɑːpɚtˈuːnᵻɾiz ænd ðə tʃˈoʊzən ˈaʊtkʌm ˌoʊvɚ tˈaɪm. ˈæsk wˈɛðɚ ðə tʃˈeɪndʒ ɪz jˈuːsfəl, səstˈeɪnəbəl ænd stˈɪl fɹˈiːli tʃˈoʊzən.   ðɛɹ ɪz nˈoʊ jˌuːnɪvˈɜːsəl nˈʌmbɚɹ ʌv dˈeɪz ðæt kɹiːˈeɪts ˈɛvɹi hˈæbɪt. klˈɪnɪkəl kəmpˈʌlʃənz, ɐdˈɪkʃən ænd sˈɪɹiəs dɪstɹˈɛs nˈiːd ɐpɹˈoʊpɹɪət kˈɛɹ ɹˈæðɚ ðˌænə sˈɪmplᵻfˌaɪd hˈæbɪt tʃˈɛklɪst.
+
+c09s05
+Habit research distinguishes cue-linked automaticity, repetition and intention. Development rates vary with action, context and measurement.
+
+Self-directed routine experiments cannot establish treatment efficacy or explain every persistent behaviour.
+hˈæbɪt ɹᵻsˈɜːtʃ dɪstˈɪŋɡwɪʃᵻz kjˈuːlˈɪŋkt ˌɔːɾəmɐtˈɪsᵻɾi, ɹˌɛpətˈɪʃən ænd ɪntˈɛnʃən. dɪvˈɛləpmənt ɹˈeɪts vˈɛɹi wɪð ˈækʃən, kˈɑːntɛkst ænd mˈɛʒɚmənt.   sˈɛlfdᵻɹˈɛktᵻd ɹuːtˈiːn ɛkspˈɛɹɪmənts kænˈɑːt ɪstˈæblɪʃ tɹˈiːtmənt ˈɛfɪkəsi ɔːɹ ɛksplˈeɪn ˈɛvɹi pɚsˈɪstənt bᵻhˈeɪvjɚ.
+
+c09s06
+Apply the idea to this new fictional case.
+
+A person chooses a harmless routine but misses it when the context changes.
+
+What is the most useful next step?
+
+A. Wait for a universal habit deadline.
+
+B. Check cue, access and opportunities, then revise the plan.
+
+C. Treat a missed day as proof of permanent failure.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐ pˈɜːsən tʃˈuːzᵻz ɐ hˈɑːɹmləs ɹuːtˈiːn bˌʌt mˈɪsɪz ɪt wɛn ðə kˈɑːntɛkst tʃˈeɪndʒᵻz.   wˌʌt ɪz ðə mˈoʊst jˈuːsfəl nˈɛkst stˈɛp?   ˈeɪ. wˈeɪt fɚɹə jˌuːnɪvˈɜːsəl hˈæbɪt dˈɛdlaɪn.   bˈiː. tʃˈɛk kjˈuː, ˈæksɛs ænd ɑːpɚtˈuːnᵻɾiz, ðˈɛn ɹᵻvˈaɪz ðə plˈæn.   sˈiː. tɹˈiːt ɐ mˈɪst dˈeɪ æz pɹˈuːf ʌv pˈɜːmənənt fˈeɪlɪɹ.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c09s06-feedback-0
+No fixed deadline applies to every action and setting.
+nˈoʊ fˈɪkst dˈɛdlaɪn ɐplˈaɪz tʊ ˈɛvɹi ˈækʃən ænd sˈɛɾɪŋ.
+
+c09s06-feedback-1
+The conditions and meaningful outcome provide information for revision.
+ðə kəndˈɪʃənz ænd mˈiːnɪŋfəl ˈaʊtkʌm pɹəvˈaɪd ˌɪnfɚmˈeɪʃən fɔːɹ ɹᵻvˈɪʒən.
+
+c09s06-feedback-2
+One lapse does not settle the later trajectory.
+wˈʌn lˈæps dʌznˌɑːt sˈɛɾəl ðə lˈeɪɾɚ tɹədʒˈɛktɚɹi.
+
+c09s07
+Try these questions without your notes.
+
+How does habit differ from intention?
+
+Why reject a universal habit-day rule?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   hˌaʊ dˈʌz hˈæbɪt dˈɪfɚ fɹʌm ɪntˈɛnʃən?   wˌaɪ ɹᵻdʒˈɛkt ɐ jˌuːnɪvˈɜːsəl hˈæbɪtdˈeɪ ɹˈuːl?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c09s07-answers
+Habit concerns a learned cue-linked tendency; intention is a conscious plan.
+
+Actions, contexts, opportunities and measures differ, producing variable trajectories.
+hˈæbɪt kənsˈɜːnz ɐ lˈɜːnᵻd kjˈuːlˈɪŋkt tˈɛndənsi; ɪntˈɛnʃən ɪz ɐ kˈɑːnʃəs plˈæn.   ˈækʃənz, kˈɑːntɛksts, ɑːpɚtˈuːnᵻɾiz ænd mˈɛʒɚz dˈɪfɚ, pɹədˈuːsɪŋ vˈɛɹɪəbəl tɹədʒˈɛktɚɹiz.
+
+c09s08
+Choose one harmless routine for yourself. Write an if-then plan, reduce one barrier and review opportunities without punishing missed attempts.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+tʃˈuːz wˈʌn hˈɑːɹmləs ɹuːtˈiːn fɔːɹ jɔːɹsˈɛlf. ɹˈaɪt æn ɪfðˈɛn plˈæn, ɹᵻdˈuːs wˈʌn bˈæɹiɚ ænd ɹᵻvjˈuː ɑːpɚtˈuːnᵻɾiz wɪðˌaʊt pˈʌnɪʃɪŋ mˈɪst ɐtˈɛmpts.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.
+
+c10s01
+The café wants more reliable tool returns. Leo proposes hidden monitoring and escalating penalties. Maya suggests asking volunteers about barriers, restoring shelf access and evaluating an agreed procedure.
+ðə kæfˈeɪ wˈɔnts mˈɔːɹ ɹᵻlˈaɪəbəl tˈuːl ɹᵻtˈɜːnz. lˈiːoʊ pɹəpˈoʊzᵻz hˈɪdən mˈɑːnɪɾɚɹɪŋ ænd ˈɛskɐlˌeɪɾɪŋ pˈɛnəlɾiz. mˈaɪə sədʒˈɛsts ˈæskɪŋ vˌɑːləntˈɪɹz ɐbˌaʊt bˈæɹɪɹz, ɹᵻstˈɔːɹɪŋ ʃˈɛlf ˈæksɛs ænd ɪvˈæljuːˌeɪɾɪŋ ɐn ɐɡɹˈiːd pɹəsˈiːdʒɚ.
+
+c10s02
+First, make a prediction about the café story.
+
+Which plan best fits the evidence and ethics?
+
+A. Use hidden monitoring before discussion.
+
+B. Agree a useful outcome, remove barriers and evaluate with consent.
+
+C. Escalate penalties whenever a count falls.
+
+Choose an option before checking the feedback.
+fˈɜːst, mˌeɪk ɐ pɹɪdˈɪkʃən ɐbˌaʊt ðə kæfˈeɪ stˈɔːɹi.   wˌɪtʃ plˈæn bˈɛst fˈɪts ðɪ ˈɛvɪdəns ænd ˈɛθɪks?   ˈeɪ. jˈuːs hˈɪdən mˈɑːnɪɾɚɹɪŋ bᵻfˌɔːɹ dɪskˈʌʃən.   bˈiː. ɐɡɹˈiː ɐ jˈuːsfəl ˈaʊtkʌm, ɹᵻmˈuːv bˈæɹɪɹz ænd ɪvˈæljuːˌeɪt wɪð kənsˈɛnt.   sˈiː. ˈɛskɐlˌeɪt pˈɛnəlɾiz wɛnˌɛvɚɹ ɐ kˈaʊnt fˈɔːlz.   tʃˈuːz ɐn ˈɑːpʃən bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c10s02-feedback-0
+Covert tracking undermines privacy and may miss the actual barrier.
+koʊvˈɜːt tɹˈækɪŋ ˌʌndɚmˈaɪnz pɹˈaɪvəsi ænd mˈeɪ mˈɪs ðɪ ˈæktʃuːəl bˈæɹiɚ.
+
+c10s02-feedback-1
+This connects agency, accessible conditions and a testable outcome.
+ðɪs kənˈɛkts ˈeɪdʒənsi, æksˈɛsəbəl kəndˈɪʃənz ænd ɐ tˈɛstəbəl ˈaʊtkʌm.
+
+c10s02-feedback-2
+Counts need context and escalating punishment can introduce harm.
+kˈaʊnts nˈiːd kˈɑːntɛkst ænd ˈɛskɐlˌeɪɾɪŋ pˈʌnɪʃmənt kæn ˌɪntɹədˈuːs hˈɑːɹm.
+
+c10s03
+Antecedent: condition preceding an action. Consequence: event following an action. Functional assessment: examining relations between conditions and behaviour.
+
+Map what happens before and after the action, then consider alternatives. A descriptive sequence does not by itself establish a causal function.
+
+The locked shelf may be a barrier; a reminder may help; social expectations may matter. Use a safe, consensual comparison rather than assuming the first story is correct.
+ˌæntɪsˈiːdənt: kəndˈɪʃən pɹɪsˈiːdɪŋ ɐn ˈækʃən. kˈɑːnsɪkwəns: ᵻvˈɛnt fˈɑːloʊɪŋ ɐn ˈækʃən. fˈʌŋkʃənəl ɐsˈɛsmənt: ɛɡzˈæmɪnɪŋ ɹᵻlˈeɪʃənz bᵻtwˌiːn kəndˈɪʃənz ænd bᵻhˈeɪvjɚ.   mˈæp wʌt hˈæpənz bᵻfˌɔːɹ ænd ˈæftɚ ðɪ ˈækʃən, ðˈɛn kənsˈɪdɚɹ ɔːltˈɜːnətˌɪvz. ɐ dᵻskɹˈɪptɪv sˈiːkwəns dʌznˌɑːt baɪ ɪtsˈɛlf ɪstˈæblɪʃ ɐ kˈɔːzəl fˈʌŋkʃən.   ðə lˈɑːkt ʃˈɛlf mˈeɪ biː ɐ bˈæɹiɚ; ɐ ɹᵻmˈaɪndɚ mˈeɪ hˈɛlp; sˈoʊʃəl ɛkspɪktˈeɪʃənz mˈeɪ mˈæɾɚ. jˈuːs ɐ sˈeɪf, kənsˈɛnʃuːəl kəmpˈæɹɪsən ɹˈæðɚ ðɐn ɐsˈuːmɪŋ ðə fˈɜːst stˈɔːɹi ɪz kɚɹˈɛkt.
+
+c10s03b
+Single-case design: repeated measurement within a case under planned conditions. Multiple baseline: staggering introduction across cases or behaviours. Social validity: importance and acceptability of goals and procedures.
+
+Repeated measurement can examine whether change follows an intervention. Replication across appropriately staggered introductions helps address alternative explanations.
+
+Do not withdraw essential support to create a comparison. A meaningful outcome, participant preferences and harms are part of the evaluation, not optional extras.
+sˈɪŋɡəlkˈeɪs dɪzˈaɪn: ɹᵻpˈiːɾᵻd mˈɛʒɚmənt wɪðˌɪn ɐ kˈeɪs ˌʌndɚ plˈænd kəndˈɪʃənz. mˌʌltɪpəl bˈeɪslaɪn: stˈæɡɚɹɪŋ ˌɪntɹədˈʌkʃən əkɹˌɑːs kˈeɪsᵻz ɔːɹ bᵻhˈeɪvjɚz. sˈoʊʃəl vælˈɪdᵻɾi: ɪmpˈɔːɹtəns ænd ɐksˌɛptəbˈɪlᵻɾi ʌv ɡˈoʊlz ænd pɹəsˈiːdʒɚz.   ɹᵻpˈiːɾᵻd mˈɛʒɚmənt kæn ɛɡzˈæmɪn wˈɛðɚ tʃˈeɪndʒ fˈɑːloʊz ɐn ˌɪntɚvˈɛnʃən. ɹˌɛplɪkˈeɪʃən əkɹˌɑːs ɐpɹˈoʊpɹɪətli stˈæɡɚd ˌɪntɹədˈʌkʃənz hˈɛlps ɐdɹˈɛs ɔːltˈɜːnətˌɪv ɛksplɐnˈeɪʃənz.   duːnˌɑːt wɪθdɹˈɔː ᵻsˈɛnʃəl səpˈɔːɹt tə kɹiːˈeɪt ɐ kəmpˈæɹɪsən. ɐ mˈiːnɪŋfəl ˈaʊtkʌm, pɑːɹtˈɪsɪpənt pɹˈɛfɹənsᵻz ænd hˈɑːɹmz ɑːɹ pˈɑːɹt ʌvðɪ ɪvˌæljuːˈeɪʃən, nˌɑːt ˈɑːpʃənəl ˈɛkstɹəz.
+
+c10s04
+Consent: freely given informed agreement. Coercion: pressure undermining a free choice. Least restrictive approach: support that minimizes unnecessary constraint.
+
+Discuss goals with the people affected and make access and skill support the first questions. Privacy and the right to decline matter.
+
+Learning principles can improve teaching and self-directed routines. They do not justify manipulating partners, children or colleagues. Serious behavioural and clinical concerns need qualified support.
+kənsˈɛnt: fɹˈiːli ɡˈɪvən ɪnfˈɔːɹmd ɐɡɹˈiːmənt. kˌoʊˈɜːʃən: pɹˈɛʃɚɹ ˌʌndɚmˈaɪnɪŋ ɐ fɹˈiː tʃˈɔɪs. lˈiːst ɹᵻstɹˈɪktɪv ɐpɹˈoʊtʃ: səpˈɔːɹt ðæt mˈɪnɪmˌaɪzᵻz ʌnnˈɛsᵻsɚɹi kənstɹˈeɪnt.   dɪskˈʌs ɡˈoʊlz wɪððə pˈiːpəl ɐfˈɛktᵻd ænd mˌeɪk ˈæksɛs ænd skˈɪl səpˈɔːɹt ðə fˈɜːst kwˈɛstʃənz. pɹˈaɪvəsi ænd ðə ɹˈaɪt tə dᵻklˈaɪn mˈæɾɚ.   lˈɜːnɪŋ pɹˈɪnsɪpəlz kæn ɪmpɹˈuːv tˈiːtʃɪŋ ænd sˈɛlfdᵻɹˈɛktᵻd ɹuːtˈiːnz. ðeɪ duːnˌɑːt dʒˈʌstᵻfˌaɪ mənˈɪpjʊlˌeɪɾɪŋ pˈɑːɹtnɚz, tʃˈɪldɹən ɔːɹ kˈɑːliːɡz. sˈɪɹiəs bᵻhˈeɪvjɚɹəl ænd klˈɪnɪkəl kənsˈɜːnz nˈiːd kwˈɔlᵻfˌaɪd səpˈɔːɹt.
+
+c10s05
+Behavioural effects depend on defined conditions, and practical interventions need evidence for both outcomes and acceptability. A count can improve while wellbeing or autonomy worsens.
+
+This introduction is not professional behaviour-analysis training or clinical advice.
+bᵻhˈeɪvjɚɹəl ɪfˈɛkts dᵻpˈɛnd ˌɔn dᵻfˈaɪnd kəndˈɪʃənz, ænd pɹˈæktɪkəl ˌɪntɚvˈɛnʃənz nˈiːd ˈɛvɪdəns fɔːɹ bˈoʊθ ˈaʊtkʌmz ænd ɐksˌɛptəbˈɪlᵻɾi. ɐ kˈaʊnt kæn ɪmpɹˈuːv wˌaɪl wˈɛlbiːɪŋ ɔːɹ ɔːtˈɑːnəmi wˈɜːsənz.   ðɪs ˌɪntɹədˈʌkʃən ɪz nˌɑːt pɹəfˈɛʃənəl bᵻhˈeɪvjɚɹɐnˈæləsˌɪs tɹˈeɪnɪŋ ɔːɹ klˈɪnɪkəl ɐdvˈaɪs.
+
+c10s06
+Apply the idea to this new fictional case.
+
+Agreed shelf changes improve returns during one workshop, but no later settings have been measured.
+
+What should the report conclude?
+
+A. The procedure worked forever for everyone.
+
+B. The decrease proves a permanent personality change.
+
+C. The outcome improved locally; maintenance and wider transfer remain open.
+
+Choose an option and write your reasoning before checking the feedback.
+ɐplˈaɪ ðɪ aɪdˈiə tə ðɪs nˈuː fˈɪkʃənəl kˈeɪs.   ɐɡɹˈiːd ʃˈɛlf tʃˈeɪndʒᵻz ɪmpɹˈuːv ɹᵻtˈɜːnz dˈʊɹɹɪŋ wˈʌn wˈɜːkʃɑːp, bˌʌt nˈoʊ lˈeɪɾɚ sˈɛɾɪŋz hɐvbɪn mˈɛʒɚd.   wˌʌt ʃˌʊd ðə ɹᵻpˈɔːɹt kəŋklˈuːd?   ˈeɪ. ðə pɹəsˈiːdʒɚ wˈɜːkt fɚɹˈɛvɚ fɔːɹ ˈɛvɹɪwˌʌn.   bˈiː. ðə dˈiːkɹiːs pɹˈuːvz ɐ pˈɜːmənənt pˌɜːsənˈælᵻɾi tʃˈeɪndʒ.   sˈiː. ðɪ ˈaʊtkʌm ɪmpɹˈuːvd lˈoʊkəli; mˈeɪntənəns ænd wˈaɪdɚ tɹˈænsfɜː ɹᵻmˈeɪn ˈoʊpən.   tʃˈuːz ɐn ˈɑːpʃən ænd ɹˈaɪt jʊɹ ɹˈiːzənɪŋ bᵻfˌɔːɹ tʃˈɛkɪŋ ðə fˈiːdbæk.
+
+c10s06-feedback-0
+The design did not establish universal or permanent effects.
+ðə dɪzˈaɪn dɪdnˌɑːt ɪstˈæblɪʃ jˌuːnɪvˈɜːsəl ɔːɹ pˈɜːmənənt ɪfˈɛkts.
+
+c10s06-feedback-1
+A behaviour measure does not establish a personality transformation.
+ɐ bᵻhˈeɪvjɚ mˈɛʒɚ dʌznˌɑːt ɪstˈæblɪʃ ɐ pˌɜːsənˈælᵻɾi tɹænsfɔːɹmˈeɪʃən.
+
+c10s06-feedback-2
+The conclusion fits the measured setting and points to later checks.
+ðə kəŋklˈuːʒən fˈɪts ðə mˈɛʒɚd sˈɛɾɪŋ ænd pˈɔɪnts tə lˈeɪɾɚ tʃˈɛks.
+
+c10s07
+Try these questions without your notes.
+
+Why is an action sequence not a causal proof?
+
+What does social validity add?
+
+Reveal the suggested answers after trying.
+tɹˈaɪ ðiːz kwˈɛstʃənz wɪðˌaʊt jʊɹ nˈoʊts.   wˌaɪ ɪz ɐn ˈækʃən sˈiːkwəns nˌɑːɾə kˈɔːzəl pɹˈuːf?   wˌʌt dˈʌz sˈoʊʃəl vælˈɪdᵻɾi ˈæd?   ɹᵻvˈiːl ðə sədʒˈɛstᵻd ˈænsɚz ˈæftɚ tɹˈaɪɪŋ.
+
+c10s07-answers
+Several conditions change together, so the function needs further comparison.
+
+It asks whether goals, methods and outcomes matter and are acceptable to the people affected.
+sˈɛvɹəl kəndˈɪʃənz tʃˈeɪndʒ təɡˈɛðɚ, sˌoʊ ðə fˈʌŋkʃən nˈiːdz fˈɜːðɚ kəmpˈæɹɪsən.   ɪɾ ˈæsks wˈɛðɚ ɡˈoʊlz, mˈɛθədz ænd ˈaʊtkʌmz mˈæɾɚ ænd ɑːɹ ɐksˈɛptəbəl tə ðə pˈiːpəl ɐfˈɛktᵻd.
+
+c10s08
+Write an ethical plan for a fictional routine: agreed goal, definition, baseline, support, comparison, follow-up and a right to decline.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+ɹˈaɪt ɐn ˈɛθɪkəl plˈæn fɚɹə fˈɪkʃənəl ɹuːtˈiːn: ɐɡɹˈiːd ɡˈoʊl, dˌɛfɪnˈɪʃən, bˈeɪslaɪn, səpˈɔːɹt, kəmpˈæɹɪsən, fˈɑːloʊˌʌp ænd ɐ ɹˈaɪt tə dᵻklˈaɪn.   ɹᵻtˈɜːn təmˈɑːɹoʊ ɔːɹ ɪn ɐ wˈiːk wɪð ɐn ʌnfəmˈɪlɪɹ ɛɡzˈæmpəl. kəmpˈɛɹ jʊɹ ɹˈiːzənɪŋ wɪððə nˈoʊts.

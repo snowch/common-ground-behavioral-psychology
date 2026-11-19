@@ -1,0 +1,11 @@
+{
+  "commit": "5aeedf519ee64d35e58fca6533ba9043420ca116",
+  "run_id": "44583145455",
+  "inputs": {
+    "course.json": "b89e2bb499bd871c724eb04f427718b4b6081f37bd833c265107a79336da98e6",
+    "production/af-heart/scenes.json": "04f924a0e16a59c4fa8524c4eb488d88b62afca40092a4d47220ab47309f72ef"
+  },
+  "voice": "af_heart",
+  "speed": 1.0,
+  "render_workers": 4
+}
