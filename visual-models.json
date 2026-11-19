@@ -1,0 +1,718 @@
+{
+  "c01s03": {
+    "type": "rows",
+    "title": "Define the observation",
+    "items": [
+      [
+        "Action",
+        "Tool placed in its marked location"
+      ],
+      [
+        "Opportunity",
+        "Each completed use"
+      ],
+      [
+        "Window",
+        "Before leaving the workstation"
+      ]
+    ],
+    "caption": "A precise definition makes competing explanations easier to test."
+  },
+  "c01s03b": {
+    "type": "flow",
+    "title": "Measure before changing",
+    "items": [
+      [
+        "Define",
+        "What counts?"
+      ],
+      [
+        "Record",
+        "Several comparable occasions"
+      ],
+      [
+        "Inspect",
+        "Variation and context"
+      ]
+    ],
+    "caption": "Measurement precedes a causal explanation."
+  },
+  "c01s04": {
+    "type": "compare",
+    "title": "Reliable and useful differ",
+    "left": [
+      "Agreement",
+      "Observers count similarly",
+      "A measurement check"
+    ],
+    "right": [
+      "Validity",
+      "Measure fits the question",
+      "A separate justification"
+    ],
+    "caption": "A consistently counted event can still be the wrong outcome."
+  },
+  "c01s05": {
+    "type": "rows",
+    "title": "A fair behavioural question",
+    "items": [
+      [
+        "Define",
+        "Action and opportunity"
+      ],
+      [
+        "Measure",
+        "Pattern over time"
+      ],
+      [
+        "Explain",
+        "Test alternatives"
+      ]
+    ],
+    "caption": "Observation and explanation are separate steps."
+  },
+  "c02s03": {
+    "type": "flow",
+    "title": "A simplified predictive sequence",
+    "items": [
+      [
+        "Before learning",
+        "Cue has little relevant response"
+      ],
+      [
+        "Pairing",
+        "Cue precedes a significant event"
+      ],
+      [
+        "After learning",
+        "Cue can elicit anticipation"
+      ]
+    ],
+    "caption": "The sequence illustrates a possible learning relation."
+  },
+  "c02s03b": {
+    "type": "compare",
+    "title": "Two elements in the example",
+    "left": [
+      "Cue",
+      "Kettle whistle",
+      "Predictive significance"
+    ],
+    "right": [
+      "Response",
+      "Measured anticipation",
+      "Changed after experience"
+    ],
+    "caption": "The elements must be defined rather than inferred from a vague story."
+  },
+  "c02s04": {
+    "type": "compare",
+    "title": "Temporal closeness and information",
+    "left": [
+      "Contiguity",
+      "Events occur near each other",
+      "May be uninformative"
+    ],
+    "right": [
+      "Contingency",
+      "Cue changes probability",
+      "Adds predictive information"
+    ],
+    "caption": "Pairing and predictive value are related but distinct."
+  },
+  "c02s05": {
+    "type": "rows",
+    "title": "A conditioning claim needs detail",
+    "items": [
+      [
+        "Cue",
+        "Which event is predictive?"
+      ],
+      [
+        "Response",
+        "What changed?"
+      ],
+      [
+        "Comparison",
+        "Outcome with and without cue"
+      ]
+    ],
+    "caption": "A plausible pairing is not yet a causal demonstration."
+  },
+  "c03s03": {
+    "type": "flow",
+    "title": "An operant question",
+    "items": [
+      [
+        "Action",
+        "Define what happens"
+      ],
+      [
+        "Consequence",
+        "What follows the action?"
+      ],
+      [
+        "Effect",
+        "How does future behaviour change?"
+      ]
+    ],
+    "caption": "A consequence is classified by its function under the stated conditions."
+  },
+  "c03s03b": {
+    "type": "compare",
+    "title": "Increasing an action",
+    "left": [
+      "Positive reinforcement",
+      "Something is added",
+      "Action increases"
+    ],
+    "right": [
+      "Negative reinforcement",
+      "Something is removed",
+      "Action increases"
+    ],
+    "caption": "Negative reinforcement is not punishment."
+  },
+  "c03s04": {
+    "type": "compare",
+    "title": "Decreasing an action",
+    "left": [
+      "Positive punishment",
+      "Something is added",
+      "Action decreases"
+    ],
+    "right": [
+      "Negative punishment",
+      "Something is removed",
+      "Action decreases"
+    ],
+    "caption": "The classification describes a relation; it does not justify using it."
+  },
+  "c03s05": {
+    "type": "rows",
+    "title": "Classify by relation and effect",
+    "items": [
+      [
+        "Consequence",
+        "Added or removed?"
+      ],
+      [
+        "Behaviour",
+        "Increased or decreased?"
+      ],
+      [
+        "Ethics",
+        "Acceptable and consensual?"
+      ]
+    ],
+    "caption": "A correct technical label does not authorize an intervention."
+  },
+  "c04s03": {
+    "type": "flow",
+    "title": "A possible skill sequence",
+    "items": [
+      [
+        "First step",
+        "Name one observation"
+      ],
+      [
+        "Next step",
+        "Compare two explanations"
+      ],
+      [
+        "Target",
+        "Give a supported conclusion"
+      ]
+    ],
+    "caption": "The criteria should track reasoning, not superficial fluency."
+  },
+  "c04s03b": {
+    "type": "flow",
+    "title": "Teach, then check independence",
+    "items": [
+      [
+        "Analyze",
+        "Identify necessary components"
+      ],
+      [
+        "Support",
+        "Practise with useful prompts"
+      ],
+      [
+        "Fade",
+        "Use a new case without prompts"
+      ]
+    ],
+    "caption": "A practiced chain and transferable understanding need separate checks."
+  },
+  "c04s04": {
+    "type": "compare",
+    "title": "Different problems need different support",
+    "left": [
+      "Not yet learned",
+      "Teach and practise",
+      "Check later skill"
+    ],
+    "right": [
+      "Blocked access",
+      "Change conditions",
+      "Check usable access"
+    ],
+    "caption": "Do not infer a learning deficit from a constrained performance."
+  },
+  "c04s05": {
+    "type": "rows",
+    "title": "Evaluate a skill-building plan",
+    "items": [
+      [
+        "Target",
+        "Meaningful action"
+      ],
+      [
+        "Steps",
+        "Relevant approximations"
+      ],
+      [
+        "Test",
+        "Independent new performance"
+      ]
+    ],
+    "caption": "A proxy should not replace the intended capability."
+  },
+  "c05s03": {
+    "type": "compare",
+    "title": "Two arrangements",
+    "left": [
+      "Continuous",
+      "Every eligible action",
+      "Defined consequence"
+    ],
+    "right": [
+      "Intermittent",
+      "Some eligible actions",
+      "Defined selection rule"
+    ],
+    "caption": "The rule must be distinguished from the observed behavioural effect."
+  },
+  "c05s03b": {
+    "type": "compare",
+    "title": "Count and time differ",
+    "left": [
+      "Ratio",
+      "Response count matters",
+      "Fixed or variable"
+    ],
+    "right": [
+      "Interval",
+      "Time must pass",
+      "Then eligible response"
+    ],
+    "caption": "Timing a reward is not automatically an interval schedule unless the response relation is specified."
+  },
+  "c05s04": {
+    "type": "flow",
+    "title": "Interpret an outcome",
+    "items": [
+      [
+        "Specify",
+        "Actual schedule and delay"
+      ],
+      [
+        "Observe",
+        "Pattern across opportunities"
+      ],
+      [
+        "Check",
+        "Other consequences and conditions"
+      ]
+    ],
+    "caption": "Controlled schedule effects need contextual interpretation in everyday life."
+  },
+  "c05s05": {
+    "type": "rows",
+    "title": "A schedule claim needs context",
+    "items": [
+      [
+        "Rule",
+        "Count or time?"
+      ],
+      [
+        "Function",
+        "Does it reinforce?"
+      ],
+      [
+        "Setting",
+        "Other outcomes and instructions?"
+      ]
+    ],
+    "caption": "A laboratory relation is not an exact forecast for every person."
+  },
+  "c06s03": {
+    "type": "compare",
+    "title": "Before and during extinction",
+    "left": [
+      "Earlier relation",
+      "Cue predicts outcome",
+      "Response develops"
+    ],
+    "right": [
+      "Changed relation",
+      "Expected outcome absent",
+      "Responding can decrease"
+    ],
+    "caption": "A decrease does not uniquely demonstrate erasure of prior learning."
+  },
+  "c06s03b": {
+    "type": "rows",
+    "title": "Different return conditions",
+    "items": [
+      [
+        "Time passes",
+        "Spontaneous recovery"
+      ],
+      [
+        "Context changes",
+        "Renewal"
+      ],
+      [
+        "Outcome occurs",
+        "Reinstatement"
+      ]
+    ],
+    "caption": "These are research distinctions, not diagnoses from everyday setbacks."
+  },
+  "c06s04": {
+    "type": "flow",
+    "title": "Evaluate durable change",
+    "items": [
+      [
+        "Learn",
+        "A changed relation"
+      ],
+      [
+        "Vary",
+        "Relevant safe contexts"
+      ],
+      [
+        "Revisit",
+        "Later performance and support"
+      ]
+    ],
+    "caption": "A return of responding is information about conditions, not moral failure."
+  },
+  "c06s05": {
+    "type": "rows",
+    "title": "A response-return interpretation",
+    "items": [
+      [
+        "Earlier learning",
+        "What relation developed?"
+      ],
+      [
+        "Changed condition",
+        "What stopped occurring?"
+      ],
+      [
+        "Return cue",
+        "Time, context or outcome?"
+      ]
+    ],
+    "caption": "Response return calls for explanation rather than blame."
+  },
+  "c07s03": {
+    "type": "compare",
+    "title": "Training and new cues",
+    "left": [
+      "Trained cue",
+      "A red label",
+      "Practiced conditions"
+    ],
+    "right": [
+      "New cue",
+      "An orange label",
+      "Several differences"
+    ],
+    "caption": "Transfer must be observed under the actual new conditions."
+  },
+  "c07s03b": {
+    "type": "flow",
+    "title": "Investigate the controlling condition",
+    "items": [
+      [
+        "List",
+        "What differs between cases?"
+      ],
+      [
+        "Compare",
+        "Vary relevant features carefully"
+      ],
+      [
+        "Measure",
+        "Defined response and opportunities"
+      ]
+    ],
+    "caption": "A salient difference is a hypothesis rather than an established cause."
+  },
+  "c07s04": {
+    "type": "rows",
+    "title": "A useful transfer set",
+    "items": [
+      [
+        "Example",
+        "Rule clearly applies"
+      ],
+      [
+        "Variation",
+        "Surface features change"
+      ],
+      [
+        "Boundary",
+        "Rule should not apply"
+      ]
+    ],
+    "caption": "Transfer involves selecting when a learned relation is relevant."
+  },
+  "c07s05": {
+    "type": "rows",
+    "title": "Test transfer rather than assume it",
+    "items": [
+      [
+        "Variation",
+        "Which features change?"
+      ],
+      [
+        "Rule",
+        "Which relation stays relevant?"
+      ],
+      [
+        "Boundary",
+        "Where should it stop?"
+      ]
+    ],
+    "caption": "A well-learned rule includes its limits."
+  },
+  "c08s03": {
+    "type": "compare",
+    "title": "Not the same outcome",
+    "left": [
+      "Imitation",
+      "Match an action",
+      "Visible similarity"
+    ],
+    "right": [
+      "Strategy learning",
+      "Use a relation",
+      "Appropriate new performance"
+    ],
+    "caption": "An exact movement match is not the only indication of learning."
+  },
+  "c08s03b": {
+    "type": "flow",
+    "title": "From demonstration to evidence",
+    "items": [
+      [
+        "Attend",
+        "Notice relevant comparisons"
+      ],
+      [
+        "Retain",
+        "Explain the useful relation"
+      ],
+      [
+        "Apply",
+        "Try a new case with feedback"
+      ]
+    ],
+    "caption": "Performance checks should match the intended learning."
+  },
+  "c08s04": {
+    "type": "rows",
+    "title": "Interpret observed success",
+    "items": [
+      [
+        "Model",
+        "What was shown?"
+      ],
+      [
+        "Expectation",
+        "What outcome seems likely?"
+      ],
+      [
+        "Capability",
+        "What can the learner do?"
+      ]
+    ],
+    "caption": "Confidence and actual skill require separate checks."
+  },
+  "c08s05": {
+    "type": "rows",
+    "title": "A demonstration needs a learning check",
+    "items": [
+      [
+        "Notice",
+        "Relevant information"
+      ],
+      [
+        "Explain",
+        "Retained relation"
+      ],
+      [
+        "Transfer",
+        "New independent case"
+      ]
+    ],
+    "caption": "Watching and learning are related but not equivalent."
+  },
+  "c09s03": {
+    "type": "flow",
+    "title": "A possible habit pathway",
+    "items": [
+      [
+        "Stable context",
+        "Familiar cue appears"
+      ],
+      [
+        "Repeated action",
+        "Response is practised"
+      ],
+      [
+        "Cue-linked tendency",
+        "Action can recur with less thought"
+      ]
+    ],
+    "caption": "The model describes a possibility, not a fixed timetable."
+  },
+  "c09s03b": {
+    "type": "flow",
+    "title": "A small self-directed plan",
+    "items": [
+      [
+        "Cue",
+        "When this situation occurs"
+      ],
+      [
+        "Action",
+        "Do this manageable step"
+      ],
+      [
+        "Review",
+        "Check opportunities and obstacles"
+      ]
+    ],
+    "caption": "The plan needs an accessible action and meaningful feedback."
+  },
+  "c09s04": {
+    "type": "rows",
+    "title": "Evaluate a routine fairly",
+    "items": [
+      [
+        "Outcome",
+        "Does it serve the chosen goal?"
+      ],
+      [
+        "Conditions",
+        "What helps or blocks it?"
+      ],
+      [
+        "Time",
+        "Does it persist in relevant settings?"
+      ]
+    ],
+    "caption": "A useful routine is not established by a universal day count."
+  },
+  "c09s05": {
+    "type": "rows",
+    "title": "A habit claim needs specifics",
+    "items": [
+      [
+        "Action",
+        "Which response?"
+      ],
+      [
+        "Cue",
+        "Which recurring context?"
+      ],
+      [
+        "Evidence",
+        "What changed over opportunities?"
+      ]
+    ],
+    "caption": "A cue-linked account is testable without blaming the person."
+  },
+  "c10s03": {
+    "type": "flow",
+    "title": "A functional question",
+    "items": [
+      [
+        "Before",
+        "Conditions and access"
+      ],
+      [
+        "Action",
+        "Defined response"
+      ],
+      [
+        "After",
+        "Relevant consequences"
+      ]
+    ],
+    "caption": "An antecedent-action-consequence map generates hypotheses."
+  },
+  "c10s03b": {
+    "type": "rows",
+    "title": "Evaluate more than the count",
+    "items": [
+      [
+        "Design",
+        "Repeated and comparable measures"
+      ],
+      [
+        "Value",
+        "Useful outcome and accepted procedure"
+      ],
+      [
+        "Review",
+        "Unwanted effects and maintenance"
+      ]
+    ],
+    "caption": "Technical effectiveness does not settle acceptability."
+  },
+  "c10s04": {
+    "type": "rows",
+    "title": "A responsible plan",
+    "items": [
+      [
+        "Agree",
+        "A meaningful goal"
+      ],
+      [
+        "Support",
+        "Accessible and proportionate conditions"
+      ],
+      [
+        "Revisit",
+        "Benefits, burdens and choice"
+      ]
+    ],
+    "caption": "Behavioural science should improve options rather than remove them."
+  },
+  "c10s05": {
+    "type": "rows",
+    "title": "A final behavioural evaluation",
+    "items": [
+      [
+        "Effect",
+        "Did the defined outcome change?"
+      ],
+      [
+        "Alternatives",
+        "What else changed?"
+      ],
+      [
+        "Agency",
+        "Was the support acceptable?"
+      ]
+    ],
+    "caption": "Effectiveness, inference and ethics require separate attention."
+  }
+}

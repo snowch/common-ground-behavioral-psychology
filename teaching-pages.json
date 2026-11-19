@@ -1,0 +1,1622 @@
+{
+  "1": [
+    {
+      "id": "c01s03",
+      "kind": "concept",
+      "title": "A useful description can be checked.",
+      "points": [
+        "Behaviour: an action defined for observation",
+        "Operational definition: a stated procedure for identifying or measuring something",
+        "Frequency: number of defined events in a period"
+      ],
+      "text": "Behaviour: an action defined for observation. Operational definition: a stated procedure for identifying or measuring something. Frequency: number of defined events in a period.\n\nDescribe what happened rather than starting with a character judgment. Define whether a return means placing the tool in its marked location before leaving.\n\nA count also needs opportunities and a time period. Ten missed returns mean different things after ten uses and after a thousand.",
+      "stage": "Explanation",
+      "visual": "c01s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Operationally define a behaviour and distinguish a baseline from an explanation."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Behavioural research needs observable definitions, suitable comparisons and ethical procedures. A label such as lazy does not specify the conditions maintaining an action.\n\nA baseline is descriptive evidence. Causation requires additional design and consideration of alternative changes."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A precise definition makes competing explanations easier to test."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: What is learning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-1-what-is-learning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s03b",
+      "kind": "concept",
+      "title": "Record the starting pattern.",
+      "points": [
+        "Baseline: measurement before a planned change",
+        "Duration: how long a defined event lasts",
+        "Rate: event count per unit of time or opportunity"
+      ],
+      "text": "Duration: how long a defined event lasts.\n\nA baseline shows current variation rather than assuming a single event is typical. Record time, opportunities and relevant conditions.\n\nA lower return rate could reflect access, instructions or consequences. The baseline describes a pattern; it does not prove which cause produced it.",
+      "stage": "Explanation",
+      "visual": "c01s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Operationally define a behaviour and distinguish a baseline from an explanation."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Behavioural research needs observable definitions, suitable comparisons and ethical procedures. A label such as lazy does not specify the conditions maintaining an action.\n\nA baseline is descriptive evidence. Causation requires additional design and consideration of alternative changes."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Measurement precedes a causal explanation."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: What is learning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-1-what-is-learning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s04",
+      "kind": "concept",
+      "title": "The observer is part of the method.",
+      "points": [
+        "Interobserver agreement: consistency between observers using the same definition",
+        "Reactivity: behaviour changes because it is observed",
+        "Confounding: another factor contributes to a pattern"
+      ],
+      "text": "Interobserver agreement: consistency between observers using the same definition. Reactivity: behaviour changes because it is observed. Confounding: another factor contributes to a pattern.\n\nTwo observers can check whether the definition is usable. Agreement does not by itself prove that the chosen measure captures the intended concept.\n\nMonitoring can change behaviour and raise privacy concerns. Use fictional cases or your own low-stakes actions for course practice; do not covertly track others.",
+      "stage": "Explanation",
+      "visual": "c01s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Operationally define a behaviour and distinguish a baseline from an explanation."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Behavioural research needs observable definitions, suitable comparisons and ethical procedures. A label such as lazy does not specify the conditions maintaining an action.\n\nA baseline is descriptive evidence. Causation requires additional design and consideration of alternative changes."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A consistently counted event can still be the wrong outcome."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: What is learning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-1-what-is-learning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Behavioural research needs observable definitions, suitable comparisons and ethical procedures. A label such as lazy does not specify the conditions maintaining an action.\n\nA baseline is descriptive evidence. Causation requires additional design and consideration of alternative changes.",
+      "stage": "Evidence check",
+      "visual": "c01s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Operationally define a behaviour and distinguish a baseline from an explanation."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Behavioural research needs observable definitions, suitable comparisons and ethical procedures. A label such as lazy does not specify the conditions maintaining an action.\n\nA baseline is descriptive evidence. Causation requires additional design and consideration of alternative changes."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Observation and explanation are separate steps."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: What is learning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-1-what-is-learning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "2": [
+    {
+      "id": "c02s03",
+      "kind": "concept",
+      "title": "Learning can concern predictive relations.",
+      "points": [
+        "Classical conditioning: learning about relations between stimuli",
+        "Unconditioned stimulus: stimulus eliciting a response without the relevant learning",
+        "Unconditioned response: response elicited by that stimulus"
+      ],
+      "text": "Unconditioned stimulus: stimulus eliciting a response without the relevant learning. Unconditioned response: response elicited by that stimulus.\n\nIn classical conditioning, experience with related events can change responding to a cue. An initially neutral cue can acquire predictive significance.\n\nFood-related responses are a familiar example, but the precise response and prior learning must be specified. The kettle scene is an illustration, not a controlled conditioning experiment.",
+      "stage": "Explanation",
+      "visual": "c02s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Identify the conditioned stimulus and response without confusing prediction with operant consequences."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Classical conditioning research shows that temporal pairing alone is not a complete explanation. Contingency, prior learning and context influence acquisition.\n\nAnticipation in the fictional café could have several causes. A controlled comparison is needed to identify the whistle’s contribution."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The sequence illustrates a possible learning relation."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Classical conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-2-classical-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Rescorla (1988): Pavlovian conditioning: It's not what you think it is.",
+            "url": "https://doi.org/10.1037/0003-066X.43.3.151",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s03b",
+      "kind": "concept",
+      "title": "Name the cue and the learned response.",
+      "points": [
+        "Conditioned stimulus: cue that acquires significance through learning",
+        "Conditioned response: response elicited by a learned cue",
+        "Acquisition: development of a learned response"
+      ],
+      "text": "Conditioned stimulus: cue that acquires significance through learning. Conditioned response: response elicited by a learned cue. Acquisition: development of a learned response.\n\nIf the whistle reliably precedes drinks, it may become a conditioned cue and anticipation a learned response. A learned response need not copy the original response exactly.\n\nIdentify what was measured and what other cues were present. Simply noticing a sequence does not establish that this cue caused the response.",
+      "stage": "Explanation",
+      "visual": "c02s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Identify the conditioned stimulus and response without confusing prediction with operant consequences."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Classical conditioning research shows that temporal pairing alone is not a complete explanation. Contingency, prior learning and context influence acquisition.\n\nAnticipation in the fictional café could have several causes. A controlled comparison is needed to identify the whistle’s contribution."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The elements must be defined rather than inferred from a vague story."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Classical conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-2-classical-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Rescorla (1988): Pavlovian conditioning: It's not what you think it is.",
+            "url": "https://doi.org/10.1037/0003-066X.43.3.151",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s04",
+      "kind": "concept",
+      "title": "Prediction matters more than coincidence.",
+      "points": [
+        "Contingency: how one event changes the probability of another",
+        "Contiguity: closeness in time or space",
+        "Prediction error: difference between expected and observed outcome"
+      ],
+      "text": "Contingency: how one event changes the probability of another. Contiguity: closeness in time or space. Prediction error: difference between expected and observed outcome.\n\nEvents close in time are not necessarily informative. A cue predicts an outcome better when the outcome is more likely with the cue than without it.\n\nResearchers compare predictive relations and competing cues. A useful account of learning must explain what the cue adds beyond what is already expected.",
+      "stage": "Explanation",
+      "visual": "c02s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Identify the conditioned stimulus and response without confusing prediction with operant consequences."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Classical conditioning research shows that temporal pairing alone is not a complete explanation. Contingency, prior learning and context influence acquisition.\n\nAnticipation in the fictional café could have several causes. A controlled comparison is needed to identify the whistle’s contribution."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Pairing and predictive value are related but distinct."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Classical conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-2-classical-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Rescorla (1988): Pavlovian conditioning: It's not what you think it is.",
+            "url": "https://doi.org/10.1037/0003-066X.43.3.151",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Classical conditioning research shows that temporal pairing alone is not a complete explanation. Contingency, prior learning and context influence acquisition.\n\nAnticipation in the fictional café could have several causes. A controlled comparison is needed to identify the whistle’s contribution.",
+      "stage": "Evidence check",
+      "visual": "c02s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Identify the conditioned stimulus and response without confusing prediction with operant consequences."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Classical conditioning research shows that temporal pairing alone is not a complete explanation. Contingency, prior learning and context influence acquisition.\n\nAnticipation in the fictional café could have several causes. A controlled comparison is needed to identify the whistle’s contribution."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A plausible pairing is not yet a causal demonstration."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Classical conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-2-classical-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Rescorla (1988): Pavlovian conditioning: It's not what you think it is.",
+            "url": "https://doi.org/10.1037/0003-066X.43.3.151",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "3": [
+    {
+      "id": "c03s03",
+      "kind": "concept",
+      "title": "Start with the action and its consequence.",
+      "points": [
+        "Operant conditioning: learning involving action-consequence relations",
+        "Reinforcement: a consequence that increases a behaviour",
+        "Punishment: a consequence that decreases a behaviour"
+      ],
+      "text": "Operant conditioning: learning involving action-consequence relations.\n\nReinforcement and punishment are defined by effects on future behaviour, not by whether a consequence sounds kind or harsh. An intended reward may fail to reinforce.\n\nSpecify the action, the consequence and the change over comparable opportunities. A single occurrence is not enough to establish a lasting effect.",
+      "stage": "Explanation",
+      "visual": "c03s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Classify reinforcement and punishment by their measured effects, distinguishing addition from removal."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Operant principles identify functional relations under specified conditions. Effects depend on timing, context, history and what the consequence means to the person.\n\nA label does not establish efficacy or ethical acceptability. The course does not ask learners to impose punishments on others."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A consequence is classified by its function under the stated conditions."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s03b",
+      "kind": "concept",
+      "title": "Positive and negative mean addition and removal.",
+      "points": [
+        "Positive reinforcement: adding a consequence that increases behaviour",
+        "Negative reinforcement: removing a condition in a way that increases behaviour",
+        "Positive punishment: adding a consequence that decreases behaviour"
+      ],
+      "text": "Positive punishment: adding a consequence that decreases behaviour.\n\nStopping the reminder tone after a return can be negative reinforcement if returns increase. Negative means removal, not bad.\n\nAdding a welcome consequence can be positive reinforcement if the action increases. Adding an unpleasant event is punishment only if the target behaviour decreases.",
+      "stage": "Explanation",
+      "visual": "c03s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Classify reinforcement and punishment by their measured effects, distinguishing addition from removal."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Operant principles identify functional relations under specified conditions. Effects depend on timing, context, history and what the consequence means to the person.\n\nA label does not establish efficacy or ethical acceptability. The course does not ask learners to impose punishments on others."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Negative reinforcement is not punishment."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s04",
+      "kind": "concept",
+      "title": "Removal can also reduce behaviour.",
+      "points": [
+        "Negative punishment: removing a consequence in a way that decreases behaviour",
+        "Functional definition: classification based on an observed effect",
+        "Unintended consequence: an effect beyond the intended target"
+      ],
+      "text": "Negative punishment: removing a consequence in a way that decreases behaviour. Functional definition: classification based on an observed effect. Unintended consequence: an effect beyond the intended target.\n\nIf removing access to a valued activity reduces a defined action, it meets a negative-punishment definition. The effect still needs evidence.\n\nClassification is not ethical endorsement. Coercion, unfairness and unintended effects matter. Supportive access and skill teaching are often more appropriate than arranging aversive consequences.",
+      "stage": "Explanation",
+      "visual": "c03s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Classify reinforcement and punishment by their measured effects, distinguishing addition from removal."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Operant principles identify functional relations under specified conditions. Effects depend on timing, context, history and what the consequence means to the person.\n\nA label does not establish efficacy or ethical acceptability. The course does not ask learners to impose punishments on others."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The classification describes a relation; it does not justify using it."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Operant principles identify functional relations under specified conditions. Effects depend on timing, context, history and what the consequence means to the person.\n\nA label does not establish efficacy or ethical acceptability. The course does not ask learners to impose punishments on others.",
+      "stage": "Evidence check",
+      "visual": "c03s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Classify reinforcement and punishment by their measured effects, distinguishing addition from removal."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Operant principles identify functional relations under specified conditions. Effects depend on timing, context, history and what the consequence means to the person.\n\nA label does not establish efficacy or ethical acceptability. The course does not ask learners to impose punishments on others."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A correct technical label does not authorize an intervention."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "4": [
+    {
+      "id": "c04s03",
+      "kind": "concept",
+      "title": "Shape the behaviour that matters.",
+      "points": [
+        "Shaping: reinforcing successive approximations to a target",
+        "Successive approximation: a step closer to the target behaviour",
+        "Criterion: the defined standard for a response"
+      ],
+      "text": "Shaping: reinforcing successive approximations to a target. Successive approximation: a step closer to the target behaviour. Criterion: the defined standard for a response.\n\nChoose a meaningful target, then recognize progress toward it using clear criteria. An approximation should move toward the intended skill rather than reward a superficial proxy.\n\nFor Jo, naming one accurate observation is a better first step than speaking quickly. Increase demands as the skill becomes reliable.",
+      "stage": "Explanation",
+      "visual": "c04s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Design successive approximations and distinguish skill acquisition from an access problem."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Learning procedures should be evaluated against the actual goal. Proxies such as speed or number of attempts can improve without better reasoning or safer performance.\n\nShaping is a learning principle, not a guarantee that every complex capability can be reduced to one fixed sequence."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The criteria should track reasoning, not superficial fluency."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s03b",
+      "kind": "concept",
+      "title": "Break complex actions into teachable parts.",
+      "points": [
+        "Task analysis: identifying components of a complex action",
+        "Chaining: learning linked components of a sequence",
+        "Prompt: a cue or assistance supporting a response"
+      ],
+      "text": "Task analysis: identifying components of a complex action. Chaining: learning linked components of a sequence. Prompt: a cue or assistance supporting a response.\n\nA repair explanation can involve describing the observation, proposing alternatives and identifying a test. Prompts can help each component initially.\n\nFade support and test a new example. Repeating a prompted sequence does not establish independent use of the reasoning skill.",
+      "stage": "Explanation",
+      "visual": "c04s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Design successive approximations and distinguish skill acquisition from an access problem."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Learning procedures should be evaluated against the actual goal. Proxies such as speed or number of attempts can improve without better reasoning or safer performance.\n\nShaping is a learning principle, not a guarantee that every complex capability can be reduced to one fixed sequence."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A practiced chain and transferable understanding need separate checks."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s04",
+      "kind": "concept",
+      "title": "Distinguish cannot from cannot here.",
+      "points": [
+        "Skill deficit: the required action is not yet learned",
+        "Performance condition: a factor affecting expression of a skill",
+        "Accessibility: whether the task can be used under actual conditions"
+      ],
+      "text": "Skill deficit: the required action is not yet learned. Performance condition: a factor affecting expression of a skill.\n\nA person may know how to return a tool but lack access to the shelf. That is different from not knowing the procedure.\n\nBefore adding incentives, check instructions, tools, time and accessibility. A training solution does not fix every environmental barrier.",
+      "stage": "Explanation",
+      "visual": "c04s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Design successive approximations and distinguish skill acquisition from an access problem."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Learning procedures should be evaluated against the actual goal. Proxies such as speed or number of attempts can improve without better reasoning or safer performance.\n\nShaping is a learning principle, not a guarantee that every complex capability can be reduced to one fixed sequence."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Do not infer a learning deficit from a constrained performance."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Learning procedures should be evaluated against the actual goal. Proxies such as speed or number of attempts can improve without better reasoning or safer performance.\n\nShaping is a learning principle, not a guarantee that every complex capability can be reduced to one fixed sequence.",
+      "stage": "Evidence check",
+      "visual": "c04s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Design successive approximations and distinguish skill acquisition from an access problem."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Learning procedures should be evaluated against the actual goal. Proxies such as speed or number of attempts can improve without better reasoning or safer performance.\n\nShaping is a learning principle, not a guarantee that every complex capability can be reduced to one fixed sequence."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A proxy should not replace the intended capability."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "5": [
+    {
+      "id": "c05s03",
+      "kind": "concept",
+      "title": "Schedules describe arranged relations.",
+      "points": [
+        "Continuous reinforcement: reinforcing every eligible response",
+        "Intermittent reinforcement: reinforcing some eligible responses",
+        "Reinforcement schedule: rule relating responses and consequences"
+      ],
+      "text": "Continuous reinforcement: reinforcing every eligible response. Intermittent reinforcement: reinforcing some eligible responses. Reinforcement schedule: rule relating responses and consequences.\n\nA schedule describes when a consequence is available in relation to action or time. It does not tell us whether the consequence actually reinforces for this person.\n\nLearning history, task requirements and access also matter. State the arrangement before predicting an effect.",
+      "stage": "Explanation",
+      "visual": "c05s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish ratio and interval schedules while avoiding deterministic predictions about individuals."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Classic schedule findings come from defined experimental contingencies. Human behaviour also reflects instructions, goals, relationships and competing outcomes.\n\nDo not use schedule research to justify addictive or deceptive design. The course evaluates claims rather than providing a manipulation playbook."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The rule must be distinguished from the observed behavioural effect."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s03b",
+      "kind": "concept",
+      "title": "Ratio and interval concern different requirements.",
+      "points": [
+        "Ratio schedule: availability depends on response count",
+        "Interval schedule: availability depends on elapsed time",
+        "Variable schedule: requirement varies around a pattern"
+      ],
+      "text": "Variable schedule: requirement varies around a pattern.\n\nA ratio schedule uses a number of responses. An interval schedule makes reinforcement available after a time period, usually for the first eligible response.\n\nFixed and variable requirements can produce different patterns in controlled settings. They are not universal personality predictions or recipes for manipulating engagement.",
+      "stage": "Explanation",
+      "visual": "c05s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish ratio and interval schedules while avoiding deterministic predictions about individuals."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Classic schedule findings come from defined experimental contingencies. Human behaviour also reflects instructions, goals, relationships and competing outcomes.\n\nDo not use schedule research to justify addictive or deceptive design. The course evaluates claims rather than providing a manipulation playbook."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Timing a reward is not automatically an interval schedule unless the response relation is specified."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s04",
+      "kind": "concept",
+      "title": "Delay changes the learning problem.",
+      "points": [
+        "Delay: time between action and consequence",
+        "Contingent feedback: information related to the action",
+        "Competing consequence: another outcome affecting the same behaviour"
+      ],
+      "text": "Delay: time between action and consequence. Contingent feedback: information related to the action. Competing consequence: another outcome affecting the same behaviour.\n\nA delayed outcome can be harder to connect with the relevant action. Clear informative feedback may help identify what was effective.\n\nReal settings contain several consequences and verbal explanations. A schedule label alone rarely predicts a precise response rate outside a controlled arrangement.",
+      "stage": "Explanation",
+      "visual": "c05s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish ratio and interval schedules while avoiding deterministic predictions about individuals."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Classic schedule findings come from defined experimental contingencies. Human behaviour also reflects instructions, goals, relationships and competing outcomes.\n\nDo not use schedule research to justify addictive or deceptive design. The course evaluates claims rather than providing a manipulation playbook."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Controlled schedule effects need contextual interpretation in everyday life."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Classic schedule findings come from defined experimental contingencies. Human behaviour also reflects instructions, goals, relationships and competing outcomes.\n\nDo not use schedule research to justify addictive or deceptive design. The course evaluates claims rather than providing a manipulation playbook.",
+      "stage": "Evidence check",
+      "visual": "c05s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish ratio and interval schedules while avoiding deterministic predictions about individuals."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Classic schedule findings come from defined experimental contingencies. Human behaviour also reflects instructions, goals, relationships and competing outcomes.\n\nDo not use schedule research to justify addictive or deceptive design. The course evaluates claims rather than providing a manipulation playbook."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A laboratory relation is not an exact forecast for every person."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "6": [
+    {
+      "id": "c06s03",
+      "kind": "concept",
+      "title": "Extinction changes the predictive relation.",
+      "points": [
+        "Extinction: reduced learned responding when a relevant outcome stops occurring",
+        "New learning: acquisition of a changed relation",
+        "Context: cues defining the setting or circumstances"
+      ],
+      "text": "In classical extinction, the cue occurs without the expected outcome. In operant extinction, the action no longer produces the maintaining reinforcer.\n\nReduced responding does not necessarily mean the earlier learning was erased. New learning may be specific to a context and compete with the older relation.",
+      "stage": "Explanation",
+      "visual": "c06s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain extinction as new learning and distinguish response return from erasure failure."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Extinction and response-return effects are well-established distinctions, with outcomes depending on species, task and procedure. Translation to clinical care requires additional evidence.\n\nThe whistle example illustrates learning principles; it is not advice for treating anxiety or removing another person’s support."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A decrease does not uniquely demonstrate erasure of prior learning."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Classical conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-2-classical-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Bouton (1993): Context, time, and memory retrieval in the interference paradigms of Pavlovian learning.",
+            "url": "https://doi.org/10.1037/0033-2909.114.1.80",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s03b",
+      "kind": "concept",
+      "title": "Return has different forms.",
+      "points": [
+        "Spontaneous recovery: response return after time has passed",
+        "Renewal: response return with a context change",
+        "Reinstatement: response return after relevant outcome exposure"
+      ],
+      "text": "Spontaneous recovery: response return after time has passed. Renewal: response return with a context change. Reinstatement: response return after relevant outcome exposure.\n\nTime, a setting change or exposure to a relevant outcome can contribute to return of a response after extinction. These effects differ and require specific designs.\n\nA returned response does not prove that change was impossible. It suggests that learning and retrieval conditions need to be examined.",
+      "stage": "Explanation",
+      "visual": "c06s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain extinction as new learning and distinguish response return from erasure failure."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Extinction and response-return effects are well-established distinctions, with outcomes depending on species, task and procedure. Translation to clinical care requires additional evidence.\n\nThe whistle example illustrates learning principles; it is not advice for treating anxiety or removing another person’s support."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. These are research distinctions, not diagnoses from everyday setbacks."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Classical conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-2-classical-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Bouton (1993): Context, time, and memory retrieval in the interference paradigms of Pavlovian learning.",
+            "url": "https://doi.org/10.1037/0033-2909.114.1.80",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s04",
+      "kind": "concept",
+      "title": "Plan for changing conditions.",
+      "points": [
+        "Generalization: responding across related cues or contexts",
+        "Maintenance: persistence of change over time",
+        "Relapse: return of a previously reduced pattern"
+      ],
+      "text": "Generalization: responding across related cues or contexts. Maintenance: persistence of change over time.\n\nA support may work in one room and fail elsewhere. Check different relevant settings and delayed outcomes rather than assuming one successful session is permanent.\n\nClinical exposure and relapse prevention require professional assessment and care. Do not create fear, withhold essential support or conduct exposure experiments as course practice.",
+      "stage": "Explanation",
+      "visual": "c06s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain extinction as new learning and distinguish response return from erasure failure."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Extinction and response-return effects are well-established distinctions, with outcomes depending on species, task and procedure. Translation to clinical care requires additional evidence.\n\nThe whistle example illustrates learning principles; it is not advice for treating anxiety or removing another person’s support."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A return of responding is information about conditions, not moral failure."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Classical conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-2-classical-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Bouton (1993): Context, time, and memory retrieval in the interference paradigms of Pavlovian learning.",
+            "url": "https://doi.org/10.1037/0033-2909.114.1.80",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Extinction and response-return effects are well-established distinctions, with outcomes depending on species, task and procedure. Translation to clinical care requires additional evidence.\n\nThe whistle example illustrates learning principles; it is not advice for treating anxiety or removing another person’s support.",
+      "stage": "Evidence check",
+      "visual": "c06s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain extinction as new learning and distinguish response return from erasure failure."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Extinction and response-return effects are well-established distinctions, with outcomes depending on species, task and procedure. Translation to clinical care requires additional evidence.\n\nThe whistle example illustrates learning principles; it is not advice for treating anxiety or removing another person’s support."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Response return calls for explanation rather than blame."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Classical conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-2-classical-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Bouton (1993): Context, time, and memory retrieval in the interference paradigms of Pavlovian learning.",
+            "url": "https://doi.org/10.1037/0033-2909.114.1.80",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "7": [
+    {
+      "id": "c07s03",
+      "kind": "concept",
+      "title": "Learning can extend beyond a trained cue.",
+      "points": [
+        "Stimulus generalization: learned responding to related stimuli",
+        "Generalization gradient: response pattern across stimulus differences",
+        "Similarity: resemblance on a relevant dimension"
+      ],
+      "text": "Stimulus generalization: learned responding to related stimuli. Generalization gradient: response pattern across stimulus differences.\n\nA learned response may occur to cues similar to the original. The relevant similarity can concern appearance, meaning or context.\n\nGeneralization is not guaranteed by a teacher’s intention. Check new cases rather than treating practice with one example as evidence of broad transfer.",
+      "stage": "Explanation",
+      "visual": "c07s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish generalization from discrimination and identify the conditions controlling an action."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Generalization and discrimination depend on learning history, attention and task structure. Evidence from one cue cannot establish universal stimulus control.\n\nAn everyday comparison with several simultaneous changes leaves causal alternatives unresolved."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Transfer must be observed under the actual new conditions."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Classical conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-2-classical-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c07s03b",
+      "kind": "concept",
+      "title": "Discrimination depends on a relation.",
+      "points": [
+        "Stimulus discrimination: different responding to distinguishable cues",
+        "Discriminative stimulus: cue signalling an action-consequence relation",
+        "Stimulus control: behaviour varies systematically with antecedent conditions"
+      ],
+      "text": "Stimulus discrimination: different responding to distinguishable cues. Discriminative stimulus: cue signalling an action-consequence relation.\n\nA cue can signal when an action is likely to have a particular consequence. This differs from a cue eliciting a conditioned response.\n\nTo infer stimulus control, compare conditions while checking other differences. Colour, location, text size and instructions may all contribute.",
+      "stage": "Explanation",
+      "visual": "c07s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish generalization from discrimination and identify the conditions controlling an action."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Generalization and discrimination depend on learning history, attention and task structure. Evidence from one cue cannot establish universal stimulus control.\n\nAn everyday comparison with several simultaneous changes leaves causal alternatives unresolved."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A salient difference is a hypothesis rather than an established cause."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Classical conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-2-classical-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c07s04",
+      "kind": "concept",
+      "title": "Design transfer deliberately.",
+      "points": [
+        "Multiple-exemplar training: practice with varied relevant examples",
+        "Overgeneralization: extending a rule beyond its valid range",
+        "Boundary condition: circumstance limiting a rule’s application"
+      ],
+      "text": "Multiple-exemplar training: practice with varied relevant examples. Overgeneralization: extending a rule beyond its valid range. Boundary condition: circumstance limiting a rule’s application.\n\nUse varied examples that preserve the important rule and include cases where it does not apply. Ask the learner to explain the relevant feature.\n\nThe aim is useful discrimination and generalization, not identical responding everywhere. In safety-related tasks, professional standards and appropriate supervision remain essential.",
+      "stage": "Explanation",
+      "visual": "c07s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish generalization from discrimination and identify the conditions controlling an action."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Generalization and discrimination depend on learning history, attention and task structure. Evidence from one cue cannot establish universal stimulus control.\n\nAn everyday comparison with several simultaneous changes leaves causal alternatives unresolved."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Transfer involves selecting when a learned relation is relevant."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Classical conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-2-classical-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c07s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Generalization and discrimination depend on learning history, attention and task structure. Evidence from one cue cannot establish universal stimulus control.\n\nAn everyday comparison with several simultaneous changes leaves causal alternatives unresolved.",
+      "stage": "Evidence check",
+      "visual": "c07s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish generalization from discrimination and identify the conditions controlling an action."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Generalization and discrimination depend on learning history, attention and task structure. Evidence from one cue cannot establish universal stimulus control.\n\nAn everyday comparison with several simultaneous changes leaves causal alternatives unresolved."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A well-learned rule includes its limits."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Classical conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-2-classical-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    }
+  ],
+  "8": [
+    {
+      "id": "c08s03",
+      "kind": "concept",
+      "title": "Learning can use another person’s actions.",
+      "points": [
+        "Observational learning: learning by observing others and outcomes",
+        "Model: person or representation being observed",
+        "Imitation: reproducing an observed action"
+      ],
+      "text": "Observational learning: learning by observing others and outcomes. Model: person or representation being observed.\n\nPeople can learn procedures, expectations and strategies by watching. Imitation is one possible outcome, not the only evidence of learning.\n\nJo may learn which comparison matters while using a different movement. An appropriate new task can test the learned strategy more directly than matching gestures.",
+      "stage": "Explanation",
+      "visual": "c08s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish learning from a model, immediate imitation and later performance."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Observational-learning studies distinguish acquisition, performance and the effects of observed outcomes. Task, model and social context qualify generalization.\n\nA demonstration’s popularity is not evidence of transfer. Delayed unfamiliar performance provides a stronger check of the intended skill."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. An exact movement match is not the only indication of learning."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Observational learning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-4-observational-learning-modeling",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Bandura, Ross, Ross (1961): Transmission of aggression through imitation of aggressive models.",
+            "url": "https://doi.org/10.1037/h0045925",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c08s03b",
+      "kind": "concept",
+      "title": "Attention and practice still matter.",
+      "points": [
+        "Attention: selecting information for processing",
+        "Retention: keeping information available over time",
+        "Reproduction: ability to carry out the observed action"
+      ],
+      "text": "Attention: selecting information for processing. Retention: keeping information available over time. Reproduction: ability to carry out the observed action.\n\nA learner must notice relevant features and retain enough information to use them. Physical skills and opportunities affect whether the action can be reproduced.\n\nExplain the purpose of each step, invite an attempt and provide feedback. Merely displaying a demonstration does not establish that the learner understood it.",
+      "stage": "Explanation",
+      "visual": "c08s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish learning from a model, immediate imitation and later performance."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Observational-learning studies distinguish acquisition, performance and the effects of observed outcomes. Task, model and social context qualify generalization.\n\nA demonstration’s popularity is not evidence of transfer. Delayed unfamiliar performance provides a stronger check of the intended skill."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Performance checks should match the intended learning."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Observational learning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-4-observational-learning-modeling",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Bandura, Ross, Ross (1961): Transmission of aggression through imitation of aggressive models.",
+            "url": "https://doi.org/10.1037/h0045925",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c08s04",
+      "kind": "concept",
+      "title": "Observed consequences shape expectations.",
+      "points": [
+        "Vicarious reinforcement: effects of seeing another’s reinforcement",
+        "Outcome expectation: belief about likely consequences",
+        "Self-efficacy: belief in capability for a specified action"
+      ],
+      "text": "Vicarious reinforcement: effects of seeing another’s reinforcement. Outcome expectation: belief about likely consequences. Self-efficacy: belief in capability for a specified action.\n\nSeeing another person succeed or receive a consequence can influence expectations and willingness to act. Believing a task is possible is distinct from already possessing the skill.\n\nA relatable model and achievable practice may help, but social learning does not make learners passive copies. Prior knowledge and context shape interpretation.",
+      "stage": "Explanation",
+      "visual": "c08s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish learning from a model, immediate imitation and later performance."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Observational-learning studies distinguish acquisition, performance and the effects of observed outcomes. Task, model and social context qualify generalization.\n\nA demonstration’s popularity is not evidence of transfer. Delayed unfamiliar performance provides a stronger check of the intended skill."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Confidence and actual skill require separate checks."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Observational learning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-4-observational-learning-modeling",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Bandura, Ross, Ross (1961): Transmission of aggression through imitation of aggressive models.",
+            "url": "https://doi.org/10.1037/h0045925",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c08s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Observational-learning studies distinguish acquisition, performance and the effects of observed outcomes. Task, model and social context qualify generalization.\n\nA demonstration’s popularity is not evidence of transfer. Delayed unfamiliar performance provides a stronger check of the intended skill.",
+      "stage": "Evidence check",
+      "visual": "c08s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish learning from a model, immediate imitation and later performance."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Observational-learning studies distinguish acquisition, performance and the effects of observed outcomes. Task, model and social context qualify generalization.\n\nA demonstration’s popularity is not evidence of transfer. Delayed unfamiliar performance provides a stronger check of the intended skill."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Watching and learning are related but not equivalent."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Observational learning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-4-observational-learning-modeling",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Bandura, Ross, Ross (1961): Transmission of aggression through imitation of aggressive models.",
+            "url": "https://doi.org/10.1037/h0045925",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "9": [
+    {
+      "id": "c09s03",
+      "kind": "concept",
+      "title": "Repeated contexts can cue an action.",
+      "points": [
+        "Habit: learned cue-linked tendency toward a response",
+        "Automaticity: reduced need for deliberate control",
+        "Intention: a plan or commitment to act"
+      ],
+      "text": "Automaticity: reduced need for deliberate control. Intention: a plan or commitment to act.\n\nRepeated actions in stable contexts can become easier to initiate with less deliberation. A habit is not identical to frequency or to a conscious goal.\n\nSam can intend to use the new location while still responding to familiar cues. The pattern suggests a learning history, not a moral defect.",
+      "stage": "Explanation",
+      "visual": "c09s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish habit from intention and design a low-stakes change with a meaningful outcome."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Habit research distinguishes cue-linked automaticity, repetition and intention. Development rates vary with action, context and measurement.\n\nSelf-directed routine experiments cannot establish treatment efficacy or explain every persistent behaviour."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The model describes a possibility, not a fixed timetable."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Lally, van Jaarsveld, Potts (2009): How are habits formed: Modelling habit formation in the real world",
+            "url": "https://doi.org/10.1002/ejsp.674",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09s03b",
+      "kind": "concept",
+      "title": "Change the conditions, not just the slogan.",
+      "points": [
+        "Environmental cue: feature that can prompt a response",
+        "Friction: effort or steps required for an action",
+        "Implementation intention: a specified if-then action plan"
+      ],
+      "text": "Environmental cue: feature that can prompt a response. Friction: effort or steps required for an action. Implementation intention: a specified if-then action plan.\n\nFor a self-chosen harmless routine, make the intended action easy to notice and perform. An if-then plan can specify a cue and response.\n\nA plan is not a guarantee. Check what happens under the actual conditions, and revise barriers rather than escalating blame.",
+      "stage": "Explanation",
+      "visual": "c09s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish habit from intention and design a low-stakes change with a meaningful outcome."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Habit research distinguishes cue-linked automaticity, repetition and intention. Development rates vary with action, context and measurement.\n\nSelf-directed routine experiments cannot establish treatment efficacy or explain every persistent behaviour."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The plan needs an accessible action and meaningful feedback."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Lally, van Jaarsveld, Potts (2009): How are habits formed: Modelling habit formation in the real world",
+            "url": "https://doi.org/10.1002/ejsp.674",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09s04",
+      "kind": "concept",
+      "title": "Measure the outcome and its limits.",
+      "points": [
+        "Self-monitoring: recording one’s own defined behaviour",
+        "Maintenance: persistence across time",
+        "Behavioural substitution: using another response in a relevant situation"
+      ],
+      "text": "Self-monitoring: recording one’s own defined behaviour. Maintenance: persistence across time. Behavioural substitution: using another response in a relevant situation.\n\nRecord opportunities and the chosen outcome over time. Ask whether the change is useful, sustainable and still freely chosen.\n\nThere is no universal number of days that creates every habit. Clinical compulsions, addiction and serious distress need appropriate care rather than a simplified habit checklist.",
+      "stage": "Explanation",
+      "visual": "c09s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish habit from intention and design a low-stakes change with a meaningful outcome."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Habit research distinguishes cue-linked automaticity, repetition and intention. Development rates vary with action, context and measurement.\n\nSelf-directed routine experiments cannot establish treatment efficacy or explain every persistent behaviour."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A useful routine is not established by a universal day count."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Lally, van Jaarsveld, Potts (2009): How are habits formed: Modelling habit formation in the real world",
+            "url": "https://doi.org/10.1002/ejsp.674",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Habit research distinguishes cue-linked automaticity, repetition and intention. Development rates vary with action, context and measurement.\n\nSelf-directed routine experiments cannot establish treatment efficacy or explain every persistent behaviour.",
+      "stage": "Evidence check",
+      "visual": "c09s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish habit from intention and design a low-stakes change with a meaningful outcome."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Habit research distinguishes cue-linked automaticity, repetition and intention. Development rates vary with action, context and measurement.\n\nSelf-directed routine experiments cannot establish treatment efficacy or explain every persistent behaviour."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A cue-linked account is testable without blaming the person."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Operant conditioning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Lally, van Jaarsveld, Potts (2009): How are habits formed: Modelling habit formation in the real world",
+            "url": "https://doi.org/10.1002/ejsp.674",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "10": [
+    {
+      "id": "c10s03",
+      "kind": "concept",
+      "title": "A function is a hypothesis to test.",
+      "points": [
+        "Antecedent: condition preceding an action",
+        "Consequence: event following an action",
+        "Functional assessment: examining relations between conditions and behaviour"
+      ],
+      "text": "Antecedent: condition preceding an action. Consequence: event following an action. Functional assessment: examining relations between conditions and behaviour.\n\nMap what happens before and after the action, then consider alternatives. A descriptive sequence does not by itself establish a causal function.\n\nThe locked shelf may be a barrier; a reminder may help; social expectations may matter. Use a safe, consensual comparison rather than assuming the first story is correct.",
+      "stage": "Explanation",
+      "visual": "c10s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Design an ethical behavioural evaluation that tests a meaningful outcome and preserves agency."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Behavioural effects depend on defined conditions, and practical interventions need evidence for both outcomes and acceptability. A count can improve while wellbeing or autonomy worsens.\n\nThis introduction is not professional behaviour-analysis training or clinical advice."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. An antecedent-action-consequence map generates hypotheses."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: What is learning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-1-what-is-learning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10s03b",
+      "kind": "concept",
+      "title": "A change needs an evaluation design.",
+      "points": [
+        "Single-case design: repeated measurement within a case under planned conditions",
+        "Multiple baseline: staggering introduction across cases or behaviours",
+        "Social validity: importance and acceptability of goals and procedures"
+      ],
+      "text": "Single-case design: repeated measurement within a case under planned conditions. Multiple baseline: staggering introduction across cases or behaviours. Social validity: importance and acceptability of goals and procedures.\n\nRepeated measurement can examine whether change follows an intervention. Replication across appropriately staggered introductions helps address alternative explanations.\n\nDo not withdraw essential support to create a comparison. A meaningful outcome, participant preferences and harms are part of the evaluation, not optional extras.",
+      "stage": "Explanation",
+      "visual": "c10s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Design an ethical behavioural evaluation that tests a meaningful outcome and preserves agency."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Behavioural effects depend on defined conditions, and practical interventions need evidence for both outcomes and acceptability. A count can improve while wellbeing or autonomy worsens.\n\nThis introduction is not professional behaviour-analysis training or clinical advice."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Technical effectiveness does not settle acceptability."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: What is learning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-1-what-is-learning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10s04",
+      "kind": "concept",
+      "title": "Preserve agency in the application.",
+      "points": [
+        "Consent: freely given informed agreement",
+        "Coercion: pressure undermining a free choice",
+        "Least restrictive approach: support that minimizes unnecessary constraint"
+      ],
+      "text": "Consent: freely given informed agreement. Coercion: pressure undermining a free choice. Least restrictive approach: support that minimizes unnecessary constraint.\n\nDiscuss goals with the people affected and make access and skill support the first questions. Privacy and the right to decline matter.\n\nLearning principles can improve teaching and self-directed routines. They do not justify manipulating partners, children or colleagues. Serious behavioural and clinical concerns need qualified support.",
+      "stage": "Explanation",
+      "visual": "c10s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Design an ethical behavioural evaluation that tests a meaningful outcome and preserves agency."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Behavioural effects depend on defined conditions, and practical interventions need evidence for both outcomes and acceptability. A count can improve while wellbeing or autonomy worsens.\n\nThis introduction is not professional behaviour-analysis training or clinical advice."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Behavioural science should improve options rather than remove them."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: What is learning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-1-what-is-learning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Behavioural effects depend on defined conditions, and practical interventions need evidence for both outcomes and acceptability. A count can improve while wellbeing or autonomy worsens.\n\nThis introduction is not professional behaviour-analysis training or clinical advice.",
+      "stage": "Evidence check",
+      "visual": "c10s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Design an ethical behavioural evaluation that tests a meaningful outcome and preserves agency."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Behavioural effects depend on defined conditions, and practical interventions need evidence for both outcomes and acceptability. A count can improve while wellbeing or autonomy worsens.\n\nThis introduction is not professional behaviour-analysis training or clinical advice."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Effectiveness, inference and ethics require separate attention."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: What is learning",
+            "url": "https://openstax.org/books/psychology-2e/pages/6-1-what-is-learning",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Staddon, Cerutti (2003): Operant Conditioning",
+            "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "1": {
+    "prompt": "What is missing?",
+    "options": [
+      "A denominator and comparable observation window.",
+      "A stronger judgment about the users.",
+      "Proof that raw counts measure motivation."
+    ],
+    "correct": 0,
+    "feedback": [
+      "Counts need opportunities and time to support a fair comparison.",
+      "Judgment does not repair the measure.",
+      "Motivation is an inference, not something the count uniquely records."
+    ],
+    "context": "One workshop records six missed returns and another records three, but the number of tool uses differs.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-psychology-v1"
+  },
+  "2": {
+    "prompt": "Which cue is more informative?",
+    "options": [
+      "The cue after which the outcome occurs more often than without it.",
+      "Any cue that happens nearby in time.",
+      "The most noticeable cue regardless of outcomes."
+    ],
+    "correct": 0,
+    "feedback": [
+      "Its presence changes the outcome probability and adds information.",
+      "Temporal proximity alone may not improve prediction.",
+      "Salience can matter, but does not establish predictive contingency."
+    ],
+    "context": "A bell occurs on some occasions. The team compares how often an event follows with and without the bell.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-psychology-v1"
+  },
+  "3": {
+    "prompt": "What must be checked?",
+    "options": [
+      "Whether the manager intended it as praise.",
+      "Whether praise sounds positive.",
+      "Whether the defined action increased in comparable conditions."
+    ],
+    "correct": 2,
+    "feedback": [
+      "Intention alone does not establish a reinforcing effect.",
+      "Positive describes addition here; effect still matters.",
+      "Reinforcement is defined by increased behaviour rather than the label."
+    ],
+    "context": "A manager calls public praise a reinforcer, but has not measured subsequent participation.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-psychology-v1"
+  },
+  "4": {
+    "prompt": "What should be changed first?",
+    "options": [
+      "Increase incentives for compliance.",
+      "Assume the person lacks the skill.",
+      "Make the required equipment accessible."
+    ],
+    "correct": 2,
+    "feedback": [
+      "An incentive does not remove the barrier.",
+      "Previous successful performance suggests the skill may already exist.",
+      "The immediate problem is access rather than necessarily learning."
+    ],
+    "context": "A volunteer follows the procedure when equipment is available but cannot do so after the supplies are locked away.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-psychology-v1"
+  },
+  "5": {
+    "prompt": "Which schedule description fits?",
+    "options": [
+      "Fixed ratio.",
+      "Variable ratio.",
+      "Fixed interval."
+    ],
+    "correct": 2,
+    "feedback": [
+      "A fixed response count, not elapsed time, defines a fixed ratio.",
+      "A variable response count defines a variable ratio.",
+      "A stated time passes before the first eligible response can be reinforced."
+    ],
+    "context": "After a set period has elapsed, the first eligible response receives the arranged consequence.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-psychology-v1"
+  },
+  "6": {
+    "prompt": "Which research term fits most directly?",
+    "options": [
+      "Spontaneous recovery.",
+      "Renewal.",
+      "Shaping."
+    ],
+    "correct": 1,
+    "feedback": [
+      "That term emphasizes a time-related return.",
+      "The context change is the relevant feature here.",
+      "Shaping concerns successive approximations, not context-related return."
+    ],
+    "context": "After a response decreases in one room, it returns when the cue is presented in a different room.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-psychology-v1"
+  },
+  "7": {
+    "prompt": "Which practice set best supports the intended skill?",
+    "options": [
+      "One example repeated without variation.",
+      "Unrelated examples with no clear rule.",
+      "Varied valid examples plus relevant boundary cases."
+    ],
+    "correct": 2,
+    "feedback": [
+      "Repetition alone can leave the rule tied to surface features.",
+      "Variation needs a coherent relation to the target skill.",
+      "The set teaches both where the rule transfers and where it stops."
+    ],
+    "context": "A workshop wants learners to recognize the same safety instruction across several formats without applying it to unrelated labels.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-psychology-v1"
+  },
+  "8": {
+    "prompt": "Which distinction matters?",
+    "options": [
+      "Confidence and current capability are different.",
+      "Confidence proves full mastery.",
+      "A failed attempt proves no learning occurred."
+    ],
+    "correct": 0,
+    "feedback": [
+      "Belief may support action without establishing the skill.",
+      "Self-efficacy is not a direct performance measure.",
+      "Performance can be limited by demands, access and incomplete practice."
+    ],
+    "context": "A learner feels confident after a demonstration but cannot yet complete the procedure independently.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-psychology-v1"
+  },
+  "9": {
+    "prompt": "What is the most useful next step?",
+    "options": [
+      "Wait for a universal habit deadline.",
+      "Check cue, access and opportunities, then revise the plan.",
+      "Treat a missed day as proof of permanent failure."
+    ],
+    "correct": 1,
+    "feedback": [
+      "No fixed deadline applies to every action and setting.",
+      "The conditions and meaningful outcome provide information for revision.",
+      "One lapse does not settle the later trajectory."
+    ],
+    "context": "A person chooses a harmless routine but misses it when the context changes.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-psychology-v1"
+  },
+  "10": {
+    "prompt": "What should the report conclude?",
+    "options": [
+      "The procedure worked forever for everyone.",
+      "The decrease proves a permanent personality change.",
+      "The outcome improved locally; maintenance and wider transfer remain open."
+    ],
+    "correct": 2,
+    "feedback": [
+      "The design did not establish universal or permanent effects.",
+      "A behaviour measure does not establish a personality transformation.",
+      "The conclusion fits the measured setting and points to later checks."
+    ],
+    "context": "Agreed shelf changes improve returns during one workshop, but no later settings have been measured.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-psychology-v1"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "method": "HTTP availability checks of linked open references; DOI identity checked against Crossref. Availability is not independent academic review.",
+  "open_references": [
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/6-1-what-is-learning",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/6-1-what-is-learning",
+      "title": "6.1 What Is Learning? - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/6-2-classical-conditioning",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/6-2-classical-conditioning",
+      "title": "6.2 Classical Conditioning - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning",
+      "title": "6.3 Operant Conditioning - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/6-4-observational-learning-modeling",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/6-4-observational-learning-modeling",
+      "title": "6.4 Observational Learning (Modeling) - Psychology 2e | OpenStax"
+    }
+  ],
+  "doi_sources": [
+    {
+      "title": "Staddon, Cerutti (2003): Operant Conditioning",
+      "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Rescorla (1988): Pavlovian conditioning: It's not what you think it is.",
+      "url": "https://doi.org/10.1037/0003-066X.43.3.151",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Staddon, Cerutti (2003): Operant Conditioning",
+      "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Staddon, Cerutti (2003): Operant Conditioning",
+      "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Staddon, Cerutti (2003): Operant Conditioning",
+      "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Bouton (1993): Context, time, and memory retrieval in the interference paradigms of Pavlovian learning.",
+      "url": "https://doi.org/10.1037/0033-2909.114.1.80",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Bandura, Ross, Ross (1961): Transmission of aggression through imitation of aggressive models.",
+      "url": "https://doi.org/10.1037/h0045925",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Lally, van Jaarsveld, Potts (2009): How are habits formed: Modelling habit formation in the real world",
+      "url": "https://doi.org/10.1002/ejsp.674",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Staddon, Cerutti (2003): Operant Conditioning",
+      "url": "https://doi.org/10.1146/annurev.psych.54.101601.145124",
+      "kind": "Scholarly source; publisher access may vary."
+    }
+  ]
+}

@@ -1,0 +1,937 @@
+c01s01 Chapter 1: Describe the action before explaining it
+Leo says Sam is becoming lazy because tools are not returned. Maya notices that the return shelf moved behind a locked door. The team needs a description that can distinguish motivation from access.
+
+c01s02 Chapter 1: Make a first decision
+First, make a prediction about the café story.
+
+Which first step helps distinguish the explanations?
+
+A. Count returns per use before and after the shelf move.
+
+B. Ask which personality label fits Sam.
+
+C. Assume the locked door cannot affect behaviour.
+
+Choose an option before checking the feedback.
+
+c01s02-feedback-0 Chapter 1: feedback 1
+A defined rate and access record make the contextual explanation testable.
+
+c01s02-feedback-1 Chapter 1: feedback 2
+The label does not distinguish access from other explanations.
+
+c01s02-feedback-2 Chapter 1: feedback 3
+The door is a relevant condition that should be investigated.
+
+c01s03 Chapter 1: A useful description can be checked.
+Behaviour: an action defined for observation. Operational definition: a stated procedure for identifying or measuring something. Frequency: number of defined events in a period.
+
+Describe what happened rather than starting with a character judgment. Define whether a return means placing the tool in its marked location before leaving.
+
+A count also needs opportunities and a time period. Ten missed returns mean different things after ten uses and after a thousand.
+
+c01s03b Chapter 1: Record the starting pattern.
+Duration: how long a defined event lasts.
+
+A baseline shows current variation rather than assuming a single event is typical. Record time, opportunities and relevant conditions.
+
+A lower return rate could reflect access, instructions or consequences. The baseline describes a pattern; it does not prove which cause produced it.
+
+c01s04 Chapter 1: The observer is part of the method.
+Interobserver agreement: consistency between observers using the same definition. Reactivity: behaviour changes because it is observed. Confounding: another factor contributes to a pattern.
+
+Two observers can check whether the definition is usable. Agreement does not by itself prove that the chosen measure captures the intended concept.
+
+Monitoring can change behaviour and raise privacy concerns. Use fictional cases or your own low-stakes actions for course practice; do not covertly track others.
+
+c01s05 Chapter 1: What does the evidence allow?
+Behavioural research needs observable definitions, suitable comparisons and ethical procedures. A label such as lazy does not specify the conditions maintaining an action.
+
+A baseline is descriptive evidence. Causation requires additional design and consideration of alternative changes.
+
+c01s06 Chapter 1: Apply the distinction
+Apply the idea to this new fictional case.
+
+One workshop records six missed returns and another records three, but the number of tool uses differs.
+
+What is missing?
+
+A. A denominator and comparable observation window.
+
+B. A stronger judgment about the users.
+
+C. Proof that raw counts measure motivation.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c01s06-feedback-0 Chapter 1: feedback 1
+Counts need opportunities and time to support a fair comparison.
+
+c01s06-feedback-1 Chapter 1: feedback 2
+Judgment does not repair the measure.
+
+c01s06-feedback-2 Chapter 1: feedback 3
+Motivation is an inference, not something the count uniquely records.
+
+c01s07 Chapter 1: Explain it without the notes
+Try these questions without your notes.
+
+Why operationally define a return?
+
+What does a baseline establish?
+
+Reveal the suggested answers after trying.
+
+c01s07-answers Chapter 1: recall answers
+It states exactly what is counted and under which conditions.
+
+The initial pattern and variation, not a unique explanation of its cause.
+
+c01s08 Chapter 1: Take the idea into everyday life
+Define one harmless action in your own routine. Record opportunities as well as occurrences, without collecting anyone else’s data.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c02s01 Chapter 2: A cue can predict what comes next
+A café kettle whistles just before hot drinks are served. After repeated pairings, Sam feels anticipation on hearing the whistle even before seeing a cup. Leo says the whistle rewarded Sam.
+
+c02s02 Chapter 2: Make a first decision
+First, make a prediction about the café story.
+
+Why is reward an imprecise label here?
+
+A. The example concerns a cue predicting an event.
+
+B. Classical conditioning cannot involve food.
+
+C. The response proves a deliberate choice.
+
+Choose an option before checking the feedback.
+
+c02s02-feedback-0 Chapter 2: feedback 1
+No specific action-consequence relation has been established.
+
+c02s02-feedback-1 Chapter 2: feedback 2
+Food can be relevant, but it does not define the learning mechanism alone.
+
+c02s02-feedback-2 Chapter 2: feedback 3
+Conditioned responding does not require that inference.
+
+c02s03 Chapter 2: Learning can concern predictive relations.
+Unconditioned stimulus: stimulus eliciting a response without the relevant learning. Unconditioned response: response elicited by that stimulus.
+
+In classical conditioning, experience with related events can change responding to a cue. An initially neutral cue can acquire predictive significance.
+
+Food-related responses are a familiar example, but the precise response and prior learning must be specified. The kettle scene is an illustration, not a controlled conditioning experiment.
+
+c02s03b Chapter 2: Name the cue and the learned response.
+Conditioned stimulus: cue that acquires significance through learning. Conditioned response: response elicited by a learned cue. Acquisition: development of a learned response.
+
+If the whistle reliably precedes drinks, it may become a conditioned cue and anticipation a learned response. A learned response need not copy the original response exactly.
+
+Identify what was measured and what other cues were present. Simply noticing a sequence does not establish that this cue caused the response.
+
+c02s04 Chapter 2: Prediction matters more than coincidence.
+Contingency: how one event changes the probability of another. Contiguity: closeness in time or space. Prediction error: difference between expected and observed outcome.
+
+Events close in time are not necessarily informative. A cue predicts an outcome better when the outcome is more likely with the cue than without it.
+
+Researchers compare predictive relations and competing cues. A useful account of learning must explain what the cue adds beyond what is already expected.
+
+c02s05 Chapter 2: What does the evidence allow?
+Classical conditioning research shows that temporal pairing alone is not a complete explanation. Contingency, prior learning and context influence acquisition.
+
+Anticipation in the fictional café could have several causes. A controlled comparison is needed to identify the whistle’s contribution.
+
+c02s06 Chapter 2: Apply the distinction
+Apply the idea to this new fictional case.
+
+A bell occurs on some occasions. The team compares how often an event follows with and without the bell.
+
+Which cue is more informative?
+
+A. The cue after which the outcome occurs more often than without it.
+
+B. Any cue that happens nearby in time.
+
+C. The most noticeable cue regardless of outcomes.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c02s06-feedback-0 Chapter 2: feedback 1
+Its presence changes the outcome probability and adds information.
+
+c02s06-feedback-1 Chapter 2: feedback 2
+Temporal proximity alone may not improve prediction.
+
+c02s06-feedback-2 Chapter 2: feedback 3
+Salience can matter, but does not establish predictive contingency.
+
+c02s07 Chapter 2: Explain it without the notes
+Try these questions without your notes.
+
+What is a conditioned stimulus?
+
+How does contingency differ from contiguity?
+
+Reveal the suggested answers after trying.
+
+c02s07-answers Chapter 2: recall answers
+A cue that acquires significance through learning.
+
+Contingency concerns predictive probability; contiguity concerns closeness in time or space.
+
+c02s08 Chapter 2: Take the idea into everyday life
+Use a fictional everyday cue to identify an expected event and a possible learned response. State what comparison would test prediction.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c03s01 Chapter 3: Consequences can change an action
+After Sam returns a tool, the reminder tone stops. Returns become more frequent. Leo calls this punishment because the tone is unpleasant. Maya asks which consequence followed the return and how behaviour changed.
+
+c03s02 Chapter 3: Make a first decision
+First, make a prediction about the café story.
+
+If returns increase after the tone stops, what is the relation?
+
+A. Positive punishment.
+
+B. Negative reinforcement.
+
+C. Negative punishment.
+
+Choose an option before checking the feedback.
+
+c03s02-feedback-0 Chapter 3: feedback 1
+Nothing aversive is added after the return to decrease it.
+
+c03s02-feedback-1 Chapter 3: feedback 2
+Removal of the tone follows the action and the action increases.
+
+c03s02-feedback-2 Chapter 3: feedback 3
+Negative punishment would involve removal that decreases the target action.
+
+c03s03 Chapter 3: Start with the action and its consequence.
+Operant conditioning: learning involving action-consequence relations.
+
+Reinforcement and punishment are defined by effects on future behaviour, not by whether a consequence sounds kind or harsh. An intended reward may fail to reinforce.
+
+Specify the action, the consequence and the change over comparable opportunities. A single occurrence is not enough to establish a lasting effect.
+
+c03s03b Chapter 3: Positive and negative mean addition and removal.
+Positive punishment: adding a consequence that decreases behaviour.
+
+Stopping the reminder tone after a return can be negative reinforcement if returns increase. Negative means removal, not bad.
+
+Adding a welcome consequence can be positive reinforcement if the action increases. Adding an unpleasant event is punishment only if the target behaviour decreases.
+
+c03s04 Chapter 3: Removal can also reduce behaviour.
+Negative punishment: removing a consequence in a way that decreases behaviour. Functional definition: classification based on an observed effect. Unintended consequence: an effect beyond the intended target.
+
+If removing access to a valued activity reduces a defined action, it meets a negative-punishment definition. The effect still needs evidence.
+
+Classification is not ethical endorsement. Coercion, unfairness and unintended effects matter. Supportive access and skill teaching are often more appropriate than arranging aversive consequences.
+
+c03s05 Chapter 3: What does the evidence allow?
+Operant principles identify functional relations under specified conditions. Effects depend on timing, context, history and what the consequence means to the person.
+
+A label does not establish efficacy or ethical acceptability. The course does not ask learners to impose punishments on others.
+
+c03s06 Chapter 3: Apply the distinction
+Apply the idea to this new fictional case.
+
+A manager calls public praise a reinforcer, but has not measured subsequent participation.
+
+What must be checked?
+
+A. Whether the manager intended it as praise.
+
+B. Whether praise sounds positive.
+
+C. Whether the defined action increased in comparable conditions.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c03s06-feedback-0 Chapter 3: feedback 1
+Intention alone does not establish a reinforcing effect.
+
+c03s06-feedback-1 Chapter 3: feedback 2
+Positive describes addition here; effect still matters.
+
+c03s06-feedback-2 Chapter 3: feedback 3
+Reinforcement is defined by increased behaviour rather than the label.
+
+c03s07 Chapter 3: Explain it without the notes
+Try these questions without your notes.
+
+What does negative mean in negative reinforcement?
+
+Why does an intended reward not necessarily reinforce?
+
+Reveal the suggested answers after trying.
+
+c03s07-answers Chapter 3: recall answers
+A condition is removed and the target behaviour increases.
+
+The classification requires an effect on future behaviour, which may not match the intention.
+
+c03s08 Chapter 3: Take the idea into everyday life
+Classify four fictional action-consequence examples using addition or removal and increase or decrease. Do not arrange consequences for real people.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c04s01 Chapter 4: Small steps can build a skill
+Jo wants to learn a careful repair explanation but struggles to describe every stage at once. Maya suggests practising one useful comparison first. Leo proposes rewarding any fluent speech, even if inaccurate.
+
+c04s02 Chapter 4: Make a first decision
+First, make a prediction about the café story.
+
+Which initial criterion fits Jo’s goal?
+
+A. Speak rapidly for thirty seconds.
+
+B. Name one accurate observation before explaining it.
+
+C. Use as many technical terms as possible.
+
+Choose an option before checking the feedback.
+
+c04s02-feedback-0 Chapter 4: feedback 1
+Fluency alone does not establish accurate reasoning.
+
+c04s02-feedback-1 Chapter 4: feedback 2
+This is a relevant approximation to a supported explanation.
+
+c04s02-feedback-2 Chapter 4: feedback 3
+Terminology without application can reward the wrong outcome.
+
+c04s03 Chapter 4: Shape the behaviour that matters.
+Shaping: reinforcing successive approximations to a target. Successive approximation: a step closer to the target behaviour. Criterion: the defined standard for a response.
+
+Choose a meaningful target, then recognize progress toward it using clear criteria. An approximation should move toward the intended skill rather than reward a superficial proxy.
+
+For Jo, naming one accurate observation is a better first step than speaking quickly. Increase demands as the skill becomes reliable.
+
+c04s03b Chapter 4: Break complex actions into teachable parts.
+Task analysis: identifying components of a complex action. Chaining: learning linked components of a sequence. Prompt: a cue or assistance supporting a response.
+
+A repair explanation can involve describing the observation, proposing alternatives and identifying a test. Prompts can help each component initially.
+
+Fade support and test a new example. Repeating a prompted sequence does not establish independent use of the reasoning skill.
+
+c04s04 Chapter 4: Distinguish cannot from cannot here.
+Skill deficit: the required action is not yet learned. Performance condition: a factor affecting expression of a skill.
+
+A person may know how to return a tool but lack access to the shelf. That is different from not knowing the procedure.
+
+Before adding incentives, check instructions, tools, time and accessibility. A training solution does not fix every environmental barrier.
+
+c04s05 Chapter 4: What does the evidence allow?
+Learning procedures should be evaluated against the actual goal. Proxies such as speed or number of attempts can improve without better reasoning or safer performance.
+
+Shaping is a learning principle, not a guarantee that every complex capability can be reduced to one fixed sequence.
+
+c04s06 Chapter 4: Apply the distinction
+Apply the idea to this new fictional case.
+
+A volunteer follows the procedure when equipment is available but cannot do so after the supplies are locked away.
+
+What should be changed first?
+
+A. Increase incentives for compliance.
+
+B. Assume the person lacks the skill.
+
+C. Make the required equipment accessible.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c04s06-feedback-0 Chapter 4: feedback 1
+An incentive does not remove the barrier.
+
+c04s06-feedback-1 Chapter 4: feedback 2
+Previous successful performance suggests the skill may already exist.
+
+c04s06-feedback-2 Chapter 4: feedback 3
+The immediate problem is access rather than necessarily learning.
+
+c04s07 Chapter 4: Explain it without the notes
+Try these questions without your notes.
+
+What makes an approximation useful?
+
+Why fade a prompt?
+
+Reveal the suggested answers after trying.
+
+c04s07-answers Chapter 4: recall answers
+It advances the actual target skill under a clear criterion.
+
+To check whether the learner can perform independently rather than only with support.
+
+c04s08 Chapter 4: Take the idea into everyday life
+Choose your own harmless skill. Define one meaningful first step, a later criterion and an unprompted new example.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c05s01 Chapter 5: The pattern of consequences matters
+The café thanks volunteers after every completed checklist. Later it acknowledges a varying number of completions. Leo predicts the exact response rate from a schedule name alone.
+
+c05s02 Chapter 5: Make a first decision
+First, make a prediction about the café story.
+
+What is missing from Leo’s exact prediction?
+
+A. The label alone is always sufficient.
+
+B. Whether the consequence reinforces and what else changed.
+
+C. The assumption that every person responds identically.
+
+Choose an option before checking the feedback.
+
+c05s02-feedback-0 Chapter 5: feedback 1
+The label does not identify every relevant condition.
+
+c05s02-feedback-1 Chapter 5: feedback 2
+Functional effect, history and context qualify the prediction.
+
+c05s02-feedback-2 Chapter 5: feedback 3
+That is an unsupported assumption rather than useful evidence.
+
+c05s03 Chapter 5: Schedules describe arranged relations.
+Continuous reinforcement: reinforcing every eligible response. Intermittent reinforcement: reinforcing some eligible responses. Reinforcement schedule: rule relating responses and consequences.
+
+A schedule describes when a consequence is available in relation to action or time. It does not tell us whether the consequence actually reinforces for this person.
+
+Learning history, task requirements and access also matter. State the arrangement before predicting an effect.
+
+c05s03b Chapter 5: Ratio and interval concern different requirements.
+Variable schedule: requirement varies around a pattern.
+
+A ratio schedule uses a number of responses. An interval schedule makes reinforcement available after a time period, usually for the first eligible response.
+
+Fixed and variable requirements can produce different patterns in controlled settings. They are not universal personality predictions or recipes for manipulating engagement.
+
+c05s04 Chapter 5: Delay changes the learning problem.
+Delay: time between action and consequence. Contingent feedback: information related to the action. Competing consequence: another outcome affecting the same behaviour.
+
+A delayed outcome can be harder to connect with the relevant action. Clear informative feedback may help identify what was effective.
+
+Real settings contain several consequences and verbal explanations. A schedule label alone rarely predicts a precise response rate outside a controlled arrangement.
+
+c05s05 Chapter 5: What does the evidence allow?
+Classic schedule findings come from defined experimental contingencies. Human behaviour also reflects instructions, goals, relationships and competing outcomes.
+
+Do not use schedule research to justify addictive or deceptive design. The course evaluates claims rather than providing a manipulation playbook.
+
+c05s06 Chapter 5: Apply the distinction
+Apply the idea to this new fictional case.
+
+After a set period has elapsed, the first eligible response receives the arranged consequence.
+
+Which schedule description fits?
+
+A. Fixed ratio.
+
+B. Variable ratio.
+
+C. Fixed interval.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c05s06-feedback-0 Chapter 5: feedback 1
+A fixed response count, not elapsed time, defines a fixed ratio.
+
+c05s06-feedback-1 Chapter 5: feedback 2
+A variable response count defines a variable ratio.
+
+c05s06-feedback-2 Chapter 5: feedback 3
+A stated time passes before the first eligible response can be reinforced.
+
+c05s07 Chapter 5: Explain it without the notes
+Try these questions without your notes.
+
+How does ratio differ from interval?
+
+Why is a schedule name not a precise individual prediction?
+
+Reveal the suggested answers after trying.
+
+c05s07-answers Chapter 5: recall answers
+Ratio concerns number of responses; interval concerns time before an eligible response.
+
+Other consequences, instructions, history and the functional value of the outcome matter.
+
+c05s08 Chapter 5: Take the idea into everyday life
+Classify fictional consequence arrangements by response count or time. Identify a missing condition before predicting an effect.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c06s01 Chapter 6: A learned response can return
+The whistle no longer predicts drinks, and Sam’s anticipatory response fades. At another café the response briefly returns. Leo says the earlier learning was erased and then somehow restored.
+
+c06s02 Chapter 6: Make a first decision
+First, make a prediction about the café story.
+
+What best explains the apparent contradiction?
+
+A. Reduced responding need not erase the older learning.
+
+B. A single return proves extinction never occurred.
+
+C. All responses return for the same reason.
+
+Choose an option before checking the feedback.
+
+c06s02-feedback-0 Chapter 6: feedback 1
+New learning and retrieval conditions can explain the pattern.
+
+c06s02-feedback-1 Chapter 6: feedback 2
+An earlier reduction and later return can coexist.
+
+c06s02-feedback-2 Chapter 6: feedback 3
+Time, context and outcome exposure are distinguishable factors.
+
+c06s03 Chapter 6: Extinction changes the predictive relation.
+In classical extinction, the cue occurs without the expected outcome. In operant extinction, the action no longer produces the maintaining reinforcer.
+
+Reduced responding does not necessarily mean the earlier learning was erased. New learning may be specific to a context and compete with the older relation.
+
+c06s03b Chapter 6: Return has different forms.
+Spontaneous recovery: response return after time has passed. Renewal: response return with a context change. Reinstatement: response return after relevant outcome exposure.
+
+Time, a setting change or exposure to a relevant outcome can contribute to return of a response after extinction. These effects differ and require specific designs.
+
+A returned response does not prove that change was impossible. It suggests that learning and retrieval conditions need to be examined.
+
+c06s04 Chapter 6: Plan for changing conditions.
+Generalization: responding across related cues or contexts. Maintenance: persistence of change over time.
+
+A support may work in one room and fail elsewhere. Check different relevant settings and delayed outcomes rather than assuming one successful session is permanent.
+
+Clinical exposure and relapse prevention require professional assessment and care. Do not create fear, withhold essential support or conduct exposure experiments as course practice.
+
+c06s05 Chapter 6: What does the evidence allow?
+Extinction and response-return effects are well-established distinctions, with outcomes depending on species, task and procedure. Translation to clinical care requires additional evidence.
+
+The whistle example illustrates learning principles; it is not advice for treating anxiety or removing another person’s support.
+
+c06s06 Chapter 6: Apply the distinction
+Apply the idea to this new fictional case.
+
+After a response decreases in one room, it returns when the cue is presented in a different room.
+
+Which research term fits most directly?
+
+A. Spontaneous recovery.
+
+B. Renewal.
+
+C. Shaping.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c06s06-feedback-0 Chapter 6: feedback 1
+That term emphasizes a time-related return.
+
+c06s06-feedback-1 Chapter 6: feedback 2
+The context change is the relevant feature here.
+
+c06s06-feedback-2 Chapter 6: feedback 3
+Shaping concerns successive approximations, not context-related return.
+
+c06s07 Chapter 6: Explain it without the notes
+Try these questions without your notes.
+
+Why is extinction not necessarily erasure?
+
+What distinguishes renewal from spontaneous recovery?
+
+Reveal the suggested answers after trying.
+
+c06s07-answers Chapter 6: recall answers
+Older learning can remain and compete with a newer cue or action relation.
+
+Renewal involves context change; spontaneous recovery concerns a return after time.
+
+c06s08 Chapter 6: Take the idea into everyday life
+Use a fictional cue response to describe a context change and a delayed check. Do not run fear, deprivation or clinical exposure exercises.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c07s01 Chapter 7: A cue is not the whole situation
+Sam checks a familiar red label carefully but overlooks a similar orange label. Leo says the colour alone controls the action. Maya notices that the orange label also has smaller text and a different location.
+
+c07s02 Chapter 7: Make a first decision
+First, make a prediction about the café story.
+
+What should Maya conclude first?
+
+A. Colour definitely caused the miss.
+
+B. Several features changed and need comparison.
+
+C. Generalization never occurs across colours.
+
+Choose an option before checking the feedback.
+
+c07s02-feedback-0 Chapter 7: feedback 1
+Text and location changed too, so colour is not isolated.
+
+c07s02-feedback-1 Chapter 7: feedback 2
+The alternative features generate testable accounts.
+
+c07s02-feedback-2 Chapter 7: feedback 3
+One miss does not establish a general impossibility.
+
+c07s03 Chapter 7: Learning can extend beyond a trained cue.
+Stimulus generalization: learned responding to related stimuli. Generalization gradient: response pattern across stimulus differences.
+
+A learned response may occur to cues similar to the original. The relevant similarity can concern appearance, meaning or context.
+
+Generalization is not guaranteed by a teacher’s intention. Check new cases rather than treating practice with one example as evidence of broad transfer.
+
+c07s03b Chapter 7: Discrimination depends on a relation.
+Stimulus discrimination: different responding to distinguishable cues. Discriminative stimulus: cue signalling an action-consequence relation.
+
+A cue can signal when an action is likely to have a particular consequence. This differs from a cue eliciting a conditioned response.
+
+To infer stimulus control, compare conditions while checking other differences. Colour, location, text size and instructions may all contribute.
+
+c07s04 Chapter 7: Design transfer deliberately.
+Multiple-exemplar training: practice with varied relevant examples. Overgeneralization: extending a rule beyond its valid range. Boundary condition: circumstance limiting a rule’s application.
+
+Use varied examples that preserve the important rule and include cases where it does not apply. Ask the learner to explain the relevant feature.
+
+The aim is useful discrimination and generalization, not identical responding everywhere. In safety-related tasks, professional standards and appropriate supervision remain essential.
+
+c07s05 Chapter 7: What does the evidence allow?
+Generalization and discrimination depend on learning history, attention and task structure. Evidence from one cue cannot establish universal stimulus control.
+
+An everyday comparison with several simultaneous changes leaves causal alternatives unresolved.
+
+c07s06 Chapter 7: Apply the distinction
+Apply the idea to this new fictional case.
+
+A workshop wants learners to recognize the same safety instruction across several formats without applying it to unrelated labels.
+
+Which practice set best supports the intended skill?
+
+A. One example repeated without variation.
+
+B. Unrelated examples with no clear rule.
+
+C. Varied valid examples plus relevant boundary cases.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c07s06-feedback-0 Chapter 7: feedback 1
+Repetition alone can leave the rule tied to surface features.
+
+c07s06-feedback-1 Chapter 7: feedback 2
+Variation needs a coherent relation to the target skill.
+
+c07s06-feedback-2 Chapter 7: feedback 3
+The set teaches both where the rule transfers and where it stops.
+
+c07s07 Chapter 7: Explain it without the notes
+Try these questions without your notes.
+
+How does generalization differ from discrimination?
+
+Why include a boundary case?
+
+Reveal the suggested answers after trying.
+
+c07s07-answers Chapter 7: recall answers
+Generalization extends responding to related cues; discrimination differentiates conditions.
+
+It helps identify where a rule does not apply and reduces overgeneralization.
+
+c07s08 Chapter 7: Take the idea into everyday life
+Create two fictional examples of a harmless rule and one boundary case. Explain which feature matters.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c08s01 Chapter 8: Watching can teach more than imitation
+Jo watches Maya diagnose a radio, then explains the comparison accurately without using Maya’s exact gestures. Leo says no learning occurred because Jo did not imitate the movements.
+
+c08s02 Chapter 8: Make a first decision
+First, make a prediction about the café story.
+
+What would best test Jo’s learning?
+
+A. Require identical hand movements.
+
+B. Ask for a diagnosis based on appearance.
+
+C. Use a new safe case requiring the same comparison.
+
+Choose an option before checking the feedback.
+
+c08s02-feedback-0 Chapter 8: feedback 1
+That tests imitation rather than necessarily the strategy.
+
+c08s02-feedback-1 Chapter 8: feedback 2
+The intended skill is evidence-based comparison, not a guess.
+
+c08s02-feedback-2 Chapter 8: feedback 3
+A new case can reveal whether the relevant relation was learned.
+
+c08s03 Chapter 8: Learning can use another person’s actions.
+Observational learning: learning by observing others and outcomes. Model: person or representation being observed.
+
+People can learn procedures, expectations and strategies by watching. Imitation is one possible outcome, not the only evidence of learning.
+
+Jo may learn which comparison matters while using a different movement. An appropriate new task can test the learned strategy more directly than matching gestures.
+
+c08s03b Chapter 8: Attention and practice still matter.
+Attention: selecting information for processing. Retention: keeping information available over time. Reproduction: ability to carry out the observed action.
+
+A learner must notice relevant features and retain enough information to use them. Physical skills and opportunities affect whether the action can be reproduced.
+
+Explain the purpose of each step, invite an attempt and provide feedback. Merely displaying a demonstration does not establish that the learner understood it.
+
+c08s04 Chapter 8: Observed consequences shape expectations.
+Vicarious reinforcement: effects of seeing another’s reinforcement. Outcome expectation: belief about likely consequences. Self-efficacy: belief in capability for a specified action.
+
+Seeing another person succeed or receive a consequence can influence expectations and willingness to act. Believing a task is possible is distinct from already possessing the skill.
+
+A relatable model and achievable practice may help, but social learning does not make learners passive copies. Prior knowledge and context shape interpretation.
+
+c08s05 Chapter 8: What does the evidence allow?
+Observational-learning studies distinguish acquisition, performance and the effects of observed outcomes. Task, model and social context qualify generalization.
+
+A demonstration’s popularity is not evidence of transfer. Delayed unfamiliar performance provides a stronger check of the intended skill.
+
+c08s06 Chapter 8: Apply the distinction
+Apply the idea to this new fictional case.
+
+A learner feels confident after a demonstration but cannot yet complete the procedure independently.
+
+Which distinction matters?
+
+A. Confidence and current capability are different.
+
+B. Confidence proves full mastery.
+
+C. A failed attempt proves no learning occurred.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c08s06-feedback-0 Chapter 8: feedback 1
+Belief may support action without establishing the skill.
+
+c08s06-feedback-1 Chapter 8: feedback 2
+Self-efficacy is not a direct performance measure.
+
+c08s06-feedback-2 Chapter 8: feedback 3
+Performance can be limited by demands, access and incomplete practice.
+
+c08s07 Chapter 8: Explain it without the notes
+Try these questions without your notes.
+
+Why is imitation narrower than observational learning?
+
+How would you check retention and application?
+
+Reveal the suggested answers after trying.
+
+c08s07-answers Chapter 8: recall answers
+Learning can involve a rule or expectation without copying exact movements.
+
+Ask for an unaided explanation and use a suitable delayed new task.
+
+c08s08 Chapter 8: Take the idea into everyday life
+Watch a public demonstration of a harmless skill. Name the useful relation and design a new case that would test it.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c09s01 Chapter 9: Habit depends on repeated contexts
+Sam repeatedly puts the mug beside the old kettle location even after the kettle moves. Leo calls it a lack of commitment. Maya asks which cues and repeated actions may be involved.
+
+c09s02 Chapter 9: Make a first decision
+First, make a prediction about the café story.
+
+Which account best fits the mug pattern?
+
+A. A familiar context may still cue the old action.
+
+B. The error proves a lack of commitment.
+
+C. All frequent actions are deliberate goals.
+
+Choose an option before checking the feedback.
+
+c09s02-feedback-0 Chapter 9: feedback 1
+The learning-history explanation is plausible and can guide a small cue change.
+
+c09s02-feedback-1 Chapter 9: feedback 2
+A mistake does not uniquely identify motivation.
+
+c09s02-feedback-2 Chapter 9: feedback 3
+Repetition can support responses with reduced deliberation.
+
+c09s03 Chapter 9: Repeated contexts can cue an action.
+Automaticity: reduced need for deliberate control. Intention: a plan or commitment to act.
+
+Repeated actions in stable contexts can become easier to initiate with less deliberation. A habit is not identical to frequency or to a conscious goal.
+
+Sam can intend to use the new location while still responding to familiar cues. The pattern suggests a learning history, not a moral defect.
+
+c09s03b Chapter 9: Change the conditions, not just the slogan.
+Environmental cue: feature that can prompt a response. Friction: effort or steps required for an action. Implementation intention: a specified if-then action plan.
+
+For a self-chosen harmless routine, make the intended action easy to notice and perform. An if-then plan can specify a cue and response.
+
+A plan is not a guarantee. Check what happens under the actual conditions, and revise barriers rather than escalating blame.
+
+c09s04 Chapter 9: Measure the outcome and its limits.
+Self-monitoring: recording one’s own defined behaviour. Maintenance: persistence across time. Behavioural substitution: using another response in a relevant situation.
+
+Record opportunities and the chosen outcome over time. Ask whether the change is useful, sustainable and still freely chosen.
+
+There is no universal number of days that creates every habit. Clinical compulsions, addiction and serious distress need appropriate care rather than a simplified habit checklist.
+
+c09s05 Chapter 9: What does the evidence allow?
+Habit research distinguishes cue-linked automaticity, repetition and intention. Development rates vary with action, context and measurement.
+
+Self-directed routine experiments cannot establish treatment efficacy or explain every persistent behaviour.
+
+c09s06 Chapter 9: Apply the distinction
+Apply the idea to this new fictional case.
+
+A person chooses a harmless routine but misses it when the context changes.
+
+What is the most useful next step?
+
+A. Wait for a universal habit deadline.
+
+B. Check cue, access and opportunities, then revise the plan.
+
+C. Treat a missed day as proof of permanent failure.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c09s06-feedback-0 Chapter 9: feedback 1
+No fixed deadline applies to every action and setting.
+
+c09s06-feedback-1 Chapter 9: feedback 2
+The conditions and meaningful outcome provide information for revision.
+
+c09s06-feedback-2 Chapter 9: feedback 3
+One lapse does not settle the later trajectory.
+
+c09s07 Chapter 9: Explain it without the notes
+Try these questions without your notes.
+
+How does habit differ from intention?
+
+Why reject a universal habit-day rule?
+
+Reveal the suggested answers after trying.
+
+c09s07-answers Chapter 9: recall answers
+Habit concerns a learned cue-linked tendency; intention is a conscious plan.
+
+Actions, contexts, opportunities and measures differ, producing variable trajectories.
+
+c09s08 Chapter 9: Take the idea into everyday life
+Choose one harmless routine for yourself. Write an if-then plan, reduce one barrier and review opportunities without punishing missed attempts.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c10s01 Chapter 10: Change should be useful and freely chosen
+The café wants more reliable tool returns. Leo proposes hidden monitoring and escalating penalties. Maya suggests asking volunteers about barriers, restoring shelf access and evaluating an agreed procedure.
+
+c10s02 Chapter 10: Make a first decision
+First, make a prediction about the café story.
+
+Which plan best fits the evidence and ethics?
+
+A. Use hidden monitoring before discussion.
+
+B. Agree a useful outcome, remove barriers and evaluate with consent.
+
+C. Escalate penalties whenever a count falls.
+
+Choose an option before checking the feedback.
+
+c10s02-feedback-0 Chapter 10: feedback 1
+Covert tracking undermines privacy and may miss the actual barrier.
+
+c10s02-feedback-1 Chapter 10: feedback 2
+This connects agency, accessible conditions and a testable outcome.
+
+c10s02-feedback-2 Chapter 10: feedback 3
+Counts need context and escalating punishment can introduce harm.
+
+c10s03 Chapter 10: A function is a hypothesis to test.
+Antecedent: condition preceding an action. Consequence: event following an action. Functional assessment: examining relations between conditions and behaviour.
+
+Map what happens before and after the action, then consider alternatives. A descriptive sequence does not by itself establish a causal function.
+
+The locked shelf may be a barrier; a reminder may help; social expectations may matter. Use a safe, consensual comparison rather than assuming the first story is correct.
+
+c10s03b Chapter 10: A change needs an evaluation design.
+Single-case design: repeated measurement within a case under planned conditions. Multiple baseline: staggering introduction across cases or behaviours. Social validity: importance and acceptability of goals and procedures.
+
+Repeated measurement can examine whether change follows an intervention. Replication across appropriately staggered introductions helps address alternative explanations.
+
+Do not withdraw essential support to create a comparison. A meaningful outcome, participant preferences and harms are part of the evaluation, not optional extras.
+
+c10s04 Chapter 10: Preserve agency in the application.
+Consent: freely given informed agreement. Coercion: pressure undermining a free choice. Least restrictive approach: support that minimizes unnecessary constraint.
+
+Discuss goals with the people affected and make access and skill support the first questions. Privacy and the right to decline matter.
+
+Learning principles can improve teaching and self-directed routines. They do not justify manipulating partners, children or colleagues. Serious behavioural and clinical concerns need qualified support.
+
+c10s05 Chapter 10: What does the evidence allow?
+Behavioural effects depend on defined conditions, and practical interventions need evidence for both outcomes and acceptability. A count can improve while wellbeing or autonomy worsens.
+
+This introduction is not professional behaviour-analysis training or clinical advice.
+
+c10s06 Chapter 10: Apply the distinction
+Apply the idea to this new fictional case.
+
+Agreed shelf changes improve returns during one workshop, but no later settings have been measured.
+
+What should the report conclude?
+
+A. The procedure worked forever for everyone.
+
+B. The decrease proves a permanent personality change.
+
+C. The outcome improved locally; maintenance and wider transfer remain open.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c10s06-feedback-0 Chapter 10: feedback 1
+The design did not establish universal or permanent effects.
+
+c10s06-feedback-1 Chapter 10: feedback 2
+A behaviour measure does not establish a personality transformation.
+
+c10s06-feedback-2 Chapter 10: feedback 3
+The conclusion fits the measured setting and points to later checks.
+
+c10s07 Chapter 10: Explain it without the notes
+Try these questions without your notes.
+
+Why is an action sequence not a causal proof?
+
+What does social validity add?
+
+Reveal the suggested answers after trying.
+
+c10s07-answers Chapter 10: recall answers
+Several conditions change together, so the function needs further comparison.
+
+It asks whether goals, methods and outcomes matter and are acceptable to the people affected.
+
+c10s08 Chapter 10: Take the idea into everyday life
+Write an ethical plan for a fictional routine: agreed goal, definition, baseline, support, comparison, follow-up and a right to decline.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.

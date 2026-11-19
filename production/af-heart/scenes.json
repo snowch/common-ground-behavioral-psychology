@@ -1,0 +1,962 @@
+[
+  {
+    "id": "c01s01",
+    "step": "Chapter 1: Describe the action before explaining it",
+    "text": "Leo says Sam is becoming lazy because tools are not returned. Maya notices that the return shelf moved behind a locked door. The team needs a description that can distinguish motivation from access.",
+    "say": "Leo says Sam is becoming lazy because tools are not returned. [Maya](/mˈaɪə/) notices that the return shelf moved behind a locked door. The team needs a description that can distinguish motivation from access."
+  },
+  {
+    "id": "c01s02",
+    "step": "Chapter 1: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhich first step helps distinguish the explanations?\n\nA. Count returns per use before and after the shelf move.\n\nB. Ask which personality label fits Sam.\n\nC. Assume the locked door cannot affect behaviour.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] Which first step helps distinguish the explanations? [pause 0.65] A. Count returns per use before and after the shelf move. [pause 0.65] B. Ask which personality label fits Sam. [pause 0.65] C. Assume the locked door cannot affect behaviour. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c01s02-feedback-0",
+    "step": "Chapter 1: feedback 1",
+    "text": "A defined rate and access record make the contextual explanation testable.",
+    "say": "A defined rate and access record make the contextual explanation testable."
+  },
+  {
+    "id": "c01s02-feedback-1",
+    "step": "Chapter 1: feedback 2",
+    "text": "The label does not distinguish access from other explanations.",
+    "say": "The label does not distinguish access from other explanations."
+  },
+  {
+    "id": "c01s02-feedback-2",
+    "step": "Chapter 1: feedback 3",
+    "text": "The door is a relevant condition that should be investigated.",
+    "say": "The door is a relevant condition that should be investigated."
+  },
+  {
+    "id": "c01s03",
+    "step": "Chapter 1: A useful description can be checked.",
+    "text": "Behaviour: an action defined for observation. Operational definition: a stated procedure for identifying or measuring something. Frequency: number of defined events in a period.\n\nDescribe what happened rather than starting with a character judgment. Define whether a return means placing the tool in its marked location before leaving.\n\nA count also needs opportunities and a time period. Ten missed returns mean different things after ten uses and after a thousand.",
+    "say": "Behaviour: an action defined for observation. Operational definition: a stated procedure for identifying or measuring something. Frequency: number of defined events in a period. [pause 0.65] Describe what happened rather than starting with a character judgment. Define whether a return means placing the tool in its marked location before leaving. [pause 0.65] A count also needs opportunities and a time period. Ten missed returns mean different things after ten uses and after a thousand."
+  },
+  {
+    "id": "c01s03b",
+    "step": "Chapter 1: Record the starting pattern.",
+    "text": "Duration: how long a defined event lasts.\n\nA baseline shows current variation rather than assuming a single event is typical. Record time, opportunities and relevant conditions.\n\nA lower return rate could reflect access, instructions or consequences. The baseline describes a pattern; it does not prove which cause produced it.",
+    "say": "Duration: how long a defined event lasts. [pause 0.65] A baseline shows current variation rather than assuming a single event is typical. Record time, opportunities and relevant conditions. [pause 0.65] A lower return rate could reflect access, instructions or consequences. The baseline describes a pattern; it does not prove which cause produced it."
+  },
+  {
+    "id": "c01s04",
+    "step": "Chapter 1: The observer is part of the method.",
+    "text": "Interobserver agreement: consistency between observers using the same definition. Reactivity: behaviour changes because it is observed. Confounding: another factor contributes to a pattern.\n\nTwo observers can check whether the definition is usable. Agreement does not by itself prove that the chosen measure captures the intended concept.\n\nMonitoring can change behaviour and raise privacy concerns. Use fictional cases or your own low-stakes actions for course practice; do not covertly track others.",
+    "say": "Interobserver agreement: consistency between observers using the same definition. Reactivity: behaviour changes because it is observed. Confounding: another factor contributes to a pattern. [pause 0.65] Two observers can check whether the definition is usable. Agreement does not by itself prove that the chosen measure captures the intended concept. [pause 0.65] Monitoring can change behaviour and raise privacy concerns. Use fictional cases or your own low-stakes actions for course practice; do not covertly track others."
+  },
+  {
+    "id": "c01s05",
+    "step": "Chapter 1: What does the evidence allow?",
+    "text": "Behavioural research needs observable definitions, suitable comparisons and ethical procedures. A label such as lazy does not specify the conditions maintaining an action.\n\nA baseline is descriptive evidence. Causation requires additional design and consideration of alternative changes.",
+    "say": "Behavioural research needs observable definitions, suitable comparisons and ethical procedures. A label such as lazy does not specify the conditions maintaining an action. [pause 0.65] A baseline is descriptive evidence. Causation requires additional design and consideration of alternative changes."
+  },
+  {
+    "id": "c01s06",
+    "step": "Chapter 1: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nOne workshop records six missed returns and another records three, but the number of tool uses differs.\n\nWhat is missing?\n\nA. A denominator and comparable observation window.\n\nB. A stronger judgment about the users.\n\nC. Proof that raw counts measure motivation.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] One workshop records six missed returns and another records three, but the number of tool uses differs. [pause 0.65] What is missing? [pause 0.65] A. A denominator and comparable observation window. [pause 0.65] B. A stronger judgment about the users. [pause 0.65] C. Proof that raw counts measure motivation. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-0",
+    "step": "Chapter 1: feedback 1",
+    "text": "Counts need opportunities and time to support a fair comparison.",
+    "say": "Counts need opportunities and time to support a fair comparison. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-1",
+    "step": "Chapter 1: feedback 2",
+    "text": "Judgment does not repair the measure.",
+    "say": "Judgment does not repair the measure. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-2",
+    "step": "Chapter 1: feedback 3",
+    "text": "Motivation is an inference, not something the count uniquely records.",
+    "say": "Motivation is an inference, not something the count uniquely records. [pause 1.0]"
+  },
+  {
+    "id": "c01s07",
+    "step": "Chapter 1: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy operationally define a return?\n\nWhat does a baseline establish?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why operationally define a return? [pause 0.65] What does a baseline establish? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c01s07-answers",
+    "step": "Chapter 1: recall answers",
+    "text": "It states exactly what is counted and under which conditions.\n\nThe initial pattern and variation, not a unique explanation of its cause.",
+    "say": "It states exactly what is counted and under which conditions. [pause 0.65] The initial pattern and variation, not a unique explanation of its cause. [pause 1.0]"
+  },
+  {
+    "id": "c01s08",
+    "step": "Chapter 1: Take the idea into everyday life",
+    "text": "Define one harmless action in your own routine. Record opportunities as well as occurrences, without collecting anyone else’s data.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Define one harmless action in your own routine. Record opportunities as well as occurrences, without collecting anyone else’s data. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c02s01",
+    "step": "Chapter 2: A cue can predict what comes next",
+    "text": "A café kettle whistles just before hot drinks are served. After repeated pairings, Sam feels anticipation on hearing the whistle even before seeing a cup. Leo says the whistle rewarded Sam.",
+    "say": "A café kettle whistles just before hot drinks are served. After repeated pairings, Sam feels anticipation on hearing the whistle even before seeing a cup. Leo says the whistle rewarded Sam."
+  },
+  {
+    "id": "c02s02",
+    "step": "Chapter 2: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhy is reward an imprecise label here?\n\nA. The example concerns a cue predicting an event.\n\nB. Classical conditioning cannot involve food.\n\nC. The response proves a deliberate choice.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] Why is reward an imprecise label here? [pause 0.65] A. The example concerns a cue predicting an event. [pause 0.65] B. Classical conditioning cannot involve food. [pause 0.65] C. The response proves a deliberate choice. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c02s02-feedback-0",
+    "step": "Chapter 2: feedback 1",
+    "text": "No specific action-consequence relation has been established.",
+    "say": "No specific action-consequence relation has been established."
+  },
+  {
+    "id": "c02s02-feedback-1",
+    "step": "Chapter 2: feedback 2",
+    "text": "Food can be relevant, but it does not define the learning mechanism alone.",
+    "say": "Food can be relevant, but it does not define the learning mechanism alone."
+  },
+  {
+    "id": "c02s02-feedback-2",
+    "step": "Chapter 2: feedback 3",
+    "text": "Conditioned responding does not require that inference.",
+    "say": "Conditioned responding does not require that inference."
+  },
+  {
+    "id": "c02s03",
+    "step": "Chapter 2: Learning can concern predictive relations.",
+    "text": "Unconditioned stimulus: stimulus eliciting a response without the relevant learning. Unconditioned response: response elicited by that stimulus.\n\nIn classical conditioning, experience with related events can change responding to a cue. An initially neutral cue can acquire predictive significance.\n\nFood-related responses are a familiar example, but the precise response and prior learning must be specified. The kettle scene is an illustration, not a controlled conditioning experiment.",
+    "say": "Unconditioned stimulus: stimulus eliciting a response without the relevant learning. Unconditioned response: response elicited by that stimulus. [pause 0.65] In classical conditioning, experience with related events can change responding to a cue. An initially neutral cue can acquire predictive significance. [pause 0.65] Food-related responses are a familiar example, but the precise response and prior learning must be specified. The kettle scene is an illustration, not a controlled conditioning experiment."
+  },
+  {
+    "id": "c02s03b",
+    "step": "Chapter 2: Name the cue and the learned response.",
+    "text": "Conditioned stimulus: cue that acquires significance through learning. Conditioned response: response elicited by a learned cue. Acquisition: development of a learned response.\n\nIf the whistle reliably precedes drinks, it may become a conditioned cue and anticipation a learned response. A learned response need not copy the original response exactly.\n\nIdentify what was measured and what other cues were present. Simply noticing a sequence does not establish that this cue caused the response.",
+    "say": "Conditioned stimulus: cue that acquires significance through learning. Conditioned response: response elicited by a learned cue. Acquisition: development of a learned response. [pause 0.65] If the whistle reliably precedes drinks, it may become a conditioned cue and anticipation a learned response. A learned response need not copy the original response exactly. [pause 0.65] Identify what was measured and what other cues were present. Simply noticing a sequence does not establish that this cue caused the response."
+  },
+  {
+    "id": "c02s04",
+    "step": "Chapter 2: Prediction matters more than coincidence.",
+    "text": "Contingency: how one event changes the probability of another. Contiguity: closeness in time or space. Prediction error: difference between expected and observed outcome.\n\nEvents close in time are not necessarily informative. A cue predicts an outcome better when the outcome is more likely with the cue than without it.\n\nResearchers compare predictive relations and competing cues. A useful account of learning must explain what the cue adds beyond what is already expected.",
+    "say": "Contingency: how one event changes the probability of another. Contiguity: closeness in time or space. Prediction error: difference between expected and observed outcome. [pause 0.65] Events close in time are not necessarily informative. A cue predicts an outcome better when the outcome is more likely with the cue than without it. [pause 0.65] Researchers compare predictive relations and competing cues. A useful account of learning must explain what the cue adds beyond what is already expected."
+  },
+  {
+    "id": "c02s05",
+    "step": "Chapter 2: What does the evidence allow?",
+    "text": "Classical conditioning research shows that temporal pairing alone is not a complete explanation. Contingency, prior learning and context influence acquisition.\n\nAnticipation in the fictional café could have several causes. A controlled comparison is needed to identify the whistle’s contribution.",
+    "say": "Classical conditioning research shows that temporal pairing alone is not a complete explanation. Contingency, prior learning and context influence acquisition. [pause 0.65] Anticipation in the fictional café could have several causes. A controlled comparison is needed to identify the whistle’s contribution."
+  },
+  {
+    "id": "c02s06",
+    "step": "Chapter 2: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA bell occurs on some occasions. The team compares how often an event follows with and without the bell.\n\nWhich cue is more informative?\n\nA. The cue after which the outcome occurs more often than without it.\n\nB. Any cue that happens nearby in time.\n\nC. The most noticeable cue regardless of outcomes.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A bell occurs on some occasions. The team compares how often an event follows with and without the bell. [pause 0.65] Which cue is more informative? [pause 0.65] A. The cue after which the outcome occurs more often than without it. [pause 0.65] B. Any cue that happens nearby in time. [pause 0.65] C. The most noticeable cue regardless of outcomes. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-0",
+    "step": "Chapter 2: feedback 1",
+    "text": "Its presence changes the outcome probability and adds information.",
+    "say": "Its presence changes the outcome probability and adds information. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-1",
+    "step": "Chapter 2: feedback 2",
+    "text": "Temporal proximity alone may not improve prediction.",
+    "say": "Temporal proximity alone may not improve prediction. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-2",
+    "step": "Chapter 2: feedback 3",
+    "text": "Salience can matter, but does not establish predictive contingency.",
+    "say": "Salience can matter, but does not establish predictive contingency. [pause 1.0]"
+  },
+  {
+    "id": "c02s07",
+    "step": "Chapter 2: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhat is a conditioned stimulus?\n\nHow does contingency differ from contiguity?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] What is a conditioned stimulus? [pause 0.65] How does contingency differ from contiguity? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c02s07-answers",
+    "step": "Chapter 2: recall answers",
+    "text": "A cue that acquires significance through learning.\n\nContingency concerns predictive probability; contiguity concerns closeness in time or space.",
+    "say": "A cue that acquires significance through learning. [pause 0.65] Contingency concerns predictive probability; contiguity concerns closeness in time or space. [pause 1.0]"
+  },
+  {
+    "id": "c02s08",
+    "step": "Chapter 2: Take the idea into everyday life",
+    "text": "Use a fictional everyday cue to identify an expected event and a possible learned response. State what comparison would test prediction.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Use a fictional everyday cue to identify an expected event and a possible learned response. State what comparison would test prediction. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c03s01",
+    "step": "Chapter 3: Consequences can change an action",
+    "text": "After Sam returns a tool, the reminder tone stops. Returns become more frequent. Leo calls this punishment because the tone is unpleasant. Maya asks which consequence followed the return and how behaviour changed.",
+    "say": "After Sam returns a tool, the reminder tone stops. Returns become more frequent. Leo calls this punishment because the tone is unpleasant. [Maya](/mˈaɪə/) asks which consequence followed the return and how behaviour changed."
+  },
+  {
+    "id": "c03s02",
+    "step": "Chapter 3: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nIf returns increase after the tone stops, what is the relation?\n\nA. Positive punishment.\n\nB. Negative reinforcement.\n\nC. Negative punishment.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] If returns increase after the tone stops, what is the relation? [pause 0.65] A. Positive punishment. [pause 0.65] B. Negative reinforcement. [pause 0.65] C. Negative punishment. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c03s02-feedback-0",
+    "step": "Chapter 3: feedback 1",
+    "text": "Nothing aversive is added after the return to decrease it.",
+    "say": "Nothing aversive is added after the return to decrease it."
+  },
+  {
+    "id": "c03s02-feedback-1",
+    "step": "Chapter 3: feedback 2",
+    "text": "Removal of the tone follows the action and the action increases.",
+    "say": "Removal of the tone follows the action and the action increases."
+  },
+  {
+    "id": "c03s02-feedback-2",
+    "step": "Chapter 3: feedback 3",
+    "text": "Negative punishment would involve removal that decreases the target action.",
+    "say": "Negative punishment would involve removal that decreases the target action."
+  },
+  {
+    "id": "c03s03",
+    "step": "Chapter 3: Start with the action and its consequence.",
+    "text": "Operant conditioning: learning involving action-consequence relations.\n\nReinforcement and punishment are defined by effects on future behaviour, not by whether a consequence sounds kind or harsh. An intended reward may fail to reinforce.\n\nSpecify the action, the consequence and the change over comparable opportunities. A single occurrence is not enough to establish a lasting effect.",
+    "say": "Operant conditioning: learning involving action-consequence relations. [pause 0.65] Reinforcement and punishment are defined by effects on future behaviour, not by whether a consequence sounds kind or harsh. An intended reward may fail to reinforce. [pause 0.65] Specify the action, the consequence and the change over comparable opportunities. A single occurrence is not enough to establish a lasting effect."
+  },
+  {
+    "id": "c03s03b",
+    "step": "Chapter 3: Positive and negative mean addition and removal.",
+    "text": "Positive punishment: adding a consequence that decreases behaviour.\n\nStopping the reminder tone after a return can be negative reinforcement if returns increase. Negative means removal, not bad.\n\nAdding a welcome consequence can be positive reinforcement if the action increases. Adding an unpleasant event is punishment only if the target behaviour decreases.",
+    "say": "Positive punishment: adding a consequence that decreases behaviour. [pause 0.65] Stopping the reminder tone after a return can be negative reinforcement if returns increase. Negative means removal, not bad. [pause 0.65] Adding a welcome consequence can be positive reinforcement if the action increases. Adding an unpleasant event is punishment only if the target behaviour decreases."
+  },
+  {
+    "id": "c03s04",
+    "step": "Chapter 3: Removal can also reduce behaviour.",
+    "text": "Negative punishment: removing a consequence in a way that decreases behaviour. Functional definition: classification based on an observed effect. Unintended consequence: an effect beyond the intended target.\n\nIf removing access to a valued activity reduces a defined action, it meets a negative-punishment definition. The effect still needs evidence.\n\nClassification is not ethical endorsement. Coercion, unfairness and unintended effects matter. Supportive access and skill teaching are often more appropriate than arranging aversive consequences.",
+    "say": "Negative punishment: removing a consequence in a way that decreases behaviour. Functional definition: classification based on an observed effect. Unintended consequence: an effect beyond the intended target. [pause 0.65] If removing access to a valued activity reduces a defined action, it meets a negative-punishment definition. The effect still needs evidence. [pause 0.65] Classification is not ethical endorsement. Coercion, unfairness and unintended effects matter. Supportive access and skill teaching are often more appropriate than arranging aversive consequences."
+  },
+  {
+    "id": "c03s05",
+    "step": "Chapter 3: What does the evidence allow?",
+    "text": "Operant principles identify functional relations under specified conditions. Effects depend on timing, context, history and what the consequence means to the person.\n\nA label does not establish efficacy or ethical acceptability. The course does not ask learners to impose punishments on others.",
+    "say": "Operant principles identify functional relations under specified conditions. Effects depend on timing, context, history and what the consequence means to the person. [pause 0.65] A label does not establish efficacy or ethical acceptability. The course does not ask learners to impose punishments on others."
+  },
+  {
+    "id": "c03s06",
+    "step": "Chapter 3: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA manager calls public praise a reinforcer, but has not measured subsequent participation.\n\nWhat must be checked?\n\nA. Whether the manager intended it as praise.\n\nB. Whether praise sounds positive.\n\nC. Whether the defined action increased in comparable conditions.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A manager calls public praise a reinforcer, but has not measured subsequent participation. [pause 0.65] What must be checked? [pause 0.65] A. Whether the manager intended it as praise. [pause 0.65] B. Whether praise sounds positive. [pause 0.65] C. Whether the defined action increased in comparable conditions. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-0",
+    "step": "Chapter 3: feedback 1",
+    "text": "Intention alone does not establish a reinforcing effect.",
+    "say": "Intention alone does not establish a reinforcing effect. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-1",
+    "step": "Chapter 3: feedback 2",
+    "text": "Positive describes addition here; effect still matters.",
+    "say": "Positive describes addition here; effect still matters. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-2",
+    "step": "Chapter 3: feedback 3",
+    "text": "Reinforcement is defined by increased behaviour rather than the label.",
+    "say": "Reinforcement is defined by increased behaviour rather than the label. [pause 1.0]"
+  },
+  {
+    "id": "c03s07",
+    "step": "Chapter 3: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhat does negative mean in negative reinforcement?\n\nWhy does an intended reward not necessarily reinforce?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] What does negative mean in negative reinforcement? [pause 0.65] Why does an intended reward not necessarily reinforce? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c03s07-answers",
+    "step": "Chapter 3: recall answers",
+    "text": "A condition is removed and the target behaviour increases.\n\nThe classification requires an effect on future behaviour, which may not match the intention.",
+    "say": "A condition is removed and the target behaviour increases. [pause 0.65] The classification requires an effect on future behaviour, which may not match the intention. [pause 1.0]"
+  },
+  {
+    "id": "c03s08",
+    "step": "Chapter 3: Take the idea into everyday life",
+    "text": "Classify four fictional action-consequence examples using addition or removal and increase or decrease. Do not arrange consequences for real people.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Classify four fictional action-consequence examples using addition or removal and increase or decrease. Do not arrange consequences for real people. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c04s01",
+    "step": "Chapter 4: Small steps can build a skill",
+    "text": "Jo wants to learn a careful repair explanation but struggles to describe every stage at once. Maya suggests practising one useful comparison first. Leo proposes rewarding any fluent speech, even if inaccurate.",
+    "say": "Jo wants to learn a careful repair explanation but struggles to describe every stage at once. [Maya](/mˈaɪə/) suggests practising one useful comparison first. Leo proposes rewarding any fluent speech, even if inaccurate."
+  },
+  {
+    "id": "c04s02",
+    "step": "Chapter 4: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhich initial criterion fits Jo’s goal?\n\nA. Speak rapidly for thirty seconds.\n\nB. Name one accurate observation before explaining it.\n\nC. Use as many technical terms as possible.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] Which initial criterion fits Jo’s goal? [pause 0.65] A. Speak rapidly for thirty seconds. [pause 0.65] B. Name one accurate observation before explaining it. [pause 0.65] C. Use as many technical terms as possible. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c04s02-feedback-0",
+    "step": "Chapter 4: feedback 1",
+    "text": "Fluency alone does not establish accurate reasoning.",
+    "say": "Fluency alone does not establish accurate reasoning."
+  },
+  {
+    "id": "c04s02-feedback-1",
+    "step": "Chapter 4: feedback 2",
+    "text": "This is a relevant approximation to a supported explanation.",
+    "say": "This is a relevant approximation to a supported explanation."
+  },
+  {
+    "id": "c04s02-feedback-2",
+    "step": "Chapter 4: feedback 3",
+    "text": "Terminology without application can reward the wrong outcome.",
+    "say": "Terminology without application can reward the wrong outcome."
+  },
+  {
+    "id": "c04s03",
+    "step": "Chapter 4: Shape the behaviour that matters.",
+    "text": "Shaping: reinforcing successive approximations to a target. Successive approximation: a step closer to the target behaviour. Criterion: the defined standard for a response.\n\nChoose a meaningful target, then recognize progress toward it using clear criteria. An approximation should move toward the intended skill rather than reward a superficial proxy.\n\nFor Jo, naming one accurate observation is a better first step than speaking quickly. Increase demands as the skill becomes reliable.",
+    "say": "Shaping: reinforcing successive approximations to a target. Successive approximation: a step closer to the target behaviour. Criterion: the defined standard for a response. [pause 0.65] Choose a meaningful target, then recognize progress toward it using clear criteria. An approximation should move toward the intended skill rather than reward a superficial proxy. [pause 0.65] For Jo, naming one accurate observation is a better first step than speaking quickly. Increase demands as the skill becomes reliable."
+  },
+  {
+    "id": "c04s03b",
+    "step": "Chapter 4: Break complex actions into teachable parts.",
+    "text": "Task analysis: identifying components of a complex action. Chaining: learning linked components of a sequence. Prompt: a cue or assistance supporting a response.\n\nA repair explanation can involve describing the observation, proposing alternatives and identifying a test. Prompts can help each component initially.\n\nFade support and test a new example. Repeating a prompted sequence does not establish independent use of the reasoning skill.",
+    "say": "Task analysis: identifying components of a complex action. Chaining: learning linked components of a sequence. Prompt: a cue or assistance supporting a response. [pause 0.65] A repair explanation can involve describing the observation, proposing alternatives and identifying a test. Prompts can help each component initially. [pause 0.65] Fade support and test a new example. Repeating a prompted sequence does not establish independent use of the reasoning skill."
+  },
+  {
+    "id": "c04s04",
+    "step": "Chapter 4: Distinguish cannot from cannot here.",
+    "text": "Skill deficit: the required action is not yet learned. Performance condition: a factor affecting expression of a skill.\n\nA person may know how to return a tool but lack access to the shelf. That is different from not knowing the procedure.\n\nBefore adding incentives, check instructions, tools, time and accessibility. A training solution does not fix every environmental barrier.",
+    "say": "Skill deficit: the required action is not yet learned. Performance condition: a factor affecting expression of a skill. [pause 0.65] A person may know how to return a tool but lack access to the shelf. That is different from not knowing the procedure. [pause 0.65] Before adding incentives, check instructions, tools, time and accessibility. A training solution does not fix every environmental barrier."
+  },
+  {
+    "id": "c04s05",
+    "step": "Chapter 4: What does the evidence allow?",
+    "text": "Learning procedures should be evaluated against the actual goal. Proxies such as speed or number of attempts can improve without better reasoning or safer performance.\n\nShaping is a learning principle, not a guarantee that every complex capability can be reduced to one fixed sequence.",
+    "say": "Learning procedures should be evaluated against the actual goal. Proxies such as speed or number of attempts can improve without better reasoning or safer performance. [pause 0.65] Shaping is a learning principle, not a guarantee that every complex capability can be reduced to one fixed sequence."
+  },
+  {
+    "id": "c04s06",
+    "step": "Chapter 4: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA volunteer follows the procedure when equipment is available but cannot do so after the supplies are locked away.\n\nWhat should be changed first?\n\nA. Increase incentives for compliance.\n\nB. Assume the person lacks the skill.\n\nC. Make the required equipment accessible.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A volunteer follows the procedure when equipment is available but cannot do so after the supplies are locked away. [pause 0.65] What should be changed first? [pause 0.65] A. Increase incentives for compliance. [pause 0.65] B. Assume the person lacks the skill. [pause 0.65] C. Make the required equipment accessible. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-0",
+    "step": "Chapter 4: feedback 1",
+    "text": "An incentive does not remove the barrier.",
+    "say": "An incentive does not remove the barrier. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-1",
+    "step": "Chapter 4: feedback 2",
+    "text": "Previous successful performance suggests the skill may already exist.",
+    "say": "Previous successful performance suggests the skill may already exist. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-2",
+    "step": "Chapter 4: feedback 3",
+    "text": "The immediate problem is access rather than necessarily learning.",
+    "say": "The immediate problem is access rather than necessarily learning. [pause 1.0]"
+  },
+  {
+    "id": "c04s07",
+    "step": "Chapter 4: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhat makes an approximation useful?\n\nWhy fade a prompt?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] What makes an approximation useful? [pause 0.65] Why fade a prompt? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c04s07-answers",
+    "step": "Chapter 4: recall answers",
+    "text": "It advances the actual target skill under a clear criterion.\n\nTo check whether the learner can perform independently rather than only with support.",
+    "say": "It advances the actual target skill under a clear criterion. [pause 0.65] To check whether the learner can perform independently rather than only with support. [pause 1.0]"
+  },
+  {
+    "id": "c04s08",
+    "step": "Chapter 4: Take the idea into everyday life",
+    "text": "Choose your own harmless skill. Define one meaningful first step, a later criterion and an unprompted new example.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Choose your own harmless skill. Define one meaningful first step, a later criterion and an unprompted new example. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c05s01",
+    "step": "Chapter 5: The pattern of consequences matters",
+    "text": "The café thanks volunteers after every completed checklist. Later it acknowledges a varying number of completions. Leo predicts the exact response rate from a schedule name alone.",
+    "say": "The café thanks volunteers after every completed checklist. Later it acknowledges a varying number of completions. Leo predicts the exact response rate from a schedule name alone."
+  },
+  {
+    "id": "c05s02",
+    "step": "Chapter 5: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is missing from Leo’s exact prediction?\n\nA. The label alone is always sufficient.\n\nB. Whether the consequence reinforces and what else changed.\n\nC. The assumption that every person responds identically.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is missing from Leo’s exact prediction? [pause 0.65] A. The label alone is always sufficient. [pause 0.65] B. Whether the consequence reinforces and what else changed. [pause 0.65] C. The assumption that every person responds identically. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c05s02-feedback-0",
+    "step": "Chapter 5: feedback 1",
+    "text": "The label does not identify every relevant condition.",
+    "say": "The label does not identify every relevant condition."
+  },
+  {
+    "id": "c05s02-feedback-1",
+    "step": "Chapter 5: feedback 2",
+    "text": "Functional effect, history and context qualify the prediction.",
+    "say": "Functional effect, history and context qualify the prediction."
+  },
+  {
+    "id": "c05s02-feedback-2",
+    "step": "Chapter 5: feedback 3",
+    "text": "That is an unsupported assumption rather than useful evidence.",
+    "say": "That is an unsupported assumption rather than useful evidence."
+  },
+  {
+    "id": "c05s03",
+    "step": "Chapter 5: Schedules describe arranged relations.",
+    "text": "Continuous reinforcement: reinforcing every eligible response. Intermittent reinforcement: reinforcing some eligible responses. Reinforcement schedule: rule relating responses and consequences.\n\nA schedule describes when a consequence is available in relation to action or time. It does not tell us whether the consequence actually reinforces for this person.\n\nLearning history, task requirements and access also matter. State the arrangement before predicting an effect.",
+    "say": "Continuous reinforcement: reinforcing every eligible response. Intermittent reinforcement: reinforcing some eligible responses. Reinforcement schedule: rule relating responses and consequences. [pause 0.65] A schedule describes when a consequence is available in relation to action or time. It does not tell us whether the consequence actually reinforces for this person. [pause 0.65] Learning history, task requirements and access also matter. State the arrangement before predicting an effect."
+  },
+  {
+    "id": "c05s03b",
+    "step": "Chapter 5: Ratio and interval concern different requirements.",
+    "text": "Variable schedule: requirement varies around a pattern.\n\nA ratio schedule uses a number of responses. An interval schedule makes reinforcement available after a time period, usually for the first eligible response.\n\nFixed and variable requirements can produce different patterns in controlled settings. They are not universal personality predictions or recipes for manipulating engagement.",
+    "say": "Variable schedule: requirement varies around a pattern. [pause 0.65] A ratio schedule uses a number of responses. An interval schedule makes reinforcement available after a time period, usually for the first eligible response. [pause 0.65] Fixed and variable requirements can produce different patterns in controlled settings. They are not universal personality predictions or recipes for manipulating engagement."
+  },
+  {
+    "id": "c05s04",
+    "step": "Chapter 5: Delay changes the learning problem.",
+    "text": "Delay: time between action and consequence. Contingent feedback: information related to the action. Competing consequence: another outcome affecting the same behaviour.\n\nA delayed outcome can be harder to connect with the relevant action. Clear informative feedback may help identify what was effective.\n\nReal settings contain several consequences and verbal explanations. A schedule label alone rarely predicts a precise response rate outside a controlled arrangement.",
+    "say": "Delay: time between action and consequence. Contingent feedback: information related to the action. Competing consequence: another outcome affecting the same behaviour. [pause 0.65] A delayed outcome can be harder to connect with the relevant action. Clear informative feedback may help identify what was effective. [pause 0.65] Real settings contain several consequences and verbal explanations. A schedule label alone rarely predicts a precise response rate outside a controlled arrangement."
+  },
+  {
+    "id": "c05s05",
+    "step": "Chapter 5: What does the evidence allow?",
+    "text": "Classic schedule findings come from defined experimental contingencies. Human behaviour also reflects instructions, goals, relationships and competing outcomes.\n\nDo not use schedule research to justify addictive or deceptive design. The course evaluates claims rather than providing a manipulation playbook.",
+    "say": "Classic schedule findings come from defined experimental contingencies. Human behaviour also reflects instructions, goals, relationships and competing outcomes. [pause 0.65] Do not use schedule research to justify addictive or deceptive design. The course evaluates claims rather than providing a manipulation playbook."
+  },
+  {
+    "id": "c05s06",
+    "step": "Chapter 5: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nAfter a set period has elapsed, the first eligible response receives the arranged consequence.\n\nWhich schedule description fits?\n\nA. Fixed ratio.\n\nB. Variable ratio.\n\nC. Fixed interval.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] After a set period has elapsed, the first eligible response receives the arranged consequence. [pause 0.65] Which schedule description fits? [pause 0.65] A. Fixed ratio. [pause 0.65] B. Variable ratio. [pause 0.65] C. Fixed interval. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-0",
+    "step": "Chapter 5: feedback 1",
+    "text": "A fixed response count, not elapsed time, defines a fixed ratio.",
+    "say": "A fixed response count, not elapsed time, defines a fixed ratio. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-1",
+    "step": "Chapter 5: feedback 2",
+    "text": "A variable response count defines a variable ratio.",
+    "say": "A variable response count defines a variable ratio. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-2",
+    "step": "Chapter 5: feedback 3",
+    "text": "A stated time passes before the first eligible response can be reinforced.",
+    "say": "A stated time passes before the first eligible response can be reinforced. [pause 1.0]"
+  },
+  {
+    "id": "c05s07",
+    "step": "Chapter 5: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow does ratio differ from interval?\n\nWhy is a schedule name not a precise individual prediction?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How does ratio differ from interval? [pause 0.65] Why is a schedule name not a precise individual prediction? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c05s07-answers",
+    "step": "Chapter 5: recall answers",
+    "text": "Ratio concerns number of responses; interval concerns time before an eligible response.\n\nOther consequences, instructions, history and the functional value of the outcome matter.",
+    "say": "Ratio concerns number of responses; interval concerns time before an eligible response. [pause 0.65] Other consequences, instructions, history and the functional value of the outcome matter. [pause 1.0]"
+  },
+  {
+    "id": "c05s08",
+    "step": "Chapter 5: Take the idea into everyday life",
+    "text": "Classify fictional consequence arrangements by response count or time. Identify a missing condition before predicting an effect.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Classify fictional consequence arrangements by response count or time. Identify a missing condition before predicting an effect. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c06s01",
+    "step": "Chapter 6: A learned response can return",
+    "text": "The whistle no longer predicts drinks, and Sam’s anticipatory response fades. At another café the response briefly returns. Leo says the earlier learning was erased and then somehow restored.",
+    "say": "The whistle no longer predicts drinks, and Sam’s anticipatory response fades. At another café the response briefly returns. Leo says the earlier learning was erased and then somehow restored."
+  },
+  {
+    "id": "c06s02",
+    "step": "Chapter 6: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat best explains the apparent contradiction?\n\nA. Reduced responding need not erase the older learning.\n\nB. A single return proves extinction never occurred.\n\nC. All responses return for the same reason.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What best explains the apparent contradiction? [pause 0.65] A. Reduced responding need not erase the older learning. [pause 0.65] B. A single return proves extinction never occurred. [pause 0.65] C. All responses return for the same reason. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c06s02-feedback-0",
+    "step": "Chapter 6: feedback 1",
+    "text": "New learning and retrieval conditions can explain the pattern.",
+    "say": "New learning and retrieval conditions can explain the pattern."
+  },
+  {
+    "id": "c06s02-feedback-1",
+    "step": "Chapter 6: feedback 2",
+    "text": "An earlier reduction and later return can coexist.",
+    "say": "An earlier reduction and later return can coexist."
+  },
+  {
+    "id": "c06s02-feedback-2",
+    "step": "Chapter 6: feedback 3",
+    "text": "Time, context and outcome exposure are distinguishable factors.",
+    "say": "Time, context and outcome exposure are distinguishable factors."
+  },
+  {
+    "id": "c06s03",
+    "step": "Chapter 6: Extinction changes the predictive relation.",
+    "text": "In classical extinction, the cue occurs without the expected outcome. In operant extinction, the action no longer produces the maintaining reinforcer.\n\nReduced responding does not necessarily mean the earlier learning was erased. New learning may be specific to a context and compete with the older relation.",
+    "say": "In classical extinction, the cue occurs without the expected outcome. In operant extinction, the action no longer produces the maintaining reinforcer. [pause 0.65] Reduced responding does not necessarily mean the earlier learning was erased. New learning may be specific to a context and compete with the older relation."
+  },
+  {
+    "id": "c06s03b",
+    "step": "Chapter 6: Return has different forms.",
+    "text": "Spontaneous recovery: response return after time has passed. Renewal: response return with a context change. Reinstatement: response return after relevant outcome exposure.\n\nTime, a setting change or exposure to a relevant outcome can contribute to return of a response after extinction. These effects differ and require specific designs.\n\nA returned response does not prove that change was impossible. It suggests that learning and retrieval conditions need to be examined.",
+    "say": "Spontaneous recovery: response return after time has passed. Renewal: response return with a context change. Reinstatement: response return after relevant outcome exposure. [pause 0.65] Time, a setting change or exposure to a relevant outcome can contribute to return of a response after extinction. These effects differ and require specific designs. [pause 0.65] A returned response does not prove that change was impossible. It suggests that learning and retrieval conditions need to be examined."
+  },
+  {
+    "id": "c06s04",
+    "step": "Chapter 6: Plan for changing conditions.",
+    "text": "Generalization: responding across related cues or contexts. Maintenance: persistence of change over time.\n\nA support may work in one room and fail elsewhere. Check different relevant settings and delayed outcomes rather than assuming one successful session is permanent.\n\nClinical exposure and relapse prevention require professional assessment and care. Do not create fear, withhold essential support or conduct exposure experiments as course practice.",
+    "say": "Generalization: responding across related cues or contexts. Maintenance: persistence of change over time. [pause 0.65] A support may work in one room and fail elsewhere. Check different relevant settings and delayed outcomes rather than assuming one successful session is permanent. [pause 0.65] Clinical exposure and relapse prevention require professional assessment and care. Do not create fear, withhold essential support or conduct exposure experiments as course practice."
+  },
+  {
+    "id": "c06s05",
+    "step": "Chapter 6: What does the evidence allow?",
+    "text": "Extinction and response-return effects are well-established distinctions, with outcomes depending on species, task and procedure. Translation to clinical care requires additional evidence.\n\nThe whistle example illustrates learning principles; it is not advice for treating anxiety or removing another person’s support.",
+    "say": "Extinction and response-return effects are well-established distinctions, with outcomes depending on species, task and procedure. Translation to clinical care requires additional evidence. [pause 0.65] The whistle example illustrates learning principles; it is not advice for treating anxiety or removing another person’s support."
+  },
+  {
+    "id": "c06s06",
+    "step": "Chapter 6: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nAfter a response decreases in one room, it returns when the cue is presented in a different room.\n\nWhich research term fits most directly?\n\nA. Spontaneous recovery.\n\nB. Renewal.\n\nC. Shaping.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] After a response decreases in one room, it returns when the cue is presented in a different room. [pause 0.65] Which research term fits most directly? [pause 0.65] A. Spontaneous recovery. [pause 0.65] B. Renewal. [pause 0.65] C. Shaping. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-0",
+    "step": "Chapter 6: feedback 1",
+    "text": "That term emphasizes a time-related return.",
+    "say": "That term emphasizes a time-related return. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-1",
+    "step": "Chapter 6: feedback 2",
+    "text": "The context change is the relevant feature here.",
+    "say": "The context change is the relevant feature here. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-2",
+    "step": "Chapter 6: feedback 3",
+    "text": "Shaping concerns successive approximations, not context-related return.",
+    "say": "Shaping concerns successive approximations, not context-related return. [pause 1.0]"
+  },
+  {
+    "id": "c06s07",
+    "step": "Chapter 6: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy is extinction not necessarily erasure?\n\nWhat distinguishes renewal from spontaneous recovery?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why is extinction not necessarily erasure? [pause 0.65] What distinguishes renewal from spontaneous recovery? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c06s07-answers",
+    "step": "Chapter 6: recall answers",
+    "text": "Older learning can remain and compete with a newer cue or action relation.\n\nRenewal involves context change; spontaneous recovery concerns a return after time.",
+    "say": "Older learning can remain and compete with a newer cue or action relation. [pause 0.65] Renewal involves context change; spontaneous recovery concerns a return after time. [pause 1.0]"
+  },
+  {
+    "id": "c06s08",
+    "step": "Chapter 6: Take the idea into everyday life",
+    "text": "Use a fictional cue response to describe a context change and a delayed check. Do not run fear, deprivation or clinical exposure exercises.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Use a fictional cue response to describe a context change and a delayed check. Do not run fear, deprivation or clinical exposure exercises. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c07s01",
+    "step": "Chapter 7: A cue is not the whole situation",
+    "text": "Sam checks a familiar red label carefully but overlooks a similar orange label. Leo says the colour alone controls the action. Maya notices that the orange label also has smaller text and a different location.",
+    "say": "Sam checks a familiar red label carefully but overlooks a similar orange label. Leo says the colour alone controls the action. [Maya](/mˈaɪə/) notices that the orange label also has smaller text and a different location."
+  },
+  {
+    "id": "c07s02",
+    "step": "Chapter 7: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat should Maya conclude first?\n\nA. Colour definitely caused the miss.\n\nB. Several features changed and need comparison.\n\nC. Generalization never occurs across colours.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What should [Maya](/mˈaɪə/) conclude first? [pause 0.65] A. Colour definitely caused the miss. [pause 0.65] B. Several features changed and need comparison. [pause 0.65] C. Generalization never occurs across colours. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c07s02-feedback-0",
+    "step": "Chapter 7: feedback 1",
+    "text": "Text and location changed too, so colour is not isolated.",
+    "say": "Text and location changed too, so colour is not isolated."
+  },
+  {
+    "id": "c07s02-feedback-1",
+    "step": "Chapter 7: feedback 2",
+    "text": "The alternative features generate testable accounts.",
+    "say": "The alternative features generate testable accounts."
+  },
+  {
+    "id": "c07s02-feedback-2",
+    "step": "Chapter 7: feedback 3",
+    "text": "One miss does not establish a general impossibility.",
+    "say": "One miss does not establish a general impossibility."
+  },
+  {
+    "id": "c07s03",
+    "step": "Chapter 7: Learning can extend beyond a trained cue.",
+    "text": "Stimulus generalization: learned responding to related stimuli. Generalization gradient: response pattern across stimulus differences.\n\nA learned response may occur to cues similar to the original. The relevant similarity can concern appearance, meaning or context.\n\nGeneralization is not guaranteed by a teacher’s intention. Check new cases rather than treating practice with one example as evidence of broad transfer.",
+    "say": "Stimulus generalization: learned responding to related stimuli. Generalization gradient: response pattern across stimulus differences. [pause 0.65] A learned response may occur to cues similar to the original. The relevant similarity can concern appearance, meaning or context. [pause 0.65] Generalization is not guaranteed by a teacher’s intention. Check new cases rather than treating practice with one example as evidence of broad transfer."
+  },
+  {
+    "id": "c07s03b",
+    "step": "Chapter 7: Discrimination depends on a relation.",
+    "text": "Stimulus discrimination: different responding to distinguishable cues. Discriminative stimulus: cue signalling an action-consequence relation.\n\nA cue can signal when an action is likely to have a particular consequence. This differs from a cue eliciting a conditioned response.\n\nTo infer stimulus control, compare conditions while checking other differences. Colour, location, text size and instructions may all contribute.",
+    "say": "Stimulus discrimination: different responding to distinguishable cues. Discriminative stimulus: cue signalling an action-consequence relation. [pause 0.65] A cue can signal when an action is likely to have a particular consequence. This differs from a cue eliciting a conditioned response. [pause 0.65] To infer stimulus control, compare conditions while checking other differences. Colour, location, text size and instructions may all contribute."
+  },
+  {
+    "id": "c07s04",
+    "step": "Chapter 7: Design transfer deliberately.",
+    "text": "Multiple-exemplar training: practice with varied relevant examples. Overgeneralization: extending a rule beyond its valid range. Boundary condition: circumstance limiting a rule’s application.\n\nUse varied examples that preserve the important rule and include cases where it does not apply. Ask the learner to explain the relevant feature.\n\nThe aim is useful discrimination and generalization, not identical responding everywhere. In safety-related tasks, professional standards and appropriate supervision remain essential.",
+    "say": "Multiple-exemplar training: practice with varied relevant examples. Overgeneralization: extending a rule beyond its valid range. Boundary condition: circumstance limiting a rule’s application. [pause 0.65] Use varied examples that preserve the important rule and include cases where it does not apply. Ask the learner to explain the relevant feature. [pause 0.65] The aim is useful discrimination and generalization, not identical responding everywhere. In safety-related tasks, professional standards and appropriate supervision remain essential."
+  },
+  {
+    "id": "c07s05",
+    "step": "Chapter 7: What does the evidence allow?",
+    "text": "Generalization and discrimination depend on learning history, attention and task structure. Evidence from one cue cannot establish universal stimulus control.\n\nAn everyday comparison with several simultaneous changes leaves causal alternatives unresolved.",
+    "say": "Generalization and discrimination depend on learning history, attention and task structure. Evidence from one cue cannot establish universal stimulus control. [pause 0.65] An everyday comparison with several simultaneous changes leaves causal alternatives unresolved."
+  },
+  {
+    "id": "c07s06",
+    "step": "Chapter 7: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA workshop wants learners to recognize the same safety instruction across several formats without applying it to unrelated labels.\n\nWhich practice set best supports the intended skill?\n\nA. One example repeated without variation.\n\nB. Unrelated examples with no clear rule.\n\nC. Varied valid examples plus relevant boundary cases.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A workshop wants learners to recognize the same safety instruction across several formats without applying it to unrelated labels. [pause 0.65] Which practice set best supports the intended skill? [pause 0.65] A. One example repeated without variation. [pause 0.65] B. Unrelated examples with no clear rule. [pause 0.65] C. Varied valid examples plus relevant boundary cases. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-0",
+    "step": "Chapter 7: feedback 1",
+    "text": "Repetition alone can leave the rule tied to surface features.",
+    "say": "Repetition alone can leave the rule tied to surface features. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-1",
+    "step": "Chapter 7: feedback 2",
+    "text": "Variation needs a coherent relation to the target skill.",
+    "say": "Variation needs a coherent relation to the target skill. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-2",
+    "step": "Chapter 7: feedback 3",
+    "text": "The set teaches both where the rule transfers and where it stops.",
+    "say": "The set teaches both where the rule transfers and where it stops. [pause 1.0]"
+  },
+  {
+    "id": "c07s07",
+    "step": "Chapter 7: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow does generalization differ from discrimination?\n\nWhy include a boundary case?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How does generalization differ from discrimination? [pause 0.65] Why include a boundary case? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c07s07-answers",
+    "step": "Chapter 7: recall answers",
+    "text": "Generalization extends responding to related cues; discrimination differentiates conditions.\n\nIt helps identify where a rule does not apply and reduces overgeneralization.",
+    "say": "Generalization extends responding to related cues; discrimination differentiates conditions. [pause 0.65] It helps identify where a rule does not apply and reduces overgeneralization. [pause 1.0]"
+  },
+  {
+    "id": "c07s08",
+    "step": "Chapter 7: Take the idea into everyday life",
+    "text": "Create two fictional examples of a harmless rule and one boundary case. Explain which feature matters.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Create two fictional examples of a harmless rule and one boundary case. Explain which feature matters. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c08s01",
+    "step": "Chapter 8: Watching can teach more than imitation",
+    "text": "Jo watches Maya diagnose a radio, then explains the comparison accurately without using Maya’s exact gestures. Leo says no learning occurred because Jo did not imitate the movements.",
+    "say": "Jo watches [Maya](/mˈaɪə/) diagnose a radio, then explains the comparison accurately without using [Maya](/mˈaɪə/)’s exact gestures. Leo says no learning occurred because Jo did not imitate the movements."
+  },
+  {
+    "id": "c08s02",
+    "step": "Chapter 8: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat would best test Jo’s learning?\n\nA. Require identical hand movements.\n\nB. Ask for a diagnosis based on appearance.\n\nC. Use a new safe case requiring the same comparison.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What would best test Jo’s learning? [pause 0.65] A. Require identical hand movements. [pause 0.65] B. Ask for a diagnosis based on appearance. [pause 0.65] C. Use a new safe case requiring the same comparison. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c08s02-feedback-0",
+    "step": "Chapter 8: feedback 1",
+    "text": "That tests imitation rather than necessarily the strategy.",
+    "say": "That tests imitation rather than necessarily the strategy."
+  },
+  {
+    "id": "c08s02-feedback-1",
+    "step": "Chapter 8: feedback 2",
+    "text": "The intended skill is evidence-based comparison, not a guess.",
+    "say": "The intended skill is evidence-based comparison, not a guess."
+  },
+  {
+    "id": "c08s02-feedback-2",
+    "step": "Chapter 8: feedback 3",
+    "text": "A new case can reveal whether the relevant relation was learned.",
+    "say": "A new case can reveal whether the relevant relation was learned."
+  },
+  {
+    "id": "c08s03",
+    "step": "Chapter 8: Learning can use another person’s actions.",
+    "text": "Observational learning: learning by observing others and outcomes. Model: person or representation being observed.\n\nPeople can learn procedures, expectations and strategies by watching. Imitation is one possible outcome, not the only evidence of learning.\n\nJo may learn which comparison matters while using a different movement. An appropriate new task can test the learned strategy more directly than matching gestures.",
+    "say": "Observational learning: learning by observing others and outcomes. Model: person or representation being observed. [pause 0.65] People can learn procedures, expectations and strategies by watching. Imitation is one possible outcome, not the only evidence of learning. [pause 0.65] Jo may learn which comparison matters while using a different movement. An appropriate new task can test the learned strategy more directly than matching gestures."
+  },
+  {
+    "id": "c08s03b",
+    "step": "Chapter 8: Attention and practice still matter.",
+    "text": "Attention: selecting information for processing. Retention: keeping information available over time. Reproduction: ability to carry out the observed action.\n\nA learner must notice relevant features and retain enough information to use them. Physical skills and opportunities affect whether the action can be reproduced.\n\nExplain the purpose of each step, invite an attempt and provide feedback. Merely displaying a demonstration does not establish that the learner understood it.",
+    "say": "Attention: selecting information for processing. Retention: keeping information available over time. Reproduction: ability to carry out the observed action. [pause 0.65] A learner must notice relevant features and retain enough information to use them. Physical skills and opportunities affect whether the action can be reproduced. [pause 0.65] Explain the purpose of each step, invite an attempt and provide feedback. Merely displaying a demonstration does not establish that the learner understood it."
+  },
+  {
+    "id": "c08s04",
+    "step": "Chapter 8: Observed consequences shape expectations.",
+    "text": "Vicarious reinforcement: effects of seeing another’s reinforcement. Outcome expectation: belief about likely consequences. Self-efficacy: belief in capability for a specified action.\n\nSeeing another person succeed or receive a consequence can influence expectations and willingness to act. Believing a task is possible is distinct from already possessing the skill.\n\nA relatable model and achievable practice may help, but social learning does not make learners passive copies. Prior knowledge and context shape interpretation.",
+    "say": "Vicarious reinforcement: effects of seeing another’s reinforcement. Outcome expectation: belief about likely consequences. Self-efficacy: belief in capability for a specified action. [pause 0.65] Seeing another person succeed or receive a consequence can influence expectations and willingness to act. Believing a task is possible is distinct from already possessing the skill. [pause 0.65] A relatable model and achievable practice may help, but social learning does not make learners passive copies. Prior knowledge and context shape interpretation."
+  },
+  {
+    "id": "c08s05",
+    "step": "Chapter 8: What does the evidence allow?",
+    "text": "Observational-learning studies distinguish acquisition, performance and the effects of observed outcomes. Task, model and social context qualify generalization.\n\nA demonstration’s popularity is not evidence of transfer. Delayed unfamiliar performance provides a stronger check of the intended skill.",
+    "say": "Observational-learning studies distinguish acquisition, performance and the effects of observed outcomes. Task, model and social context qualify generalization. [pause 0.65] A demonstration’s popularity is not evidence of transfer. Delayed unfamiliar performance provides a stronger check of the intended skill."
+  },
+  {
+    "id": "c08s06",
+    "step": "Chapter 8: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA learner feels confident after a demonstration but cannot yet complete the procedure independently.\n\nWhich distinction matters?\n\nA. Confidence and current capability are different.\n\nB. Confidence proves full mastery.\n\nC. A failed attempt proves no learning occurred.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A learner feels confident after a demonstration but cannot yet complete the procedure independently. [pause 0.65] Which distinction matters? [pause 0.65] A. Confidence and current capability are different. [pause 0.65] B. Confidence proves full mastery. [pause 0.65] C. A failed attempt proves no learning occurred. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-0",
+    "step": "Chapter 8: feedback 1",
+    "text": "Belief may support action without establishing the skill.",
+    "say": "Belief may support action without establishing the skill. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-1",
+    "step": "Chapter 8: feedback 2",
+    "text": "Self-efficacy is not a direct performance measure.",
+    "say": "Self-efficacy is not a direct performance measure. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-2",
+    "step": "Chapter 8: feedback 3",
+    "text": "Performance can be limited by demands, access and incomplete practice.",
+    "say": "Performance can be limited by demands, access and incomplete practice. [pause 1.0]"
+  },
+  {
+    "id": "c08s07",
+    "step": "Chapter 8: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy is imitation narrower than observational learning?\n\nHow would you check retention and application?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why is imitation narrower than observational learning? [pause 0.65] How would you check retention and application? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c08s07-answers",
+    "step": "Chapter 8: recall answers",
+    "text": "Learning can involve a rule or expectation without copying exact movements.\n\nAsk for an unaided explanation and use a suitable delayed new task.",
+    "say": "Learning can involve a rule or expectation without copying exact movements. [pause 0.65] Ask for an unaided explanation and use a suitable delayed new task. [pause 1.0]"
+  },
+  {
+    "id": "c08s08",
+    "step": "Chapter 8: Take the idea into everyday life",
+    "text": "Watch a public demonstration of a harmless skill. Name the useful relation and design a new case that would test it.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Watch a public demonstration of a harmless skill. Name the useful relation and design a new case that would test it. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c09s01",
+    "step": "Chapter 9: Habit depends on repeated contexts",
+    "text": "Sam repeatedly puts the mug beside the old kettle location even after the kettle moves. Leo calls it a lack of commitment. Maya asks which cues and repeated actions may be involved.",
+    "say": "Sam repeatedly puts the mug beside the old kettle location even after the kettle moves. Leo calls it a lack of commitment. [Maya](/mˈaɪə/) asks which cues and repeated actions may be involved."
+  },
+  {
+    "id": "c09s02",
+    "step": "Chapter 9: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhich account best fits the mug pattern?\n\nA. A familiar context may still cue the old action.\n\nB. The error proves a lack of commitment.\n\nC. All frequent actions are deliberate goals.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] Which account best fits the mug pattern? [pause 0.65] A. A familiar context may still cue the old action. [pause 0.65] B. The error proves a lack of commitment. [pause 0.65] C. All frequent actions are deliberate goals. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c09s02-feedback-0",
+    "step": "Chapter 9: feedback 1",
+    "text": "The learning-history explanation is plausible and can guide a small cue change.",
+    "say": "The learning-history explanation is plausible and can guide a small cue change."
+  },
+  {
+    "id": "c09s02-feedback-1",
+    "step": "Chapter 9: feedback 2",
+    "text": "A mistake does not uniquely identify motivation.",
+    "say": "A mistake does not uniquely identify motivation."
+  },
+  {
+    "id": "c09s02-feedback-2",
+    "step": "Chapter 9: feedback 3",
+    "text": "Repetition can support responses with reduced deliberation.",
+    "say": "Repetition can support responses with reduced deliberation."
+  },
+  {
+    "id": "c09s03",
+    "step": "Chapter 9: Repeated contexts can cue an action.",
+    "text": "Automaticity: reduced need for deliberate control. Intention: a plan or commitment to act.\n\nRepeated actions in stable contexts can become easier to initiate with less deliberation. A habit is not identical to frequency or to a conscious goal.\n\nSam can intend to use the new location while still responding to familiar cues. The pattern suggests a learning history, not a moral defect.",
+    "say": "Automaticity: reduced need for deliberate control. Intention: a plan or commitment to act. [pause 0.65] Repeated actions in stable contexts can become easier to initiate with less deliberation. A habit is not identical to frequency or to a conscious goal. [pause 0.65] Sam can intend to use the new location while still responding to familiar cues. The pattern suggests a learning history, not a moral defect."
+  },
+  {
+    "id": "c09s03b",
+    "step": "Chapter 9: Change the conditions, not just the slogan.",
+    "text": "Environmental cue: feature that can prompt a response. Friction: effort or steps required for an action. Implementation intention: a specified if-then action plan.\n\nFor a self-chosen harmless routine, make the intended action easy to notice and perform. An if-then plan can specify a cue and response.\n\nA plan is not a guarantee. Check what happens under the actual conditions, and revise barriers rather than escalating blame.",
+    "say": "Environmental cue: feature that can prompt a response. Friction: effort or steps required for an action. Implementation intention: a specified if-then action plan. [pause 0.65] For a self-chosen harmless routine, make the intended action easy to notice and perform. An if-then plan can specify a cue and response. [pause 0.65] A plan is not a guarantee. Check what happens under the actual conditions, and revise barriers rather than escalating blame."
+  },
+  {
+    "id": "c09s04",
+    "step": "Chapter 9: Measure the outcome and its limits.",
+    "text": "Self-monitoring: recording one’s own defined behaviour. Maintenance: persistence across time. Behavioural substitution: using another response in a relevant situation.\n\nRecord opportunities and the chosen outcome over time. Ask whether the change is useful, sustainable and still freely chosen.\n\nThere is no universal number of days that creates every habit. Clinical compulsions, addiction and serious distress need appropriate care rather than a simplified habit checklist.",
+    "say": "Self-monitoring: recording one’s own defined behaviour. Maintenance: persistence across time. Behavioural substitution: using another response in a relevant situation. [pause 0.65] Record opportunities and the chosen outcome over time. Ask whether the change is useful, sustainable and still freely chosen. [pause 0.65] There is no universal number of days that creates every habit. Clinical compulsions, addiction and serious distress need appropriate care rather than a simplified habit checklist."
+  },
+  {
+    "id": "c09s05",
+    "step": "Chapter 9: What does the evidence allow?",
+    "text": "Habit research distinguishes cue-linked automaticity, repetition and intention. Development rates vary with action, context and measurement.\n\nSelf-directed routine experiments cannot establish treatment efficacy or explain every persistent behaviour.",
+    "say": "Habit research distinguishes cue-linked automaticity, repetition and intention. Development rates vary with action, context and measurement. [pause 0.65] Self-directed routine experiments cannot establish treatment efficacy or explain every persistent behaviour."
+  },
+  {
+    "id": "c09s06",
+    "step": "Chapter 9: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA person chooses a harmless routine but misses it when the context changes.\n\nWhat is the most useful next step?\n\nA. Wait for a universal habit deadline.\n\nB. Check cue, access and opportunities, then revise the plan.\n\nC. Treat a missed day as proof of permanent failure.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A person chooses a harmless routine but misses it when the context changes. [pause 0.65] What is the most useful next step? [pause 0.65] A. Wait for a universal habit deadline. [pause 0.65] B. Check cue, access and opportunities, then revise the plan. [pause 0.65] C. Treat a missed day as proof of permanent failure. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-0",
+    "step": "Chapter 9: feedback 1",
+    "text": "No fixed deadline applies to every action and setting.",
+    "say": "No fixed deadline applies to every action and setting. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-1",
+    "step": "Chapter 9: feedback 2",
+    "text": "The conditions and meaningful outcome provide information for revision.",
+    "say": "The conditions and meaningful outcome provide information for revision. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-2",
+    "step": "Chapter 9: feedback 3",
+    "text": "One lapse does not settle the later trajectory.",
+    "say": "One lapse does not settle the later trajectory. [pause 1.0]"
+  },
+  {
+    "id": "c09s07",
+    "step": "Chapter 9: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow does habit differ from intention?\n\nWhy reject a universal habit-day rule?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How does habit differ from intention? [pause 0.65] Why reject a universal habit-day rule? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c09s07-answers",
+    "step": "Chapter 9: recall answers",
+    "text": "Habit concerns a learned cue-linked tendency; intention is a conscious plan.\n\nActions, contexts, opportunities and measures differ, producing variable trajectories.",
+    "say": "Habit concerns a learned cue-linked tendency; intention is a conscious plan. [pause 0.65] Actions, contexts, opportunities and measures differ, producing variable trajectories. [pause 1.0]"
+  },
+  {
+    "id": "c09s08",
+    "step": "Chapter 9: Take the idea into everyday life",
+    "text": "Choose one harmless routine for yourself. Write an if-then plan, reduce one barrier and review opportunities without punishing missed attempts.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Choose one harmless routine for yourself. Write an if-then plan, reduce one barrier and review opportunities without punishing missed attempts. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c10s01",
+    "step": "Chapter 10: Change should be useful and freely chosen",
+    "text": "The café wants more reliable tool returns. Leo proposes hidden monitoring and escalating penalties. Maya suggests asking volunteers about barriers, restoring shelf access and evaluating an agreed procedure.",
+    "say": "The café wants more reliable tool returns. Leo proposes hidden monitoring and escalating penalties. [Maya](/mˈaɪə/) suggests asking volunteers about barriers, restoring shelf access and evaluating an agreed procedure."
+  },
+  {
+    "id": "c10s02",
+    "step": "Chapter 10: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhich plan best fits the evidence and ethics?\n\nA. Use hidden monitoring before discussion.\n\nB. Agree a useful outcome, remove barriers and evaluate with consent.\n\nC. Escalate penalties whenever a count falls.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] Which plan best fits the evidence and ethics? [pause 0.65] A. Use hidden monitoring before discussion. [pause 0.65] B. Agree a useful outcome, remove barriers and evaluate with consent. [pause 0.65] C. Escalate penalties whenever a count falls. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c10s02-feedback-0",
+    "step": "Chapter 10: feedback 1",
+    "text": "Covert tracking undermines privacy and may miss the actual barrier.",
+    "say": "Covert tracking undermines privacy and may miss the actual barrier."
+  },
+  {
+    "id": "c10s02-feedback-1",
+    "step": "Chapter 10: feedback 2",
+    "text": "This connects agency, accessible conditions and a testable outcome.",
+    "say": "This connects agency, accessible conditions and a testable outcome."
+  },
+  {
+    "id": "c10s02-feedback-2",
+    "step": "Chapter 10: feedback 3",
+    "text": "Counts need context and escalating punishment can introduce harm.",
+    "say": "Counts need context and escalating punishment can introduce harm."
+  },
+  {
+    "id": "c10s03",
+    "step": "Chapter 10: A function is a hypothesis to test.",
+    "text": "Antecedent: condition preceding an action. Consequence: event following an action. Functional assessment: examining relations between conditions and behaviour.\n\nMap what happens before and after the action, then consider alternatives. A descriptive sequence does not by itself establish a causal function.\n\nThe locked shelf may be a barrier; a reminder may help; social expectations may matter. Use a safe, consensual comparison rather than assuming the first story is correct.",
+    "say": "Antecedent: condition preceding an action. Consequence: event following an action. Functional assessment: examining relations between conditions and behaviour. [pause 0.65] Map what happens before and after the action, then consider alternatives. A descriptive sequence does not by itself establish a causal function. [pause 0.65] The locked shelf may be a barrier; a reminder may help; social expectations may matter. Use a safe, consensual comparison rather than assuming the first story is correct."
+  },
+  {
+    "id": "c10s03b",
+    "step": "Chapter 10: A change needs an evaluation design.",
+    "text": "Single-case design: repeated measurement within a case under planned conditions. Multiple baseline: staggering introduction across cases or behaviours. Social validity: importance and acceptability of goals and procedures.\n\nRepeated measurement can examine whether change follows an intervention. Replication across appropriately staggered introductions helps address alternative explanations.\n\nDo not withdraw essential support to create a comparison. A meaningful outcome, participant preferences and harms are part of the evaluation, not optional extras.",
+    "say": "Single-case design: repeated measurement within a case under planned conditions. Multiple baseline: staggering introduction across cases or behaviours. Social validity: importance and acceptability of goals and procedures. [pause 0.65] Repeated measurement can examine whether change follows an intervention. Replication across appropriately staggered introductions helps address alternative explanations. [pause 0.65] Do not withdraw essential support to create a comparison. A meaningful outcome, participant preferences and harms are part of the evaluation, not optional extras."
+  },
+  {
+    "id": "c10s04",
+    "step": "Chapter 10: Preserve agency in the application.",
+    "text": "Consent: freely given informed agreement. Coercion: pressure undermining a free choice. Least restrictive approach: support that minimizes unnecessary constraint.\n\nDiscuss goals with the people affected and make access and skill support the first questions. Privacy and the right to decline matter.\n\nLearning principles can improve teaching and self-directed routines. They do not justify manipulating partners, children or colleagues. Serious behavioural and clinical concerns need qualified support.",
+    "say": "Consent: freely given informed agreement. Coercion: pressure undermining a free choice. Least restrictive approach: support that minimizes unnecessary constraint. [pause 0.65] Discuss goals with the people affected and make access and skill support the first questions. Privacy and the right to decline matter. [pause 0.65] Learning principles can improve teaching and self-directed routines. They do not justify manipulating partners, children or colleagues. Serious behavioural and clinical concerns need qualified support."
+  },
+  {
+    "id": "c10s05",
+    "step": "Chapter 10: What does the evidence allow?",
+    "text": "Behavioural effects depend on defined conditions, and practical interventions need evidence for both outcomes and acceptability. A count can improve while wellbeing or autonomy worsens.\n\nThis introduction is not professional behaviour-analysis training or clinical advice.",
+    "say": "Behavioural effects depend on defined conditions, and practical interventions need evidence for both outcomes and acceptability. A count can improve while wellbeing or autonomy worsens. [pause 0.65] This introduction is not professional behaviour-analysis training or clinical advice."
+  },
+  {
+    "id": "c10s06",
+    "step": "Chapter 10: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nAgreed shelf changes improve returns during one workshop, but no later settings have been measured.\n\nWhat should the report conclude?\n\nA. The procedure worked forever for everyone.\n\nB. The decrease proves a permanent personality change.\n\nC. The outcome improved locally; maintenance and wider transfer remain open.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] Agreed shelf changes improve returns during one workshop, but no later settings have been measured. [pause 0.65] What should the report conclude? [pause 0.65] A. The procedure worked forever for everyone. [pause 0.65] B. The decrease proves a permanent personality change. [pause 0.65] C. The outcome improved locally; maintenance and wider transfer remain open. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-0",
+    "step": "Chapter 10: feedback 1",
+    "text": "The design did not establish universal or permanent effects.",
+    "say": "The design did not establish universal or permanent effects. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-1",
+    "step": "Chapter 10: feedback 2",
+    "text": "A behaviour measure does not establish a personality transformation.",
+    "say": "A behaviour measure does not establish a personality transformation. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-2",
+    "step": "Chapter 10: feedback 3",
+    "text": "The conclusion fits the measured setting and points to later checks.",
+    "say": "The conclusion fits the measured setting and points to later checks. [pause 1.0]"
+  },
+  {
+    "id": "c10s07",
+    "step": "Chapter 10: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy is an action sequence not a causal proof?\n\nWhat does social validity add?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why is an action sequence not a causal proof? [pause 0.65] What does social validity add? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c10s07-answers",
+    "step": "Chapter 10: recall answers",
+    "text": "Several conditions change together, so the function needs further comparison.\n\nIt asks whether goals, methods and outcomes matter and are acceptable to the people affected.",
+    "say": "Several conditions change together, so the function needs further comparison. [pause 0.65] It asks whether goals, methods and outcomes matter and are acceptable to the people affected. [pause 1.0]"
+  },
+  {
+    "id": "c10s08",
+    "step": "Chapter 10: Take the idea into everyday life",
+    "text": "Write an ethical plan for a fictional routine: agreed goal, definition, baseline, support, comparison, follow-up and a right to decline.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Write an ethical plan for a fictional routine: agreed goal, definition, baseline, support, comparison, follow-up and a right to decline. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  }
+]

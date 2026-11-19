@@ -1,0 +1,79 @@
+{
+  "title": "Try a new case",
+  "caseTitle": "The community library",
+  "subtitle": "An optional written transfer check after the ten chapters",
+  "intro": "Try this fictional case without your notes. Allow twenty to thirty minutes. Write somewhere private; this page does not collect or grade your answers. Compare with the suggested reasoning after your attempt.",
+  "paragraphs": [
+    "A library’s book-return shelf moves behind a locked door. Missed returns rise. A coordinator calls users lazy and compares raw counts across branches with different numbers of loans.",
+    "A chime reliably precedes opening time. Visitors begin preparing to enter on hearing it. Separately, a reminder tone stops after a return and returns increase. The coordinator calls both examples punishment.",
+    "A learner watches a shelving demonstration and can explain the rule but has not tried a new case. A cue response decreases in one room and returns elsewhere. An app promises every routine becomes a habit in a fixed number of days.",
+    "The library wants a consensual procedure that improves access and reliable returns without surveillance or coercion."
+  ],
+  "tasks": [
+    {
+      "title": "Define and measure",
+      "chapters": [
+        1,
+        4
+      ],
+      "prompt": "Identify an operational outcome, denominator and likely access barrier.",
+      "answer": "Define a return to an accessible marked location within a stated period, record opportunities per loan and compare comparable windows. The locked door may block performance even when the skill exists."
+    },
+    {
+      "title": "Identify learning relations",
+      "chapters": [
+        2,
+        3,
+        5
+      ],
+      "prompt": "Distinguish the chime from tone removal and explain what schedule information is missing.",
+      "answer": "The chime is a possible predictive conditioned cue. Tone removal is negative reinforcement if it follows returns and increases them. A schedule requires the actual response-count or timing rule, not just the name of a reward."
+    },
+    {
+      "title": "Context and transfer",
+      "chapters": [
+        6,
+        7
+      ],
+      "prompt": "Interpret response return and plan a fair generalization check.",
+      "answer": "A context-related return is consistent with renewal; extinction need not erase prior learning. Use safe varied examples and boundary cases, checking delayed responding across relevant settings."
+    },
+    {
+      "title": "Observation and habit",
+      "chapters": [
+        8,
+        9
+      ],
+      "prompt": "How would you test learning from the demonstration and the habit promise?",
+      "answer": "Use an independent new shelving case after a delay. Explanation and imitation differ. Habit concerns cue-linked tendencies, and its development varies; no fixed day count establishes every routine."
+    },
+    {
+      "title": "A useful and ethical intervention",
+      "chapters": [
+        1,
+        4,
+        10
+      ],
+      "prompt": "Design a proportionate evaluation with participant agency.",
+      "answer": "Agree a meaningful goal, restore access, teach any missing skill and record repeated comparable outcomes with consent. Consider alternative changes, harms and acceptability. Check maintenance and transfer without withdrawing essential support."
+    }
+  ],
+  "rubric": [
+    {
+      "title": "Accurate distinctions",
+      "strong": "Explains the relevant concepts and separates observations from interpretations.",
+      "developing": "Adds labels without explaining how the evidence supports them."
+    },
+    {
+      "title": "Evidence and alternatives",
+      "strong": "Considers competing explanations and a comparison that could distinguish them.",
+      "developing": "Treats a plausible account, score or correlation as a settled cause."
+    },
+    {
+      "title": "Proportionate application",
+      "strong": "States limitations, respects the people involved and explains what would change the recommendation.",
+      "developing": "Overgeneralizes to individuals or makes a recommendation beyond the evidence."
+    }
+  ],
+  "followup": "Return tomorrow or in a week with an unfamiliar example. Compare the quality of your explanation, not just your confidence. This self-check does not certify professional competence or establish general mastery."
+}

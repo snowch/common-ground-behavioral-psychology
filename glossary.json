@@ -1,0 +1,112 @@
+{
+  "1": {
+    "Behaviour": "An action defined for observation.",
+    "Operational definition": "A stated procedure for identifying or measuring something.",
+    "Frequency": "Number of defined events in a period.",
+    "Baseline": "Measurement before a planned change.",
+    "Duration": "How long a defined event lasts.",
+    "Rate": "Event count per unit of time or opportunity.",
+    "Interobserver agreement": "Consistency between observers using the same definition.",
+    "Reactivity": "Behaviour changes because it is observed.",
+    "Confounding": "Another factor contributes to a pattern."
+  },
+  "2": {
+    "Classical conditioning": "Learning about relations between stimuli.",
+    "Unconditioned stimulus": "Stimulus eliciting a response without the relevant learning.",
+    "Unconditioned response": "Response elicited by that stimulus.",
+    "Conditioned stimulus": "Cue that acquires significance through learning.",
+    "Conditioned response": "Response elicited by a learned cue.",
+    "Acquisition": "Development of a learned response.",
+    "Contingency": "How one event changes the probability of another.",
+    "Contiguity": "Closeness in time or space.",
+    "Prediction error": "Difference between expected and observed outcome."
+  },
+  "3": {
+    "Operant conditioning": "Learning involving action-consequence relations.",
+    "Reinforcement": "A consequence that increases a behaviour.",
+    "Punishment": "A consequence that decreases a behaviour.",
+    "Positive reinforcement": "Adding a consequence that increases behaviour.",
+    "Negative reinforcement": "Removing a condition in a way that increases behaviour.",
+    "Positive punishment": "Adding a consequence that decreases behaviour.",
+    "Negative punishment": "Removing a consequence in a way that decreases behaviour.",
+    "Functional definition": "Classification based on an observed effect.",
+    "Unintended consequence": "An effect beyond the intended target."
+  },
+  "4": {
+    "Shaping": "Reinforcing successive approximations to a target.",
+    "Successive approximation": "A step closer to the target behaviour.",
+    "Criterion": "The defined standard for a response.",
+    "Task analysis": "Identifying components of a complex action.",
+    "Chaining": "Learning linked components of a sequence.",
+    "Prompt": "A cue or assistance supporting a response.",
+    "Skill deficit": "The required action is not yet learned.",
+    "Performance condition": "A factor affecting expression of a skill.",
+    "Accessibility": "Whether the task can be used under actual conditions."
+  },
+  "5": {
+    "Continuous reinforcement": "Reinforcing every eligible response.",
+    "Intermittent reinforcement": "Reinforcing some eligible responses.",
+    "Reinforcement schedule": "Rule relating responses and consequences.",
+    "Ratio schedule": "Availability depends on response count.",
+    "Interval schedule": "Availability depends on elapsed time.",
+    "Variable schedule": "Requirement varies around a pattern.",
+    "Delay": "Time between action and consequence.",
+    "Contingent feedback": "Information related to the action.",
+    "Competing consequence": "Another outcome affecting the same behaviour."
+  },
+  "6": {
+    "Extinction": "Reduced learned responding when a relevant outcome stops occurring.",
+    "New learning": "Acquisition of a changed relation.",
+    "Context": "Cues defining the setting or circumstances.",
+    "Spontaneous recovery": "Response return after time has passed.",
+    "Renewal": "Response return with a context change.",
+    "Reinstatement": "Response return after relevant outcome exposure.",
+    "Generalization": "Responding across related cues or contexts.",
+    "Maintenance": "Persistence of change over time.",
+    "Relapse": "Return of a previously reduced pattern."
+  },
+  "7": {
+    "Stimulus generalization": "Learned responding to related stimuli.",
+    "Generalization gradient": "Response pattern across stimulus differences.",
+    "Similarity": "Resemblance on a relevant dimension.",
+    "Stimulus discrimination": "Different responding to distinguishable cues.",
+    "Discriminative stimulus": "Cue signalling an action-consequence relation.",
+    "Stimulus control": "Behaviour varies systematically with antecedent conditions.",
+    "Multiple-exemplar training": "Practice with varied relevant examples.",
+    "Overgeneralization": "Extending a rule beyond its valid range.",
+    "Boundary condition": "Circumstance limiting a rule’s application."
+  },
+  "8": {
+    "Observational learning": "Learning by observing others and outcomes.",
+    "Model": "Person or representation being observed.",
+    "Imitation": "Reproducing an observed action.",
+    "Attention": "Selecting information for processing.",
+    "Retention": "Keeping information available over time.",
+    "Reproduction": "Ability to carry out the observed action.",
+    "Vicarious reinforcement": "Effects of seeing another’s reinforcement.",
+    "Outcome expectation": "Belief about likely consequences.",
+    "Self-efficacy": "Belief in capability for a specified action."
+  },
+  "9": {
+    "Habit": "Learned cue-linked tendency toward a response.",
+    "Automaticity": "Reduced need for deliberate control.",
+    "Intention": "A plan or commitment to act.",
+    "Environmental cue": "Feature that can prompt a response.",
+    "Friction": "Effort or steps required for an action.",
+    "Implementation intention": "A specified if-then action plan.",
+    "Self-monitoring": "Recording one’s own defined behaviour.",
+    "Maintenance": "Persistence across time.",
+    "Behavioural substitution": "Using another response in a relevant situation."
+  },
+  "10": {
+    "Antecedent": "Condition preceding an action.",
+    "Consequence": "Event following an action.",
+    "Functional assessment": "Examining relations between conditions and behaviour.",
+    "Single-case design": "Repeated measurement within a case under planned conditions.",
+    "Multiple baseline": "Staggering introduction across cases or behaviours.",
+    "Social validity": "Importance and acceptability of goals and procedures.",
+    "Consent": "Freely given informed agreement.",
+    "Coercion": "Pressure undermining a free choice.",
+    "Least restrictive approach": "Support that minimizes unnecessary constraint."
+  }
+}
